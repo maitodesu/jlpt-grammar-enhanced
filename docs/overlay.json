@@ -1,0 +1,966 @@
+{
+  "_readme": [
+    "Editorial decisions applied on top of docs/syllabus.json by scripts/build_syllabus.py.",
+    "The source list (jlptgrammarlist.neocities.org) has no entry for を, the direct",
+    "object particle, at any level, and is missing こそあど, question words, adjective",
+    "conjugation, ましょう/ませんか and んです from N5. Its own changelog shows it was",
+    "assembled over 28 days in 2020 and sorted 'alphanumerically'. It is therefore used",
+    "as a starting skeleton and a source of sense-disambiguation glosses, not as a",
+    "syllabus authority. Scope decisions cross-checked against Bunpro, JLPT Sensei and",
+    "Shin Kanzen Master. Every deviation from the source is recorded here."
+  ],
+  "drop": [
+    "Verb Conjugation"
+  ],
+  "move": {
+    "ほしい": "n5",
+    "すぎる": "n5",
+    "なくてはいけない / なくてはならない": "n5",
+    "てからでないと": "n3",
+    "だけでなく": "n3",
+    "ことから": "n3",
+    "に従って": "n3",
+    "ようがない / ようもない": "n3",
+    "上で": "n3",
+    "際に": "n3",
+    "ばかりに": "n3",
+    "ばかりだ": "n3",
+    "ぶりに": "n3",
+    "ごとに": "n3",
+    "か何か": "n3",
+    "を通じて / を通して": "n3",
+    "をこめて": "n3",
+    "ことになっている": "n3"
+  },
+  "relabel": {
+    "ことに": {
+      "gloss": "to my surprise / delight (speaker's reaction to what follows)",
+      "why": "Source glossed this '-ly', which describes the unrelated adverbial 〜ことに. The pattern is 〜ことに(は) and mainstream references place it at N2, but it is kept at N3 here since the surrounding cluster is taught at N3."
+    },
+    "ということ": {
+      "term": "ということだ / とのことだ",
+      "gloss": "I hear that; word is that (reported information)",
+      "why": "The N3 entry duplicated the N4 nominaliser ということ. The genuine N3 point is the hearsay form, which is what the source's own gloss describes."
+    },
+    "が#1": {
+      "gloss": "marks the subject; singles out which one",
+      "why": "Source gloss was 'as for (identifies something)', which is a gloss of は. Left uncorrected this produces a が page that contradicts the は page on the single most important contrast in beginner Japanese."
+    },
+    "しか○○ない": {
+      "gloss": "only; nothing but (with material between しか and ない)",
+      "why": "Disambiguated from N3 しかない 'have no choice but', which is a different pattern."
+    }
+  },
+  "merge": [
+    {
+      "from": [
+        "だろう#1",
+        "だろう#2",
+        "でしょう#1",
+        "でしょう#2"
+      ],
+      "term": "だろう・でしょう",
+      "gloss": "probably; ... right? (conjecture, and seeking agreement)",
+      "level": "n5",
+      "why": "Four source pages for one form. だろう/でしょう is a plain/polite alternation, and sense 1 vs 2 is falling vs rising intonation. Splitting them hides both relationships."
+    },
+    {
+      "from": [
+        "ほうがいい#1",
+        "ほうがいい#2"
+      ],
+      "term": "ほうがいい",
+      "gloss": "it'd be better to (and, negated, better not to)",
+      "level": "n5",
+      "why": "Sense 2 is sense 1 negated. That is conjugation, not a second grammar point."
+    }
+  ],
+  "split": [
+    {
+      "from": "に / へ",
+      "why": "Two different particles sharing one gloss ('to'). They overlap for destination and diverge everywhere else; a single page cannot teach the difference it exists to teach.",
+      "into": [
+        {
+          "term": "に",
+          "gloss": "destination, time, recipient, and location of existence"
+        },
+        {
+          "term": "へ",
+          "gloss": "direction - toward (and its use in set phrases)"
+        }
+      ]
+    }
+  ],
+  "add": {
+    "n5": [
+      {
+        "term": "を",
+        "gloss": "marks the direct object",
+        "why": "Absent from all 711 source entries. Without it a learner cannot form a transitive sentence."
+      },
+      {
+        "term": "ね",
+        "gloss": "seeking agreement; softening (sentence-final)"
+      },
+      {
+        "term": "よ",
+        "gloss": "asserting; telling the listener something new (sentence-final)"
+      },
+      {
+        "term": "ます・ません・ました・ませんでした",
+        "gloss": "the polite verb endings",
+        "why": "The source covered the whole conjugation system with one stub page linking to another website."
+      },
+      {
+        "term": "て-form",
+        "gloss": "the connective form - how to make it, and why everything needs it"
+      },
+      {
+        "term": "た-form / plain past",
+        "gloss": "plain past, and the た-form other patterns attach to"
+      },
+      {
+        "term": "ない-form",
+        "gloss": "plain negative, and the ない-form other patterns attach to"
+      },
+      {
+        "term": "い-adjective conjugation",
+        "gloss": "くない, かった, くなかった, くて"
+      },
+      {
+        "term": "な-adjective conjugation",
+        "gloss": "attributive な, じゃない, だった, で"
+      },
+      {
+        "term": "じゃない・ではない",
+        "gloss": "negative copula - is not"
+      },
+      {
+        "term": "だった・でした",
+        "gloss": "past copula - was"
+      },
+      {
+        "term": "noun-modifying clauses",
+        "gloss": "putting a whole clause in front of a noun"
+      },
+      {
+        "term": "これ・それ・あれ・どれ",
+        "gloss": "this one, that one, that one over there, which one"
+      },
+      {
+        "term": "この・その・あの・どの",
+        "gloss": "this ~, that ~, that ~ over there, which ~"
+      },
+      {
+        "term": "ここ・そこ・あそこ・どこ",
+        "gloss": "here, there, over there, where"
+      },
+      {
+        "term": "question words",
+        "gloss": "何・誰・いつ・どこ・どう・どうして・なぜ・どんな・いくら"
+      },
+      {
+        "term": "何か・誰か・どこか",
+        "gloss": "something, someone, somewhere"
+      },
+      {
+        "term": "何も・誰も・どこも",
+        "gloss": "nothing, no one, nowhere (with a negative verb)"
+      },
+      {
+        "term": "ましょう",
+        "gloss": "let's"
+      },
+      {
+        "term": "ましょうか",
+        "gloss": "shall I? shall we?"
+      },
+      {
+        "term": "ませんか",
+        "gloss": "won't you? how about it? (inviting)"
+      },
+      {
+        "term": "をください",
+        "gloss": "please give me ~"
+      },
+      {
+        "term": "んです・のです",
+        "gloss": "explaining, or asking for an explanation"
+      },
+      {
+        "term": "たあとで",
+        "gloss": "after doing"
+      },
+      {
+        "term": "まだ○○ていません",
+        "gloss": "haven't done it yet"
+      },
+      {
+        "term": "のなかで○○がいちばん",
+        "gloss": "of all ~, ~ is the most"
+      },
+      {
+        "term": "あげる・くれる・もらう",
+        "gloss": "give (away), give (to me), receive",
+        "why": "Source teaches てあげる/てくれる/てもらう at N4 without ever introducing the underlying verbs."
+      },
+      {
+        "term": "counters",
+        "gloss": "counting things: 〜つ, 〜人, 〜本, 〜枚, 〜回 and friends"
+      },
+      {
+        "term": "ずつ",
+        "gloss": "~ each; ~ at a time"
+      },
+      {
+        "term": "と同じ",
+        "gloss": "the same as ~"
+      },
+      {
+        "term": "お・ご",
+        "gloss": "the politeness prefix"
+      },
+      {
+        "term": "はどうですか",
+        "gloss": "how about ~? how is ~?"
+      }
+    ],
+    "n4": [
+      {
+        "term": "命令形",
+        "gloss": "the imperative - do it"
+      },
+      {
+        "term": "お○○する",
+        "gloss": "humble form - lowering yourself",
+        "why": "Source has the honorific お○○になる but not its humble counterpart, which leaves keigo taught in half."
+      },
+      {
+        "term": "敬語の動詞",
+        "gloss": "the set keigo verbs: 召し上がる, ご覧になる, 伺う, 申す, 拝見する, 存じる, おる, 参る"
+      },
+      {
+        "term": "させてください",
+        "gloss": "please let me ~"
+      },
+      {
+        "term": "ようとする",
+        "gloss": "try to ~; be about to ~"
+      },
+      {
+        "term": "って",
+        "gloss": "casual quotative - they said ~; ~, you know"
+      },
+      {
+        "term": "AとBとどちらが",
+        "gloss": "which is more ~, A or B?",
+        "why": "Source teaches the answer form (よりのほうが) but not the question form."
+      },
+      {
+        "term": "どうしたらいいですか",
+        "gloss": "what should I do?"
+      },
+      {
+        "term": "のは○○だ",
+        "gloss": "the one who/that ~ is ~ (cleft sentence)"
+      },
+      {
+        "term": "は vs が",
+        "gloss": "contrast page - choosing between topic and subject"
+      },
+      {
+        "term": "ないで vs なくて",
+        "gloss": "contrast page - the two negative て-forms"
+      },
+      {
+        "term": "てやる",
+        "gloss": "do for someone (blunt, or downward)"
+      },
+      {
+        "term": "ように言う",
+        "gloss": "tell someone to ~"
+      },
+      {
+        "term": "ないといけない",
+        "gloss": "have to; must"
+      },
+      {
+        "term": "なくちゃ・なきゃ",
+        "gloss": "gotta (casual contractions of the obligation forms)"
+      },
+      {
+        "term": "てもらえませんか・てくれませんか",
+        "gloss": "could you ~ for me? (polite requests)"
+      }
+    ],
+    "n3": [
+      {
+        "term": "ことにしている",
+        "gloss": "make a point of ~ing (a standing personal rule)"
+      },
+      {
+        "term": "ようにしている",
+        "gloss": "try to make sure I ~ (an ongoing effort)"
+      },
+      {
+        "term": "つもりだった",
+        "gloss": "had intended to (but didn't)"
+      },
+      {
+        "term": "はずだった",
+        "gloss": "was supposed to (but wasn't)"
+      },
+      {
+        "term": "てばかりいる",
+        "gloss": "do nothing but ~"
+      },
+      {
+        "term": "たものだ",
+        "gloss": "used to ~ (nostalgic recollection)"
+      },
+      {
+        "term": "ないうちに",
+        "gloss": "before ~ happens; while ~ still hasn't"
+      },
+      {
+        "term": "ば○○のに",
+        "gloss": "if only ~ (counterfactual regret)"
+      },
+      {
+        "term": "から○○にかけて",
+        "gloss": "from ~ through to ~ (a stretch of time or space)"
+      },
+      {
+        "term": "のでしょうか",
+        "gloss": "I wonder if ~ (softened question)"
+      },
+      {
+        "term": "たて",
+        "gloss": "freshly ~ed; just ~ed"
+      },
+      {
+        "term": "させてもらう・ていただく",
+        "gloss": "humbly receiving permission to do"
+      },
+      {
+        "term": "数量は",
+        "gloss": "at least ~ (は after a quantity)"
+      },
+      {
+        "term": "敬語",
+        "gloss": "keigo overview - 尊敬語, 謙譲語, 丁寧語 as one system",
+        "why": "Shin Kanzen Master N3 has a keigo chapter; the source list has none at any level."
+      },
+      {
+        "term": "込む・合う・直す・慣れる",
+        "gloss": "compound verb suffixes"
+      }
+    ]
+  },
+  "adverbs": [
+    "いちばん",
+    "まだ",
+    "もう",
+    "急に",
+    "ぜんぜん",
+    "そんなに",
+    "それでも",
+    "おそらく",
+    "たとえば",
+    "確かに",
+    "つまり",
+    "なるべく",
+    "まるで",
+    "めったに",
+    "もしかしたら",
+    "ところで",
+    "だけど",
+    "ふと"
+  ],
+  "order": {
+    "n5": [
+      {
+        "title": "Saying what something is",
+        "terms": [
+          "だ / です",
+          "じゃない・ではない",
+          "だった・でした",
+          "は",
+          "も",
+          "か"
+        ]
+      },
+      {
+        "title": "Who does what",
+        "terms": [
+          "が",
+          "を",
+          "ね",
+          "よ"
+        ]
+      },
+      {
+        "title": "Pointing at things",
+        "terms": [
+          "これ・それ・あれ・どれ",
+          "この・その・あの・どの",
+          "ここ・そこ・あそこ・どこ",
+          "question words",
+          "何か・誰か・どこか",
+          "何も・誰も・どこも"
+        ]
+      },
+      {
+        "title": "Existence",
+        "terms": [
+          "がある",
+          "がいる"
+        ]
+      },
+      {
+        "title": "Verb forms",
+        "terms": [
+          "ます・ません・ました・ませんでした",
+          "する",
+          "て-form",
+          "た-form / plain past",
+          "ない-form"
+        ]
+      },
+      {
+        "title": "Adjectives",
+        "terms": [
+          "い-adjective conjugation",
+          "な-adjective conjugation"
+        ]
+      },
+      {
+        "title": "Where, when, how",
+        "terms": [
+          "に",
+          "へ",
+          "で",
+          "から",
+          "まで",
+          "と"
+        ]
+      },
+      {
+        "title": "Joining sentences",
+        "terms": [
+          "や",
+          "ので",
+          "けど / けれども",
+          "てから",
+          "前に",
+          "たあとで"
+        ]
+      },
+      {
+        "title": "Describing in more detail",
+        "terms": [
+          "の",
+          "noun-modifying clauses",
+          "counters",
+          "ずつ"
+        ]
+      },
+      {
+        "title": "Wanting and liking",
+        "terms": [
+          "たい",
+          "ほしい",
+          "のが好き",
+          "のが上手",
+          "のが下手"
+        ]
+      },
+      {
+        "title": "Asking, offering, inviting",
+        "terms": [
+          "てください",
+          "をください",
+          "ないでください",
+          "ましょう",
+          "ましょうか",
+          "ませんか",
+          "はどうですか"
+        ]
+      },
+      {
+        "title": "Permission and prohibition",
+        "terms": [
+          "てもいい",
+          "てはいけない",
+          "な",
+          "なくてはいけない / なくてはならない"
+        ]
+      },
+      {
+        "title": "Advice, intention, guessing",
+        "terms": [
+          "ほうがいい",
+          "つもり",
+          "だろう・でしょう",
+          "んです・のです"
+        ]
+      },
+      {
+        "title": "Ongoing and completed",
+        "terms": [
+          "ている",
+          "まだ",
+          "まだ○○ていません",
+          "もう",
+          "たことがある"
+        ]
+      },
+      {
+        "title": "Amount and degree",
+        "terms": [
+          "くらい / ぐらい",
+          "だけ",
+          "すぎる",
+          "と同じ"
+        ]
+      },
+      {
+        "title": "Comparing",
+        "terms": [
+          "いちばん",
+          "のなかで○○がいちばん",
+          "より○○のほうが○○"
+        ]
+      },
+      {
+        "title": "Change and choice",
+        "terms": [
+          "なる",
+          "にする",
+          "にいく"
+        ]
+      },
+      {
+        "title": "Giving and receiving",
+        "terms": [
+          "あげる・くれる・もらう",
+          "お・ご"
+        ]
+      }
+    ],
+    "n4": [
+      {
+        "title": "Choosing は or が, and joining ideas",
+        "terms": [
+          "は vs が",
+          "し",
+          "たり○○たり",
+          "ながら",
+          "ても",
+          "のに",
+          "それでも"
+        ]
+      },
+      {
+        "title": "Adding another verb after て",
+        "terms": [
+          "Transitive & Intransitive Verbs",
+          "てある",
+          "てみる",
+          "ておく / とく",
+          "てしまう / ちゃう",
+          "ていく",
+          "てくる"
+        ]
+      },
+      {
+        "title": "When things happen, and how far along",
+        "terms": [
+          "とき",
+          "後で",
+          "までに",
+          "ごろ",
+          "おきに",
+          "始める",
+          "出す",
+          "急に",
+          "続ける",
+          "終わる",
+          "ているところ",
+          "ところ",
+          "たところ",
+          "たばかり"
+        ]
+      },
+      {
+        "title": "Doing things for each other, and asking favours",
+        "terms": [
+          "てあげる",
+          "てくれる",
+          "てもらう",
+          "てやる",
+          "てほしい",
+          "てもらえませんか・てくれませんか",
+          "ていただけませんか",
+          "てすみません",
+          "てよかった"
+        ]
+      },
+      {
+        "title": "Can do, made to do, told to do",
+        "terms": [
+          "ことができる",
+          "られる",
+          "させる",
+          "させられる",
+          "させてください",
+          "命令形",
+          "なさい",
+          "ように言う"
+        ]
+      },
+      {
+        "title": "If and when",
+        "terms": [
+          "と",
+          "ば",
+          "たら",
+          "なら",
+          "場合は",
+          "たらどう",
+          "どうしたらいいですか"
+        ]
+      },
+      {
+        "title": "Without doing, having to, and not having to",
+        "terms": [
+          "ないで",
+          "ないで vs なくて",
+          "なければいけない / なければならない",
+          "ないといけない",
+          "なくちゃ・なきゃ",
+          "なくてもいい",
+          "必要がある",
+          "必要"
+        ]
+      },
+      {
+        "title": "Thinking, wondering, and asking",
+        "terms": [
+          "と思う",
+          "って",
+          "かどうか",
+          "かもしれない",
+          "はずだ",
+          "はずがない",
+          "かな",
+          "かしら",
+          "かい",
+          "じゃないか"
+        ]
+      },
+      {
+        "title": "How things look, and what you hear",
+        "terms": [
+          "ようだ",
+          "ように/ような",
+          "のように / のような",
+          "みたい",
+          "みたいに/みたいな",
+          "そうだ",
+          "そうに / そうな",
+          "らしい"
+        ]
+      },
+      {
+        "title": "Plans, decisions, and intentions",
+        "terms": [
+          "Volitional Form",
+          "ようと思う",
+          "ようとする",
+          "よていだ",
+          "ことにする",
+          "ことになる",
+          "ようにする",
+          "ようになる"
+        ]
+      },
+      {
+        "title": "Comparing, listing, and how much",
+        "terms": [
+          "より",
+          "の中で",
+          "AとBとどちらが",
+          "など",
+          "とか○○とか",
+          "でも",
+          "ばかり",
+          "だけで",
+          "しか○○ない",
+          "あまり○○ない",
+          "ぜんぜん",
+          "そんなに"
+        ]
+      },
+      {
+        "title": "Turning words into other words",
+        "terms": [
+          "やすい",
+          "にくい",
+          "さ",
+          "方",
+          "がる",
+          "たがる",
+          "がする",
+          "のは○○だ"
+        ]
+      },
+      {
+        "title": "Polite, humble, and honorific speech",
+        "terms": [
+          "お○○になる",
+          "お○○ください",
+          "いらっしゃる",
+          "なさる",
+          "敬語の動詞",
+          "お○○する",
+          "いたす",
+          "ございます",
+          "でございます"
+        ]
+      }
+    ],
+    "n3": [
+      {
+        "title": "While it's happening",
+        "terms": [
+          "うちに",
+          "ないうちに",
+          "間 / 間に",
+          "中",
+          "最中に",
+          "途中に / 途中で"
+        ]
+      },
+      {
+        "title": "One thing after another",
+        "terms": [
+          "たとたん",
+          "上で",
+          "て初めて",
+          "てからでないと",
+          "ついでに",
+          "際に",
+          "たびに",
+          "ごとに",
+          "から○○にかけて",
+          "にかけて",
+          "ぶりに"
+        ]
+      },
+      {
+        "title": "Reasons and results",
+        "terms": [
+          "おかげで",
+          "せいで",
+          "ために",
+          "もの",
+          "ばかりに",
+          "ことから",
+          "その結果",
+          "た結果 / の結果",
+          "なぜなら / なぜかというと"
+        ]
+      },
+      {
+        "title": "Supposing, hoping, and looking back",
+        "terms": [
+          "としたら / とすれば",
+          "さえ○○ば / さえすれば / さえいれば",
+          "ばいい",
+          "たらいい / といい",
+          "ば○○のに",
+          "ばよかった",
+          "つもりだった",
+          "はずだった"
+        ]
+      },
+      {
+        "title": "Even if, even though",
+        "terms": [
+          "たとえ○○ても",
+          "いくら○○ても / いくら○○でも",
+          "どんなに○○ても",
+          "にしても",
+          "といっても",
+          "ところが",
+          "どころか",
+          "くせに",
+          "ながら / いながら / ながらも",
+          "にしては",
+          "わりに"
+        ]
+      },
+      {
+        "title": "Comparing, and matters of degree",
+        "terms": [
+          "につれて",
+          "に従って",
+          "ば○○ほど",
+          "ほど",
+          "ほど○○ない",
+          "に比べて",
+          "一方だ",
+          "ばかりだ"
+        ]
+      },
+      {
+        "title": "Only, even, and how much",
+        "terms": [
+          "だけ",
+          "きり",
+          "さえ",
+          "こそ",
+          "数量は",
+          "くらい / ぐらい",
+          "あまり",
+          "あまりに",
+          "ことか",
+          "ことに"
+        ]
+      },
+      {
+        "title": "How sure are you, and how do you know",
+        "terms": [
+          "によると / によれば",
+          "ということだ / とのことだ",
+          "に違いない",
+          "そうもない",
+          "ような気がする",
+          "ふりをする",
+          "わけだ",
+          "わけがない",
+          "わけではない",
+          "とは限らない",
+          "ないことはない",
+          "のでしょうか"
+        ]
+      },
+      {
+        "title": "Putting it another way, and adding on",
+        "terms": [
+          "というのは",
+          "というと",
+          "というより",
+          "とおり",
+          "一方で",
+          "だけでなく",
+          "ばかりでなく",
+          "か何か",
+          "なんか / なんて",
+          "っけ"
+        ]
+      },
+      {
+        "title": "Trying, having to, and having no choice",
+        "terms": [
+          "とする",
+          "としない / とはしない",
+          "べき",
+          "べきではない",
+          "こと",
+          "ことだ",
+          "ことはない",
+          "しかない",
+          "わけにはいかない",
+          "てもかまわない / てもかまいません",
+          "てごらん",
+          "ずに",
+          "ずにはいられない"
+        ]
+      },
+      {
+        "title": "Habits, and how things used to be",
+        "terms": [
+          "ものだ",
+          "たものだ",
+          "ことがある",
+          "ように",
+          "ようにしている",
+          "ことにしている",
+          "ことになっている"
+        ]
+      },
+      {
+        "title": "Word endings that describe a state",
+        "terms": [
+          "っぽい",
+          "ぎみ",
+          "がち",
+          "だらけ",
+          "まま",
+          "っぱなし",
+          "てばかりいる",
+          "かけ",
+          "たて",
+          "きる",
+          "切れない",
+          "がたい",
+          "ようがない / ようもない",
+          "込む・合う・直す・慣れる"
+        ]
+      },
+      {
+        "title": "Talking about a topic, and who it's for",
+        "terms": [
+          "について",
+          "に関する / に関して",
+          "において / における",
+          "に対して",
+          "にとって",
+          "として",
+          "向き",
+          "向け"
+        ]
+      },
+      {
+        "title": "Instead of, along with, by means of",
+        "terms": [
+          "によって / による",
+          "にかわって / にかわり",
+          "代わりに",
+          "と共に",
+          "を通じて / を通して",
+          "を中心に",
+          "をはじめ / をはじめとする",
+          "をこめて"
+        ]
+      },
+      {
+        "title": "Useful adverbs and connectors",
+        "terms": [
+          "だけど",
+          "ところで",
+          "つまり",
+          "たとえば",
+          "確かに",
+          "おそらく",
+          "もしかしたら",
+          "まるで",
+          "なるべく",
+          "めったに",
+          "決して○○ない",
+          "べつに○○ない / べつに○○じゃない",
+          "ふと"
+        ]
+      },
+      {
+        "title": "Polite and humble speech",
+        "terms": [
+          "敬語",
+          "させてもらう・ていただく"
+        ]
+      }
+    ]
+  }
+}

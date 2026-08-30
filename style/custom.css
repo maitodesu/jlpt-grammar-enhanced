@@ -1,0 +1,217 @@
+@import url("https://fonts.googleapis.com/css2?family=Geist:wght@100..900&family=Geist+Mono:wght@100..900&family=Noto+Sans+JP:wght@100..900&display=swap");
+
+/* ---------------------------------------------------------------------------
+   Typography
+   Geist for Latin text, Noto Sans JP for Japanese. Geist ships no CJK
+   coverage, so the browser falls through to Noto Sans JP for kana and kanji.
+   --------------------------------------------------------------------------- */
+
+:root {
+  --mono-font: "Geist Mono", "Source Code Pro", Consolas, Menlo, monospace;
+  /* Accent used to spotlight the grammar point inside example blocks. */
+  --jp-accent: #e0a53f;
+}
+
+.light,
+.rust,
+html:not(.js) {
+  --jp-accent: #a55f00;
+}
+
+body {
+  font-family: "Geist", "Noto Sans JP", "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.content {
+  line-height: 1.75;
+}
+
+.content p {
+  margin: 1.1em 0;
+}
+
+.content h1,
+.content h2,
+.content h3,
+.content h4 {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.25;
+}
+
+.content h1 {
+  margin-block: 0.2em 0.9em;
+  padding-bottom: 0.35em;
+  border-bottom: 1px solid var(--table-border-color);
+}
+
+.content h2 {
+  margin-block: 2em 0.7em;
+}
+
+.content a {
+  text-underline-offset: 0.2em;
+}
+
+/* ---------------------------------------------------------------------------
+   Example blocks
+   Every <pre> in this book is a Japanese example, not source code — there are
+   no fenced code blocks. Style it as a quoted specimen rather than a terminal.
+   --------------------------------------------------------------------------- */
+
+pre {
+  display: block;
+  width: auto;
+  margin: 1.6em 0;
+  padding: 1em 1.25em;
+  background: var(--quote-bg);
+  border: 1px solid var(--quote-border);
+  border-left: 3px solid var(--jp-accent);
+  border-radius: 6px;
+  font-family: "Geist", "Noto Sans JP", "Open Sans", sans-serif;
+  font-size: 1.05em;
+  line-height: 1.9;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+/* The bolded fragment is the grammar point the lesson is teaching. */
+pre b {
+  color: var(--jp-accent);
+  font-weight: 700;
+}
+
+/* ---------------------------------------------------------------------------
+   Furigana
+   --------------------------------------------------------------------------- */
+
+ruby {
+  ruby-position: over;
+}
+
+rt {
+  font-size: 0.55em;
+  font-weight: 400;
+  opacity: 0.75;
+  user-select: none;
+}
+
+/* ---------------------------------------------------------------------------
+   Tables
+   --------------------------------------------------------------------------- */
+
+.content table {
+  border-collapse: collapse;
+  margin: 1.6em 0;
+}
+
+.content table thead th {
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid var(--jp-accent);
+  font-weight: 600;
+  font-size: 0.85em;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+.content table td,
+.content table th {
+  padding: 0.55em 0.9em;
+  border: none;
+  border-bottom: 1px solid var(--table-border-color);
+}
+
+.content table tbody tr:nth-child(2n) {
+  background: transparent;
+}
+
+.content table tbody tr:hover {
+  background: var(--quote-bg);
+}
+
+/* ---------------------------------------------------------------------------
+   Chrome
+   --------------------------------------------------------------------------- */
+
+.content img {
+  border-radius: 8px;
+}
+
+.chapter li.chapter-item {
+  line-height: 1.5;
+  margin-block: 0.15em;
+}
+
+.chapter li a.active {
+  font-weight: 600;
+}
+
+/* ---------------------------------------------------------------------------
+   Callouts
+   Tae Kim boxes two distinct things: conjugation *rules* (do X to get Y) and
+   *notes* (an aside you can skip). They read differently, so they look
+   different — the rule is the load-bearing one and carries the accent.
+   --------------------------------------------------------------------------- */
+
+.content .rule,
+.content .note {
+  margin: 1.6em 0;
+  padding: 0.9em 1.25em;
+  border-radius: 6px;
+  border: 1px solid var(--quote-border);
+}
+
+.content .rule {
+  background: var(--quote-bg);
+  border-left: 3px solid var(--jp-accent);
+}
+
+/* First line of a rule box is its caption. */
+.content .rule > p:first-child strong {
+  display: block;
+  margin-bottom: 0.35em;
+  color: var(--jp-accent);
+  font-size: 0.82em;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.content .note {
+  background: color-mix(in srgb, var(--fg) 4%, transparent);
+  border-left: 3px solid color-mix(in srgb, var(--fg) 35%, transparent);
+}
+
+.content .note > p:first-child strong:first-child {
+  color: var(--fg);
+  opacity: 0.75;
+  font-size: 0.82em;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.content .rule > :first-child,
+.content .note > :first-child {
+  margin-top: 0;
+}
+
+.content .rule > :last-child,
+.content .note > :last-child {
+  margin-bottom: 0;
+}
+
+.content .rule ul,
+.content .rule ol {
+  margin-bottom: 0;
+}
+
+/* Vocabulary tables: the Word column is Japanese and wants the CJK leading. */
+.content table td:first-child {
+  font-size: 1.05em;
+  line-height: 1.9;
+  white-space: nowrap;
+}

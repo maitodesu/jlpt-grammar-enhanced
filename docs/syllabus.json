@@ -1,0 +1,5700 @@
+{
+  "n5": [
+    {
+      "term": "Verb Conjugation",
+      "sense": null,
+      "gloss": "",
+      "slug": "Verb-Conjugation",
+      "topic_page": true,
+      "source_index": 1
+    },
+    {
+      "term": "いちばん",
+      "sense": null,
+      "gloss": "the most",
+      "slug": "いちばん",
+      "topic_page": false,
+      "source_index": 2
+    },
+    {
+      "term": "が",
+      "sense": 1,
+      "gloss": "as for (identifies something)",
+      "slug": "が-1",
+      "topic_page": false,
+      "source_index": 3
+    },
+    {
+      "term": "が",
+      "sense": 2,
+      "gloss": "but; however",
+      "slug": "が-2",
+      "topic_page": false,
+      "source_index": 4
+    },
+    {
+      "term": "か",
+      "sense": 1,
+      "gloss": "or (A or B; choice between 2 objects)",
+      "slug": "か-1",
+      "topic_page": false,
+      "source_index": 5
+    },
+    {
+      "term": "か",
+      "sense": 2,
+      "gloss": "question particle",
+      "slug": "か-2",
+      "topic_page": false,
+      "source_index": 6
+    },
+    {
+      "term": "がある",
+      "sense": null,
+      "gloss": "there is (used for non-living things)",
+      "slug": "がある",
+      "topic_page": false,
+      "source_index": 7
+    },
+    {
+      "term": "がいる",
+      "sense": null,
+      "gloss": "there is (used for living things)",
+      "slug": "がいる",
+      "topic_page": false,
+      "source_index": 8
+    },
+    {
+      "term": "から",
+      "sense": 1,
+      "gloss": "because; since",
+      "slug": "から-1",
+      "topic_page": false,
+      "source_index": 9
+    },
+    {
+      "term": "から",
+      "sense": 2,
+      "gloss": "from",
+      "slug": "から-2",
+      "topic_page": false,
+      "source_index": 10
+    },
+    {
+      "term": "くらい / ぐらい",
+      "sense": null,
+      "gloss": "about; approximately",
+      "slug": "くらい-ぐらい",
+      "topic_page": false,
+      "source_index": 11
+    },
+    {
+      "term": "けど / けれども",
+      "sense": null,
+      "gloss": "but; although",
+      "slug": "けど-けれども",
+      "topic_page": false,
+      "source_index": 12
+    },
+    {
+      "term": "する",
+      "sense": null,
+      "gloss": "to do",
+      "slug": "する",
+      "topic_page": false,
+      "source_index": 13
+    },
+    {
+      "term": "だ / です",
+      "sense": null,
+      "gloss": "there is; this is",
+      "slug": "だ-です",
+      "topic_page": false,
+      "source_index": 14
+    },
+    {
+      "term": "たい",
+      "sense": null,
+      "gloss": "want to",
+      "slug": "たい",
+      "topic_page": false,
+      "source_index": 15
+    },
+    {
+      "term": "だけ",
+      "sense": null,
+      "gloss": "only; just",
+      "slug": "だけ",
+      "topic_page": false,
+      "source_index": 16
+    },
+    {
+      "term": "たことがある",
+      "sense": null,
+      "gloss": "have done before",
+      "slug": "たことがある",
+      "topic_page": false,
+      "source_index": 17
+    },
+    {
+      "term": "だろう",
+      "sense": 1,
+      "gloss": "probably",
+      "slug": "だろう-1",
+      "topic_page": false,
+      "source_index": 18
+    },
+    {
+      "term": "だろう",
+      "sense": 2,
+      "gloss": "isn't it?; right?",
+      "slug": "だろう-2",
+      "topic_page": false,
+      "source_index": 19
+    },
+    {
+      "term": "つもり",
+      "sense": null,
+      "gloss": "plan to; intend to",
+      "slug": "つもり",
+      "topic_page": false,
+      "source_index": 20
+    },
+    {
+      "term": "で",
+      "sense": 1,
+      "gloss": "at; in",
+      "slug": "で-1",
+      "topic_page": false,
+      "source_index": 21
+    },
+    {
+      "term": "で",
+      "sense": 2,
+      "gloss": "with; by",
+      "slug": "で-2",
+      "topic_page": false,
+      "source_index": 22
+    },
+    {
+      "term": "ている",
+      "sense": null,
+      "gloss": "is / are / am doing",
+      "slug": "ている",
+      "topic_page": false,
+      "source_index": 23
+    },
+    {
+      "term": "てから",
+      "sense": null,
+      "gloss": "after doing",
+      "slug": "てから",
+      "topic_page": false,
+      "source_index": 24
+    },
+    {
+      "term": "てください",
+      "sense": null,
+      "gloss": "please do…",
+      "slug": "てください",
+      "topic_page": false,
+      "source_index": 25
+    },
+    {
+      "term": "でしょう",
+      "sense": 1,
+      "gloss": "probably",
+      "slug": "でしょう-1",
+      "topic_page": false,
+      "source_index": 26
+    },
+    {
+      "term": "でしょう",
+      "sense": 2,
+      "gloss": "isn't it?; right?",
+      "slug": "でしょう-2",
+      "topic_page": false,
+      "source_index": 27
+    },
+    {
+      "term": "てはいけない",
+      "sense": null,
+      "gloss": "must not; may not",
+      "slug": "てはいけない",
+      "topic_page": false,
+      "source_index": 28
+    },
+    {
+      "term": "てもいい",
+      "sense": null,
+      "gloss": "is okay; is alright to",
+      "slug": "てもいい",
+      "topic_page": false,
+      "source_index": 29
+    },
+    {
+      "term": "と",
+      "sense": 1,
+      "gloss": "and",
+      "slug": "と-1",
+      "topic_page": false,
+      "source_index": 30
+    },
+    {
+      "term": "と",
+      "sense": 2,
+      "gloss": "with",
+      "slug": "と-2",
+      "topic_page": false,
+      "source_index": 31
+    },
+    {
+      "term": "な",
+      "sense": null,
+      "gloss": "don't do",
+      "slug": "な",
+      "topic_page": false,
+      "source_index": 32
+    },
+    {
+      "term": "ないでください",
+      "sense": null,
+      "gloss": "please don't",
+      "slug": "ないでください",
+      "topic_page": false,
+      "source_index": 33
+    },
+    {
+      "term": "なる",
+      "sense": null,
+      "gloss": "to become",
+      "slug": "なる",
+      "topic_page": false,
+      "source_index": 34
+    },
+    {
+      "term": "に / へ",
+      "sense": null,
+      "gloss": "to",
+      "slug": "に-へ",
+      "topic_page": false,
+      "source_index": 35
+    },
+    {
+      "term": "に",
+      "sense": null,
+      "gloss": "in; at; to; for",
+      "slug": "に",
+      "topic_page": false,
+      "source_index": 36
+    },
+    {
+      "term": "にいく",
+      "sense": null,
+      "gloss": "to go, in order to do...",
+      "slug": "にいく",
+      "topic_page": false,
+      "source_index": 37
+    },
+    {
+      "term": "にする",
+      "sense": null,
+      "gloss": "to decide on",
+      "slug": "にする",
+      "topic_page": false,
+      "source_index": 38
+    },
+    {
+      "term": "の",
+      "sense": 1,
+      "gloss": "of (indicates possession)",
+      "slug": "の-1",
+      "topic_page": false,
+      "source_index": 39
+    },
+    {
+      "term": "の",
+      "sense": 2,
+      "gloss": "(turns verbs into nouns)",
+      "slug": "の-2",
+      "topic_page": false,
+      "source_index": 40
+    },
+    {
+      "term": "のが下手",
+      "sense": null,
+      "gloss": "to be bad at",
+      "slug": "のが下手",
+      "topic_page": false,
+      "source_index": 41
+    },
+    {
+      "term": "のが上手",
+      "sense": null,
+      "gloss": "to be good at",
+      "slug": "のが上手",
+      "topic_page": false,
+      "source_index": 42
+    },
+    {
+      "term": "のが好き",
+      "sense": null,
+      "gloss": "like / love doing",
+      "slug": "のが好き",
+      "topic_page": false,
+      "source_index": 43
+    },
+    {
+      "term": "ので",
+      "sense": null,
+      "gloss": "because of; the reason is that",
+      "slug": "ので",
+      "topic_page": false,
+      "source_index": 44
+    },
+    {
+      "term": "は",
+      "sense": null,
+      "gloss": "as for (introduces something)",
+      "slug": "は",
+      "topic_page": false,
+      "source_index": 45
+    },
+    {
+      "term": "ほうがいい",
+      "sense": 1,
+      "gloss": "it'd be better to",
+      "slug": "ほうがいい-1",
+      "topic_page": false,
+      "source_index": 46
+    },
+    {
+      "term": "ほうがいい",
+      "sense": 2,
+      "gloss": "it'd be better to not",
+      "slug": "ほうがいい-2",
+      "topic_page": false,
+      "source_index": 47
+    },
+    {
+      "term": "前に",
+      "sense": null,
+      "gloss": "before",
+      "slug": "前に",
+      "topic_page": false,
+      "source_index": 48
+    },
+    {
+      "term": "まだ",
+      "sense": null,
+      "gloss": "still; not yet",
+      "slug": "まだ",
+      "topic_page": false,
+      "source_index": 49
+    },
+    {
+      "term": "まで",
+      "sense": null,
+      "gloss": "until; till; to; even",
+      "slug": "まで",
+      "topic_page": false,
+      "source_index": 50
+    },
+    {
+      "term": "も",
+      "sense": null,
+      "gloss": "also; too; as well",
+      "slug": "も",
+      "topic_page": false,
+      "source_index": 51
+    },
+    {
+      "term": "もう",
+      "sense": null,
+      "gloss": "already; anymore",
+      "slug": "もう",
+      "topic_page": false,
+      "source_index": 52
+    },
+    {
+      "term": "や",
+      "sense": null,
+      "gloss": "and (etc.)",
+      "slug": "や",
+      "topic_page": false,
+      "source_index": 53
+    },
+    {
+      "term": "より○○のほうが○○",
+      "sense": null,
+      "gloss": "is more ~ than",
+      "slug": "より○○のほうが○○",
+      "topic_page": false,
+      "source_index": 54
+    }
+  ],
+  "n4": [
+    {
+      "term": "Transitive & Intransitive Verbs",
+      "sense": null,
+      "gloss": "",
+      "slug": "Transitive-Intransitive-Verbs",
+      "topic_page": true,
+      "source_index": 1
+    },
+    {
+      "term": "Volitional Form",
+      "sense": null,
+      "gloss": "",
+      "slug": "Volitional-Form",
+      "topic_page": true,
+      "source_index": 2
+    },
+    {
+      "term": "後で",
+      "sense": null,
+      "gloss": "after; later",
+      "slug": "後で",
+      "topic_page": false,
+      "source_index": 3
+    },
+    {
+      "term": "あまり○○ない",
+      "sense": null,
+      "gloss": "not very; not much",
+      "slug": "あまり○○ない",
+      "topic_page": false,
+      "source_index": 4
+    },
+    {
+      "term": "いたす",
+      "sense": null,
+      "gloss": "to do (humble する)",
+      "slug": "いたす",
+      "topic_page": false,
+      "source_index": 5
+    },
+    {
+      "term": "いらっしゃる",
+      "sense": null,
+      "gloss": "to be; to come; to go",
+      "slug": "いらっしゃる",
+      "topic_page": false,
+      "source_index": 6
+    },
+    {
+      "term": "お○○ください",
+      "sense": null,
+      "gloss": "please do (honorific)",
+      "slug": "お○○ください",
+      "topic_page": false,
+      "source_index": 7
+    },
+    {
+      "term": "お○○になる",
+      "sense": null,
+      "gloss": "to do (honorific)",
+      "slug": "お○○になる",
+      "topic_page": false,
+      "source_index": 8
+    },
+    {
+      "term": "おきに",
+      "sense": null,
+      "gloss": "repeated at intervals; every",
+      "slug": "おきに",
+      "topic_page": false,
+      "source_index": 9
+    },
+    {
+      "term": "終わる",
+      "sense": null,
+      "gloss": "to finish; to end",
+      "slug": "終わる",
+      "topic_page": false,
+      "source_index": 10
+    },
+    {
+      "term": "かい",
+      "sense": null,
+      "gloss": "(turns a sentence into a yes/no question)",
+      "slug": "かい",
+      "topic_page": false,
+      "source_index": 11
+    },
+    {
+      "term": "かしら",
+      "sense": null,
+      "gloss": "I wonder",
+      "slug": "かしら",
+      "topic_page": false,
+      "source_index": 12
+    },
+    {
+      "term": "がする",
+      "sense": null,
+      "gloss": "smell; hear; taste",
+      "slug": "がする",
+      "topic_page": false,
+      "source_index": 13
+    },
+    {
+      "term": "方",
+      "sense": null,
+      "gloss": "way of; method",
+      "slug": "方",
+      "topic_page": false,
+      "source_index": 14
+    },
+    {
+      "term": "かどうか",
+      "sense": null,
+      "gloss": "whether or not",
+      "slug": "かどうか",
+      "topic_page": false,
+      "source_index": 15
+    },
+    {
+      "term": "かな",
+      "sense": null,
+      "gloss": "I wonder",
+      "slug": "かな",
+      "topic_page": false,
+      "source_index": 16
+    },
+    {
+      "term": "かもしれない",
+      "sense": null,
+      "gloss": "might; maybe",
+      "slug": "かもしれない",
+      "topic_page": false,
+      "source_index": 17
+    },
+    {
+      "term": "がる",
+      "sense": null,
+      "gloss": "to show signs of; to feel; to think",
+      "slug": "がる",
+      "topic_page": false,
+      "source_index": 18
+    },
+    {
+      "term": "急に",
+      "sense": null,
+      "gloss": "suddenly",
+      "slug": "急に",
+      "topic_page": false,
+      "source_index": 19
+    },
+    {
+      "term": "ございます",
+      "sense": null,
+      "gloss": "there is (honorific　ある)",
+      "slug": "ございます",
+      "topic_page": false,
+      "source_index": 20
+    },
+    {
+      "term": "こと",
+      "sense": null,
+      "gloss": "(turns verbs into nouns)",
+      "slug": "こと",
+      "topic_page": false,
+      "source_index": 21
+    },
+    {
+      "term": "ことができる",
+      "sense": null,
+      "gloss": "can; be able to",
+      "slug": "ことができる",
+      "topic_page": false,
+      "source_index": 22
+    },
+    {
+      "term": "ことにする",
+      "sense": null,
+      "gloss": "to decide on",
+      "slug": "ことにする",
+      "topic_page": false,
+      "source_index": 23
+    },
+    {
+      "term": "ことになる",
+      "sense": null,
+      "gloss": "will become",
+      "slug": "ことになる",
+      "topic_page": false,
+      "source_index": 24
+    },
+    {
+      "term": "ごろ",
+      "sense": null,
+      "gloss": "around; about",
+      "slug": "ごろ",
+      "topic_page": false,
+      "source_index": 25
+    },
+    {
+      "term": "さ",
+      "sense": null,
+      "gloss": "(turns adjectives) into nouns",
+      "slug": "さ",
+      "topic_page": false,
+      "source_index": 26
+    },
+    {
+      "term": "させられる",
+      "sense": null,
+      "gloss": "to be made to do something",
+      "slug": "させられる",
+      "topic_page": false,
+      "source_index": 27
+    },
+    {
+      "term": "させる",
+      "sense": null,
+      "gloss": "to make/let somebody do something",
+      "slug": "させる",
+      "topic_page": false,
+      "source_index": 28
+    },
+    {
+      "term": "し",
+      "sense": null,
+      "gloss": "and",
+      "slug": "し",
+      "topic_page": false,
+      "source_index": 29
+    },
+    {
+      "term": "しか○○ない",
+      "sense": null,
+      "gloss": "only; nothing but",
+      "slug": "しか○○ない",
+      "topic_page": false,
+      "source_index": 30
+    },
+    {
+      "term": "じゃないか",
+      "sense": null,
+      "gloss": "isn't it",
+      "slug": "じゃないか",
+      "topic_page": false,
+      "source_index": 31
+    },
+    {
+      "term": "すぎる",
+      "sense": null,
+      "gloss": "too much",
+      "slug": "すぎる",
+      "topic_page": false,
+      "source_index": 32
+    },
+    {
+      "term": "ぜんぜん",
+      "sense": null,
+      "gloss": "(not) at all",
+      "slug": "ぜんぜん",
+      "topic_page": false,
+      "source_index": 33
+    },
+    {
+      "term": "そうだ",
+      "sense": 1,
+      "gloss": "I heard that; it is said that",
+      "slug": "そうだ-1",
+      "topic_page": false,
+      "source_index": 34
+    },
+    {
+      "term": "そうだ",
+      "sense": 2,
+      "gloss": "look like; appear; seem",
+      "slug": "そうだ-2",
+      "topic_page": false,
+      "source_index": 35
+    },
+    {
+      "term": "そうに / そうな",
+      "sense": null,
+      "gloss": "seem; look like",
+      "slug": "そうに-そうな",
+      "topic_page": false,
+      "source_index": 36
+    },
+    {
+      "term": "それでも",
+      "sense": null,
+      "gloss": "but still; and yet",
+      "slug": "それでも",
+      "topic_page": false,
+      "source_index": 37
+    },
+    {
+      "term": "そんなに",
+      "sense": null,
+      "gloss": "so; so much; like that",
+      "slug": "そんなに",
+      "topic_page": false,
+      "source_index": 38
+    },
+    {
+      "term": "たがる",
+      "sense": null,
+      "gloss": "to want to",
+      "slug": "たがる",
+      "topic_page": false,
+      "source_index": 39
+    },
+    {
+      "term": "だけで",
+      "sense": null,
+      "gloss": "just by",
+      "slug": "だけで",
+      "topic_page": false,
+      "source_index": 40
+    },
+    {
+      "term": "出す",
+      "sense": null,
+      "gloss": "to suddenly begin; to suddenly appear",
+      "slug": "出す",
+      "topic_page": false,
+      "source_index": 41
+    },
+    {
+      "term": "たところ",
+      "sense": null,
+      "gloss": "just finished doing; was just doing",
+      "slug": "たところ",
+      "topic_page": false,
+      "source_index": 42
+    },
+    {
+      "term": "たばかり",
+      "sense": null,
+      "gloss": "just did; something just happened",
+      "slug": "たばかり",
+      "topic_page": false,
+      "source_index": 43
+    },
+    {
+      "term": "たら",
+      "sense": null,
+      "gloss": "if; after; when",
+      "slug": "たら",
+      "topic_page": false,
+      "source_index": 44
+    },
+    {
+      "term": "たらどう",
+      "sense": null,
+      "gloss": "why don't you",
+      "slug": "たらどう",
+      "topic_page": false,
+      "source_index": 45
+    },
+    {
+      "term": "たり○○たり",
+      "sense": null,
+      "gloss": "do such things like",
+      "slug": "たり○○たり",
+      "topic_page": false,
+      "source_index": 46
+    },
+    {
+      "term": "続ける",
+      "sense": null,
+      "gloss": "to continue",
+      "slug": "続ける",
+      "topic_page": false,
+      "source_index": 47
+    },
+    {
+      "term": "てあげる",
+      "sense": null,
+      "gloss": "to do something for someone",
+      "slug": "てあげる",
+      "topic_page": false,
+      "source_index": 48
+    },
+    {
+      "term": "てある",
+      "sense": null,
+      "gloss": "something is/has been done",
+      "slug": "てある",
+      "topic_page": false,
+      "source_index": 49
+    },
+    {
+      "term": "ていく",
+      "sense": null,
+      "gloss": "to go and do",
+      "slug": "ていく",
+      "topic_page": false,
+      "source_index": 50
+    },
+    {
+      "term": "ていただけませんか",
+      "sense": null,
+      "gloss": "could you please",
+      "slug": "ていただけませんか",
+      "topic_page": false,
+      "source_index": 51
+    },
+    {
+      "term": "ているところ",
+      "sense": null,
+      "gloss": "in the process of doing",
+      "slug": "ているところ",
+      "topic_page": false,
+      "source_index": 52
+    },
+    {
+      "term": "ておく / とく",
+      "sense": null,
+      "gloss": "to do something for later",
+      "slug": "ておく-とく",
+      "topic_page": false,
+      "source_index": 53
+    },
+    {
+      "term": "てくる",
+      "sense": null,
+      "gloss": "to come to; to become; to continue",
+      "slug": "てくる",
+      "topic_page": false,
+      "source_index": 54
+    },
+    {
+      "term": "てくれる",
+      "sense": null,
+      "gloss": "to do something for someone",
+      "slug": "てくれる",
+      "topic_page": false,
+      "source_index": 55
+    },
+    {
+      "term": "でございます",
+      "sense": null,
+      "gloss": "there is; this is (honorific である)",
+      "slug": "でございます",
+      "topic_page": false,
+      "source_index": 56
+    },
+    {
+      "term": "てしまう / ちゃう",
+      "sense": null,
+      "gloss": "to do something (regretfully); to do something (completely)",
+      "slug": "てしまう-ちゃう",
+      "topic_page": false,
+      "source_index": 57
+    },
+    {
+      "term": "てすみません",
+      "sense": null,
+      "gloss": "I'm sorry for",
+      "slug": "てすみません",
+      "topic_page": false,
+      "source_index": 58
+    },
+    {
+      "term": "てほしい",
+      "sense": null,
+      "gloss": "I want you to; I need you to",
+      "slug": "てほしい",
+      "topic_page": false,
+      "source_index": 59
+    },
+    {
+      "term": "てみる",
+      "sense": null,
+      "gloss": "to try to",
+      "slug": "てみる",
+      "topic_page": false,
+      "source_index": 60
+    },
+    {
+      "term": "ても",
+      "sense": null,
+      "gloss": "even if; even though",
+      "slug": "ても",
+      "topic_page": false,
+      "source_index": 61
+    },
+    {
+      "term": "でも",
+      "sense": null,
+      "gloss": "or something",
+      "slug": "でも",
+      "topic_page": false,
+      "source_index": 62
+    },
+    {
+      "term": "てもらう",
+      "sense": null,
+      "gloss": "to get somebody to do something",
+      "slug": "てもらう",
+      "topic_page": false,
+      "source_index": 63
+    },
+    {
+      "term": "てよかった",
+      "sense": null,
+      "gloss": "I'm glad that",
+      "slug": "てよかった",
+      "topic_page": false,
+      "source_index": 64
+    },
+    {
+      "term": "と",
+      "sense": null,
+      "gloss": "if; when; and",
+      "slug": "と",
+      "topic_page": false,
+      "source_index": 65
+    },
+    {
+      "term": "ということ",
+      "sense": null,
+      "gloss": "(changes a sentence or phrase into a noun)",
+      "slug": "ということ",
+      "topic_page": false,
+      "source_index": 66
+    },
+    {
+      "term": "と思う",
+      "sense": null,
+      "gloss": "I think; you think",
+      "slug": "と思う",
+      "topic_page": false,
+      "source_index": 67
+    },
+    {
+      "term": "とか○○とか",
+      "sense": null,
+      "gloss": "among other things; such as",
+      "slug": "とか○○とか",
+      "topic_page": false,
+      "source_index": 68
+    },
+    {
+      "term": "とき",
+      "sense": null,
+      "gloss": "when; at the time",
+      "slug": "とき",
+      "topic_page": false,
+      "source_index": 69
+    },
+    {
+      "term": "ところ",
+      "sense": null,
+      "gloss": "about to; on the verge of",
+      "slug": "ところ",
+      "topic_page": false,
+      "source_index": 70
+    },
+    {
+      "term": "ないで",
+      "sense": null,
+      "gloss": "without doing; don't",
+      "slug": "ないで",
+      "topic_page": false,
+      "source_index": 71
+    },
+    {
+      "term": "ながら",
+      "sense": null,
+      "gloss": "while; during; as",
+      "slug": "ながら",
+      "topic_page": false,
+      "source_index": 72
+    },
+    {
+      "term": "なくてはいけない / なくてはならない",
+      "sense": null,
+      "gloss": "must do; have to do",
+      "slug": "なくてはいけない-なくてはならない",
+      "topic_page": false,
+      "source_index": 73
+    },
+    {
+      "term": "なくてもいい",
+      "sense": null,
+      "gloss": "don't have to",
+      "slug": "なくてもいい",
+      "topic_page": false,
+      "source_index": 74
+    },
+    {
+      "term": "なければいけない / なければならない",
+      "sense": null,
+      "gloss": "must do; have to do",
+      "slug": "なければいけない-なければならない",
+      "topic_page": false,
+      "source_index": 75
+    },
+    {
+      "term": "なさい",
+      "sense": null,
+      "gloss": "(order somebody to do something)",
+      "slug": "なさい",
+      "topic_page": false,
+      "source_index": 76
+    },
+    {
+      "term": "なさる",
+      "sense": null,
+      "gloss": "to do (honorific する)",
+      "slug": "なさる",
+      "topic_page": false,
+      "source_index": 77
+    },
+    {
+      "term": "など",
+      "sense": null,
+      "gloss": "such as; things like",
+      "slug": "など",
+      "topic_page": false,
+      "source_index": 78
+    },
+    {
+      "term": "なら",
+      "sense": null,
+      "gloss": "if; in case; as for",
+      "slug": "なら",
+      "topic_page": false,
+      "source_index": 79
+    },
+    {
+      "term": "にくい",
+      "sense": null,
+      "gloss": "difficult to",
+      "slug": "にくい",
+      "topic_page": false,
+      "source_index": 80
+    },
+    {
+      "term": "の中で",
+      "sense": null,
+      "gloss": "in; among",
+      "slug": "の中で",
+      "topic_page": false,
+      "source_index": 81
+    },
+    {
+      "term": "のに",
+      "sense": 1,
+      "gloss": "although in spite of; even though",
+      "slug": "のに-1",
+      "topic_page": false,
+      "source_index": 82
+    },
+    {
+      "term": "のに",
+      "sense": 2,
+      "gloss": "in order to",
+      "slug": "のに-2",
+      "topic_page": false,
+      "source_index": 83
+    },
+    {
+      "term": "のように / のような",
+      "sense": null,
+      "gloss": "like; similar to",
+      "slug": "のように-のような",
+      "topic_page": false,
+      "source_index": 84
+    },
+    {
+      "term": "ば",
+      "sense": null,
+      "gloss": "if… then",
+      "slug": "ば",
+      "topic_page": false,
+      "source_index": 85
+    },
+    {
+      "term": "場合は",
+      "sense": null,
+      "gloss": "in the event of",
+      "slug": "場合は",
+      "topic_page": false,
+      "source_index": 86
+    },
+    {
+      "term": "ばかり",
+      "sense": 1,
+      "gloss": "only; nothing but",
+      "slug": "ばかり-1",
+      "topic_page": false,
+      "source_index": 87
+    },
+    {
+      "term": "始める",
+      "sense": null,
+      "gloss": "to start; to begin to",
+      "slug": "始める",
+      "topic_page": false,
+      "source_index": 88
+    },
+    {
+      "term": "はずがない",
+      "sense": null,
+      "gloss": "cannot be",
+      "slug": "はずがない",
+      "topic_page": false,
+      "source_index": 89
+    },
+    {
+      "term": "はずだ",
+      "sense": null,
+      "gloss": "it must be; it should be",
+      "slug": "はずだ",
+      "topic_page": false,
+      "source_index": 90
+    },
+    {
+      "term": "必要",
+      "sense": null,
+      "gloss": "need; necessary",
+      "slug": "必要",
+      "topic_page": false,
+      "source_index": 91
+    },
+    {
+      "term": "必要がある",
+      "sense": null,
+      "gloss": "need to",
+      "slug": "必要がある",
+      "topic_page": false,
+      "source_index": 92
+    },
+    {
+      "term": "ほしい",
+      "sense": null,
+      "gloss": "to want something; to be in need of",
+      "slug": "ほしい",
+      "topic_page": false,
+      "source_index": 93
+    },
+    {
+      "term": "までに",
+      "sense": null,
+      "gloss": "by; by the time",
+      "slug": "までに",
+      "topic_page": false,
+      "source_index": 94
+    },
+    {
+      "term": "みたい",
+      "sense": null,
+      "gloss": "like; similar to; resembling",
+      "slug": "みたい",
+      "topic_page": false,
+      "source_index": 95
+    },
+    {
+      "term": "みたいに/みたいな",
+      "sense": null,
+      "gloss": "like; similar to",
+      "slug": "みたいに-みたいな",
+      "topic_page": false,
+      "source_index": 96
+    },
+    {
+      "term": "やすい",
+      "sense": null,
+      "gloss": "easy to; likely to",
+      "slug": "やすい",
+      "topic_page": false,
+      "source_index": 97
+    },
+    {
+      "term": "ようだ",
+      "sense": null,
+      "gloss": "it seems that; it appears that; it looks like",
+      "slug": "ようだ",
+      "topic_page": false,
+      "source_index": 98
+    },
+    {
+      "term": "ようと思う",
+      "sense": null,
+      "gloss": "I think I will",
+      "slug": "ようと思う",
+      "topic_page": false,
+      "source_index": 99
+    },
+    {
+      "term": "ように/ような",
+      "sense": null,
+      "gloss": "as; like; just like",
+      "slug": "ように-ような",
+      "topic_page": false,
+      "source_index": 100
+    },
+    {
+      "term": "ようにする",
+      "sense": null,
+      "gloss": "to try to; to make sure that",
+      "slug": "ようにする",
+      "topic_page": false,
+      "source_index": 101
+    },
+    {
+      "term": "ようになる",
+      "sense": null,
+      "gloss": "to reach the point that",
+      "slug": "ようになる",
+      "topic_page": false,
+      "source_index": 102
+    },
+    {
+      "term": "よていだ",
+      "sense": null,
+      "gloss": "plan to; intend to",
+      "slug": "よていだ",
+      "topic_page": false,
+      "source_index": 103
+    },
+    {
+      "term": "より",
+      "sense": null,
+      "gloss": "than",
+      "slug": "より",
+      "topic_page": false,
+      "source_index": 104
+    },
+    {
+      "term": "らしい",
+      "sense": null,
+      "gloss": "-like",
+      "slug": "らしい",
+      "topic_page": false,
+      "source_index": 105
+    },
+    {
+      "term": "られる",
+      "sense": 1,
+      "gloss": "to be able to do something",
+      "slug": "られる-1",
+      "topic_page": false,
+      "source_index": 106
+    },
+    {
+      "term": "られる",
+      "sense": 2,
+      "gloss": "to do (by someone)",
+      "slug": "られる-2",
+      "topic_page": false,
+      "source_index": 107
+    }
+  ],
+  "n3": [
+    {
+      "term": "あまり",
+      "sense": null,
+      "gloss": "so much… that",
+      "slug": "あまり",
+      "topic_page": false,
+      "source_index": 1
+    },
+    {
+      "term": "あまりに",
+      "sense": null,
+      "gloss": "so much… that; too…",
+      "slug": "あまりに",
+      "topic_page": false,
+      "source_index": 2
+    },
+    {
+      "term": "いくら○○ても / いくら○○でも",
+      "sense": null,
+      "gloss": "no matter how",
+      "slug": "いくら○○ても-いくら○○でも",
+      "topic_page": false,
+      "source_index": 3
+    },
+    {
+      "term": "一方だ",
+      "sense": null,
+      "gloss": "more and more; continue to",
+      "slug": "一方だ",
+      "topic_page": false,
+      "source_index": 4
+    },
+    {
+      "term": "一方で",
+      "sense": null,
+      "gloss": "on one hand; on the other hand",
+      "slug": "一方で",
+      "topic_page": false,
+      "source_index": 5
+    },
+    {
+      "term": "うちに",
+      "sense": null,
+      "gloss": "while; before; doing",
+      "slug": "うちに",
+      "topic_page": false,
+      "source_index": 6
+    },
+    {
+      "term": "おかげで",
+      "sense": null,
+      "gloss": "thanks to; because of",
+      "slug": "おかげで",
+      "topic_page": false,
+      "source_index": 7
+    },
+    {
+      "term": "おそらく",
+      "sense": null,
+      "gloss": "perhaps; likely; probably",
+      "slug": "おそらく",
+      "topic_page": false,
+      "source_index": 8
+    },
+    {
+      "term": "かけ",
+      "sense": null,
+      "gloss": "half-; not yet finished",
+      "slug": "かけ",
+      "topic_page": false,
+      "source_index": 9
+    },
+    {
+      "term": "がたい",
+      "sense": null,
+      "gloss": "hard to; difficult to",
+      "slug": "がたい",
+      "topic_page": false,
+      "source_index": 10
+    },
+    {
+      "term": "がち",
+      "sense": null,
+      "gloss": "apt to do; tend to do",
+      "slug": "がち",
+      "topic_page": false,
+      "source_index": 11
+    },
+    {
+      "term": "代わりに",
+      "sense": null,
+      "gloss": "instead of; in exchange for",
+      "slug": "代わりに",
+      "topic_page": false,
+      "source_index": 12
+    },
+    {
+      "term": "ぎみ",
+      "sense": null,
+      "gloss": "-like; -looking",
+      "slug": "ぎみ",
+      "topic_page": false,
+      "source_index": 13
+    },
+    {
+      "term": "きり",
+      "sense": null,
+      "gloss": "only; just",
+      "slug": "きり",
+      "topic_page": false,
+      "source_index": 14
+    },
+    {
+      "term": "きる",
+      "sense": null,
+      "gloss": "to do something completely",
+      "slug": "きる",
+      "topic_page": false,
+      "source_index": 15
+    },
+    {
+      "term": "切れない",
+      "sense": null,
+      "gloss": "being too much to finish",
+      "slug": "切れない",
+      "topic_page": false,
+      "source_index": 16
+    },
+    {
+      "term": "くせに",
+      "sense": null,
+      "gloss": "even though; and yet; despite",
+      "slug": "くせに",
+      "topic_page": false,
+      "source_index": 17
+    },
+    {
+      "term": "くらい / ぐらい",
+      "sense": null,
+      "gloss": "probably; around",
+      "slug": "くらい-ぐらい",
+      "topic_page": false,
+      "source_index": 18
+    },
+    {
+      "term": "決して○○ない",
+      "sense": null,
+      "gloss": "never; by no means",
+      "slug": "決して○○ない",
+      "topic_page": false,
+      "source_index": 19
+    },
+    {
+      "term": "こそ",
+      "sense": null,
+      "gloss": "certainly (emphasises the previous word)",
+      "slug": "こそ",
+      "topic_page": false,
+      "source_index": 20
+    },
+    {
+      "term": "こと",
+      "sense": null,
+      "gloss": "(must) do",
+      "slug": "こと",
+      "topic_page": false,
+      "source_index": 21
+    },
+    {
+      "term": "ことか",
+      "sense": null,
+      "gloss": "how…? what…!",
+      "slug": "ことか",
+      "topic_page": false,
+      "source_index": 22
+    },
+    {
+      "term": "ことがある",
+      "sense": null,
+      "gloss": "can; sometimes happens",
+      "slug": "ことがある",
+      "topic_page": false,
+      "source_index": 23
+    },
+    {
+      "term": "ことだ",
+      "sense": null,
+      "gloss": "should (when giving advice)",
+      "slug": "ことだ",
+      "topic_page": false,
+      "source_index": 24
+    },
+    {
+      "term": "ことに",
+      "sense": null,
+      "gloss": "-ly",
+      "slug": "ことに",
+      "topic_page": false,
+      "source_index": 25
+    },
+    {
+      "term": "ことはない",
+      "sense": null,
+      "gloss": "there is no need to; never happens",
+      "slug": "ことはない",
+      "topic_page": false,
+      "source_index": 26
+    },
+    {
+      "term": "さえ",
+      "sense": null,
+      "gloss": "even",
+      "slug": "さえ",
+      "topic_page": false,
+      "source_index": 27
+    },
+    {
+      "term": "さえ○○ば / さえすれば / さえいれば",
+      "sense": null,
+      "gloss": "if only… then",
+      "slug": "さえ○○ば-さえすれば-さえいれば",
+      "topic_page": false,
+      "source_index": 28
+    },
+    {
+      "term": "しかない",
+      "sense": null,
+      "gloss": "have no choice but",
+      "slug": "しかない",
+      "topic_page": false,
+      "source_index": 29
+    },
+    {
+      "term": "ずに",
+      "sense": null,
+      "gloss": "without (doing)",
+      "slug": "ずに",
+      "topic_page": false,
+      "source_index": 30
+    },
+    {
+      "term": "ずにはいられない",
+      "sense": null,
+      "gloss": "can't help but feel; can't help but do",
+      "slug": "ずにはいられない",
+      "topic_page": false,
+      "source_index": 31
+    },
+    {
+      "term": "せいで",
+      "sense": null,
+      "gloss": "because of",
+      "slug": "せいで",
+      "topic_page": false,
+      "source_index": 32
+    },
+    {
+      "term": "そうもない",
+      "sense": null,
+      "gloss": "very unlikely to",
+      "slug": "そうもない",
+      "topic_page": false,
+      "source_index": 33
+    },
+    {
+      "term": "その結果",
+      "sense": null,
+      "gloss": "as a result",
+      "slug": "その結果",
+      "topic_page": false,
+      "source_index": 34
+    },
+    {
+      "term": "だけ",
+      "sense": 2,
+      "gloss": "as much as",
+      "slug": "だけ-2",
+      "topic_page": false,
+      "source_index": 35
+    },
+    {
+      "term": "た結果 / の結果",
+      "sense": null,
+      "gloss": "as a result of",
+      "slug": "た結果-の結果",
+      "topic_page": false,
+      "source_index": 36
+    },
+    {
+      "term": "だけど",
+      "sense": null,
+      "gloss": "but; however",
+      "slug": "だけど",
+      "topic_page": false,
+      "source_index": 37
+    },
+    {
+      "term": "確かに",
+      "sense": null,
+      "gloss": "surely; certainly",
+      "slug": "確かに",
+      "topic_page": false,
+      "source_index": 38
+    },
+    {
+      "term": "たとえ○○ても",
+      "sense": null,
+      "gloss": "even if… is the case",
+      "slug": "たとえ○○ても",
+      "topic_page": false,
+      "source_index": 39
+    },
+    {
+      "term": "たとえば",
+      "sense": null,
+      "gloss": "for example",
+      "slug": "たとえば",
+      "topic_page": false,
+      "source_index": 40
+    },
+    {
+      "term": "たとたん",
+      "sense": null,
+      "gloss": "as soon as; just (now)",
+      "slug": "たとたん",
+      "topic_page": false,
+      "source_index": 41
+    },
+    {
+      "term": "たびに",
+      "sense": null,
+      "gloss": "everytime; whenever",
+      "slug": "たびに",
+      "topic_page": false,
+      "source_index": 42
+    },
+    {
+      "term": "ために",
+      "sense": 1,
+      "gloss": "for the sake of; in order to",
+      "slug": "ために-1",
+      "topic_page": false,
+      "source_index": 43
+    },
+    {
+      "term": "ために",
+      "sense": 2,
+      "gloss": "because of; as a result of",
+      "slug": "ために-2",
+      "topic_page": false,
+      "source_index": 44
+    },
+    {
+      "term": "たらいい / といい",
+      "sense": 1,
+      "gloss": "should",
+      "slug": "たらいい-といい-1",
+      "topic_page": false,
+      "source_index": 45
+    },
+    {
+      "term": "たらいい / といい",
+      "sense": 2,
+      "gloss": "I hope",
+      "slug": "たらいい-といい-2",
+      "topic_page": false,
+      "source_index": 46
+    },
+    {
+      "term": "たらいい / といい",
+      "sense": 3,
+      "gloss": "it would be nice if",
+      "slug": "たらいい-といい-3",
+      "topic_page": false,
+      "source_index": 47
+    },
+    {
+      "term": "だらけ",
+      "sense": 1,
+      "gloss": "covered (all over)",
+      "slug": "だらけ-1",
+      "topic_page": false,
+      "source_index": 48
+    },
+    {
+      "term": "だらけ",
+      "sense": 2,
+      "gloss": "full of",
+      "slug": "だらけ-2",
+      "topic_page": false,
+      "source_index": 49
+    },
+    {
+      "term": "ついでに",
+      "sense": null,
+      "gloss": "taking the opportunity; while (you) are at it",
+      "slug": "ついでに",
+      "topic_page": false,
+      "source_index": 50
+    },
+    {
+      "term": "っけ",
+      "sense": null,
+      "gloss": "what is… again?",
+      "slug": "っけ",
+      "topic_page": false,
+      "source_index": 51
+    },
+    {
+      "term": "っぱなし",
+      "sense": null,
+      "gloss": "leaving something still in use",
+      "slug": "っぱなし",
+      "topic_page": false,
+      "source_index": 52
+    },
+    {
+      "term": "っぽい",
+      "sense": null,
+      "gloss": "-ish; -like",
+      "slug": "っぽい",
+      "topic_page": false,
+      "source_index": 53
+    },
+    {
+      "term": "つまり",
+      "sense": null,
+      "gloss": "in other words; that is to say",
+      "slug": "つまり",
+      "topic_page": false,
+      "source_index": 54
+    },
+    {
+      "term": "てごらん",
+      "sense": null,
+      "gloss": "(please) try to; (please) look",
+      "slug": "てごらん",
+      "topic_page": false,
+      "source_index": 55
+    },
+    {
+      "term": "て初めて",
+      "sense": null,
+      "gloss": "not until; only after… did I",
+      "slug": "て初めて",
+      "topic_page": false,
+      "source_index": 56
+    },
+    {
+      "term": "てもかまわない / てもかまいません",
+      "sense": null,
+      "gloss": "no problem",
+      "slug": "てもかまわない-てもかまいません",
+      "topic_page": false,
+      "source_index": 57
+    },
+    {
+      "term": "という",
+      "sense": null,
+      "gloss": "called; named",
+      "slug": "という",
+      "topic_page": false,
+      "source_index": 58
+    },
+    {
+      "term": "ということ",
+      "sense": null,
+      "gloss": "I've heard that; it seems that",
+      "slug": "ということ",
+      "topic_page": false,
+      "source_index": 59
+    },
+    {
+      "term": "というと",
+      "sense": null,
+      "gloss": "speaking of; when you say…",
+      "slug": "というと",
+      "topic_page": false,
+      "source_index": 60
+    },
+    {
+      "term": "というのは",
+      "sense": 1,
+      "gloss": "means; is",
+      "slug": "というのは-1",
+      "topic_page": false,
+      "source_index": 61
+    },
+    {
+      "term": "というのは",
+      "sense": 2,
+      "gloss": "because",
+      "slug": "というのは-2",
+      "topic_page": false,
+      "source_index": 62
+    },
+    {
+      "term": "というのは",
+      "sense": 3,
+      "gloss": "in particular",
+      "slug": "というのは-3",
+      "topic_page": false,
+      "source_index": 63
+    },
+    {
+      "term": "というより",
+      "sense": null,
+      "gloss": "rather than",
+      "slug": "というより",
+      "topic_page": false,
+      "source_index": 64
+    },
+    {
+      "term": "といっても",
+      "sense": null,
+      "gloss": "although one says",
+      "slug": "といっても",
+      "topic_page": false,
+      "source_index": 65
+    },
+    {
+      "term": "とおり",
+      "sense": null,
+      "gloss": "in the way; the same as",
+      "slug": "とおり",
+      "topic_page": false,
+      "source_index": 66
+    },
+    {
+      "term": "ところが",
+      "sense": null,
+      "gloss": "however; although",
+      "slug": "ところが",
+      "topic_page": false,
+      "source_index": 67
+    },
+    {
+      "term": "どころか",
+      "sense": null,
+      "gloss": "far from; nevermind",
+      "slug": "どころか",
+      "topic_page": false,
+      "source_index": 68
+    },
+    {
+      "term": "ところで",
+      "sense": null,
+      "gloss": "by the way",
+      "slug": "ところで",
+      "topic_page": false,
+      "source_index": 69
+    },
+    {
+      "term": "としたら / とすれば",
+      "sense": null,
+      "gloss": "if it were the case that; if we assume",
+      "slug": "としたら-とすれば",
+      "topic_page": false,
+      "source_index": 70
+    },
+    {
+      "term": "として",
+      "sense": null,
+      "gloss": "as (i.e. in the role of)",
+      "slug": "として",
+      "topic_page": false,
+      "source_index": 71
+    },
+    {
+      "term": "としない / とはしない",
+      "sense": null,
+      "gloss": "not try to; not make an effort to",
+      "slug": "としない-とはしない",
+      "topic_page": false,
+      "source_index": 72
+    },
+    {
+      "term": "とする",
+      "sense": 1,
+      "gloss": "try to",
+      "slug": "とする-1",
+      "topic_page": false,
+      "source_index": 73
+    },
+    {
+      "term": "とする",
+      "sense": 2,
+      "gloss": "be about to",
+      "slug": "とする-2",
+      "topic_page": false,
+      "source_index": 74
+    },
+    {
+      "term": "途中に / 途中で",
+      "sense": null,
+      "gloss": "on the way; in the middle of",
+      "slug": "途中に-途中で",
+      "topic_page": false,
+      "source_index": 75
+    },
+    {
+      "term": "と共に",
+      "sense": null,
+      "gloss": "together with",
+      "slug": "と共に",
+      "topic_page": false,
+      "source_index": 76
+    },
+    {
+      "term": "とは限らない",
+      "sense": null,
+      "gloss": "not necessarily so; is not always true",
+      "slug": "とは限らない",
+      "topic_page": false,
+      "source_index": 77
+    },
+    {
+      "term": "どんなに○○ても",
+      "sense": null,
+      "gloss": "no matter how",
+      "slug": "どんなに○○ても",
+      "topic_page": false,
+      "source_index": 78
+    },
+    {
+      "term": "ないことはない",
+      "sense": null,
+      "gloss": "can; is not impossible",
+      "slug": "ないことはない",
+      "topic_page": false,
+      "source_index": 79
+    },
+    {
+      "term": "中",
+      "sense": null,
+      "gloss": "during; throughout",
+      "slug": "中",
+      "topic_page": false,
+      "source_index": 80
+    },
+    {
+      "term": "ながら / いながら / ながらも",
+      "sense": null,
+      "gloss": "although; despite",
+      "slug": "ながら-いながら-ながらも",
+      "topic_page": false,
+      "source_index": 81
+    },
+    {
+      "term": "なぜなら / なぜかというと",
+      "sense": null,
+      "gloss": "because; the reason is",
+      "slug": "なぜなら-なぜかというと",
+      "topic_page": false,
+      "source_index": 82
+    },
+    {
+      "term": "なるべく",
+      "sense": null,
+      "gloss": "as much as possible",
+      "slug": "なるべく",
+      "topic_page": false,
+      "source_index": 83
+    },
+    {
+      "term": "なんか / なんて",
+      "sense": null,
+      "gloss": "things like; something",
+      "slug": "なんか-なんて",
+      "topic_page": false,
+      "source_index": 84
+    },
+    {
+      "term": "において / における",
+      "sense": null,
+      "gloss": "in; on; at; as for; regarding",
+      "slug": "において-における",
+      "topic_page": false,
+      "source_index": 85
+    },
+    {
+      "term": "にかけて",
+      "sense": null,
+      "gloss": "over (a period); through; concerning",
+      "slug": "にかけて",
+      "topic_page": false,
+      "source_index": 86
+    },
+    {
+      "term": "にかわって / にかわり",
+      "sense": null,
+      "gloss": "instead of; on behalf of",
+      "slug": "にかわって-にかわり",
+      "topic_page": false,
+      "source_index": 87
+    },
+    {
+      "term": "に関する / に関して",
+      "sense": null,
+      "gloss": "related to; about",
+      "slug": "に関する-に関して",
+      "topic_page": false,
+      "source_index": 88
+    },
+    {
+      "term": "に比べて",
+      "sense": null,
+      "gloss": "compared to",
+      "slug": "に比べて",
+      "topic_page": false,
+      "source_index": 89
+    },
+    {
+      "term": "にしては",
+      "sense": null,
+      "gloss": "for; considering it's",
+      "slug": "にしては",
+      "topic_page": false,
+      "source_index": 90
+    },
+    {
+      "term": "にしても",
+      "sense": null,
+      "gloss": "even if",
+      "slug": "にしても",
+      "topic_page": false,
+      "source_index": 91
+    },
+    {
+      "term": "に対して",
+      "sense": null,
+      "gloss": "regarding; with regards to",
+      "slug": "に対して",
+      "topic_page": false,
+      "source_index": 92
+    },
+    {
+      "term": "に違いない",
+      "sense": null,
+      "gloss": "I'm sure; no doubt that",
+      "slug": "に違いない",
+      "topic_page": false,
+      "source_index": 93
+    },
+    {
+      "term": "について",
+      "sense": null,
+      "gloss": "concerning; about",
+      "slug": "について",
+      "topic_page": false,
+      "source_index": 94
+    },
+    {
+      "term": "につれて",
+      "sense": null,
+      "gloss": "as… then",
+      "slug": "につれて",
+      "topic_page": false,
+      "source_index": 95
+    },
+    {
+      "term": "にとって",
+      "sense": null,
+      "gloss": "to; for; concerning",
+      "slug": "にとって",
+      "topic_page": false,
+      "source_index": 96
+    },
+    {
+      "term": "によって / による",
+      "sense": null,
+      "gloss": "due to; by means of",
+      "slug": "によって-による",
+      "topic_page": false,
+      "source_index": 97
+    },
+    {
+      "term": "によると / によれば",
+      "sense": null,
+      "gloss": "according to",
+      "slug": "によると-によれば",
+      "topic_page": false,
+      "source_index": 98
+    },
+    {
+      "term": "間 / 間に",
+      "sense": 1,
+      "gloss": "while; during",
+      "slug": "間-間に-1",
+      "topic_page": false,
+      "source_index": 99
+    },
+    {
+      "term": "間 / 間に",
+      "sense": 2,
+      "gloss": "between",
+      "slug": "間-間に-2",
+      "topic_page": false,
+      "source_index": 100
+    },
+    {
+      "term": "ば○○ほど",
+      "sense": null,
+      "gloss": "the more… the more/less",
+      "slug": "ば○○ほど",
+      "topic_page": false,
+      "source_index": 101
+    },
+    {
+      "term": "ばいい",
+      "sense": null,
+      "gloss": "should; can; it'd be good if",
+      "slug": "ばいい",
+      "topic_page": false,
+      "source_index": 102
+    },
+    {
+      "term": "ばかりでなく",
+      "sense": null,
+      "gloss": "not only… but also; as well as",
+      "slug": "ばかりでなく",
+      "topic_page": false,
+      "source_index": 103
+    },
+    {
+      "term": "ばよかった",
+      "sense": null,
+      "gloss": "should have; it would have been better if",
+      "slug": "ばよかった",
+      "topic_page": false,
+      "source_index": 104
+    },
+    {
+      "term": "ふと",
+      "sense": 1,
+      "gloss": "suddenly",
+      "slug": "ふと-1",
+      "topic_page": false,
+      "source_index": 105
+    },
+    {
+      "term": "ふと",
+      "sense": 2,
+      "gloss": "accidentally; unexpectedly",
+      "slug": "ふと-2",
+      "topic_page": false,
+      "source_index": 106
+    },
+    {
+      "term": "ふりをする",
+      "sense": null,
+      "gloss": "to pretend; to act as if",
+      "slug": "ふりをする",
+      "topic_page": false,
+      "source_index": 107
+    },
+    {
+      "term": "べき",
+      "sense": null,
+      "gloss": "must do; should do",
+      "slug": "べき",
+      "topic_page": false,
+      "source_index": 108
+    },
+    {
+      "term": "べきではない",
+      "sense": null,
+      "gloss": "must not do; should not do",
+      "slug": "べきではない",
+      "topic_page": false,
+      "source_index": 109
+    },
+    {
+      "term": "べつに○○ない / べつに○○じゃない",
+      "sense": null,
+      "gloss": "not really; not particularly",
+      "slug": "べつに○○ない-べつに○○じゃない",
+      "topic_page": false,
+      "source_index": 110
+    },
+    {
+      "term": "ほど",
+      "sense": null,
+      "gloss": "the more; to the extent that; so much… that",
+      "slug": "ほど",
+      "topic_page": false,
+      "source_index": 111
+    },
+    {
+      "term": "ほど○○ない",
+      "sense": null,
+      "gloss": "is not as… as",
+      "slug": "ほど○○ない",
+      "topic_page": false,
+      "source_index": 112
+    },
+    {
+      "term": "最中に",
+      "sense": null,
+      "gloss": "in the middle of",
+      "slug": "最中に",
+      "topic_page": false,
+      "source_index": 113
+    },
+    {
+      "term": "まま",
+      "sense": null,
+      "gloss": "as it is",
+      "slug": "まま",
+      "topic_page": false,
+      "source_index": 114
+    },
+    {
+      "term": "まるで",
+      "sense": null,
+      "gloss": "as if; as though",
+      "slug": "まるで",
+      "topic_page": false,
+      "source_index": 115
+    },
+    {
+      "term": "向き",
+      "sense": 1,
+      "gloss": "towards (direction)",
+      "slug": "向き-1",
+      "topic_page": false,
+      "source_index": 116
+    },
+    {
+      "term": "向き",
+      "sense": 2,
+      "gloss": "suitable for",
+      "slug": "向き-2",
+      "topic_page": false,
+      "source_index": 117
+    },
+    {
+      "term": "向け",
+      "sense": null,
+      "gloss": "intended for; aimed at",
+      "slug": "向け",
+      "topic_page": false,
+      "source_index": 118
+    },
+    {
+      "term": "めったに",
+      "sense": null,
+      "gloss": "hardly; rarely; seldom",
+      "slug": "めったに",
+      "topic_page": false,
+      "source_index": 119
+    },
+    {
+      "term": "もしかしたら",
+      "sense": null,
+      "gloss": "perhaps; maybe",
+      "slug": "もしかしたら",
+      "topic_page": false,
+      "source_index": 120
+    },
+    {
+      "term": "もの",
+      "sense": null,
+      "gloss": "because (indicate reason or excuse)",
+      "slug": "もの",
+      "topic_page": false,
+      "source_index": 121
+    },
+    {
+      "term": "ものだ",
+      "sense": null,
+      "gloss": "used to do something; should do something",
+      "slug": "ものだ",
+      "topic_page": false,
+      "source_index": 122
+    },
+    {
+      "term": "ような気がする",
+      "sense": null,
+      "gloss": "have a feeling that; think that",
+      "slug": "ような気がする",
+      "topic_page": false,
+      "source_index": 123
+    },
+    {
+      "term": "ように",
+      "sense": null,
+      "gloss": "in order to; so that",
+      "slug": "ように",
+      "topic_page": false,
+      "source_index": 124
+    },
+    {
+      "term": "わけがない",
+      "sense": null,
+      "gloss": "there is no way that",
+      "slug": "わけがない",
+      "topic_page": false,
+      "source_index": 125
+    },
+    {
+      "term": "わけだ",
+      "sense": null,
+      "gloss": "for that reason; no wonder; as you'd expect",
+      "slug": "わけだ",
+      "topic_page": false,
+      "source_index": 126
+    },
+    {
+      "term": "わけではない",
+      "sense": null,
+      "gloss": "it doesn't mean that; it is not the case",
+      "slug": "わけではない",
+      "topic_page": false,
+      "source_index": 127
+    },
+    {
+      "term": "わけにはいかない",
+      "sense": null,
+      "gloss": "must not; can't afford to",
+      "slug": "わけにはいかない",
+      "topic_page": false,
+      "source_index": 128
+    },
+    {
+      "term": "わりに",
+      "sense": null,
+      "gloss": "for; despite; unexpectedly",
+      "slug": "わりに",
+      "topic_page": false,
+      "source_index": 129
+    },
+    {
+      "term": "を中心に",
+      "sense": null,
+      "gloss": "focused on; centered on",
+      "slug": "を中心に",
+      "topic_page": false,
+      "source_index": 130
+    },
+    {
+      "term": "をはじめ / をはじめとする",
+      "sense": null,
+      "gloss": "for example; starting with",
+      "slug": "をはじめ-をはじめとする",
+      "topic_page": false,
+      "source_index": 131
+    }
+  ],
+  "n2": [
+    {
+      "term": "あるいは",
+      "sense": null,
+      "gloss": "or; possibly",
+      "slug": "あるいは",
+      "topic_page": false,
+      "source_index": 1
+    },
+    {
+      "term": "いきなり",
+      "sense": null,
+      "gloss": "suddenly; all of a sudden",
+      "slug": "いきなり",
+      "topic_page": false,
+      "source_index": 2
+    },
+    {
+      "term": "以上",
+      "sense": 1,
+      "gloss": "over",
+      "slug": "以上-1",
+      "topic_page": false,
+      "source_index": 3
+    },
+    {
+      "term": "以上",
+      "sense": 2,
+      "gloss": "because; now that",
+      "slug": "以上-2",
+      "topic_page": false,
+      "source_index": 4
+    },
+    {
+      "term": "以上に",
+      "sense": null,
+      "gloss": "more than; no less than",
+      "slug": "以上に",
+      "topic_page": false,
+      "source_index": 5
+    },
+    {
+      "term": "いよいよ",
+      "sense": null,
+      "gloss": "at last; finally",
+      "slug": "いよいよ",
+      "topic_page": false,
+      "source_index": 6
+    },
+    {
+      "term": "いわゆる",
+      "sense": null,
+      "gloss": "so-called; so to speak",
+      "slug": "いわゆる",
+      "topic_page": false,
+      "source_index": 7
+    },
+    {
+      "term": "上で",
+      "sense": null,
+      "gloss": "after",
+      "slug": "上で",
+      "topic_page": false,
+      "source_index": 8
+    },
+    {
+      "term": "上に",
+      "sense": null,
+      "gloss": "as well; besides; in addition to",
+      "slug": "上に",
+      "topic_page": false,
+      "source_index": 9
+    },
+    {
+      "term": "上は",
+      "sense": null,
+      "gloss": "now that; since",
+      "slug": "上は",
+      "topic_page": false,
+      "source_index": 10
+    },
+    {
+      "term": "えない",
+      "sense": null,
+      "gloss": "unable to; cannot",
+      "slug": "えない",
+      "topic_page": false,
+      "source_index": 11
+    },
+    {
+      "term": "える / うる",
+      "sense": null,
+      "gloss": "can; is possible",
+      "slug": "える-うる",
+      "topic_page": false,
+      "source_index": 12
+    },
+    {
+      "term": "お○○願う",
+      "sense": null,
+      "gloss": "could you please",
+      "slug": "お○○願う",
+      "topic_page": false,
+      "source_index": 13
+    },
+    {
+      "term": "恐れがある",
+      "sense": null,
+      "gloss": "there are fears that",
+      "slug": "恐れがある",
+      "topic_page": false,
+      "source_index": 14
+    },
+    {
+      "term": "おまけに",
+      "sense": null,
+      "gloss": "to make matters worse",
+      "slug": "おまけに",
+      "topic_page": false,
+      "source_index": 15
+    },
+    {
+      "term": "か○○ないかのうちに",
+      "sense": null,
+      "gloss": "right after; as soon as",
+      "slug": "か○○ないかのうちに",
+      "topic_page": false,
+      "source_index": 16
+    },
+    {
+      "term": "かいがある",
+      "sense": null,
+      "gloss": "it's worth one's effort to do something",
+      "slug": "かいがある",
+      "topic_page": false,
+      "source_index": 17
+    },
+    {
+      "term": "かえって",
+      "sense": null,
+      "gloss": "on the contrary; rather; surprisingly",
+      "slug": "かえって",
+      "topic_page": false,
+      "source_index": 18
+    },
+    {
+      "term": "限り",
+      "sense": null,
+      "gloss": "as long as; while… is the case",
+      "slug": "限り",
+      "topic_page": false,
+      "source_index": 19
+    },
+    {
+      "term": "かと思ったら / かと思うと",
+      "sense": null,
+      "gloss": "then again; just when; no sooner than",
+      "slug": "かと思ったら-かと思うと",
+      "topic_page": false,
+      "source_index": 20
+    },
+    {
+      "term": "か何か",
+      "sense": null,
+      "gloss": "or something",
+      "slug": "か何か",
+      "topic_page": false,
+      "source_index": 21
+    },
+    {
+      "term": "かねない",
+      "sense": null,
+      "gloss": "might happen; might do something",
+      "slug": "かねない",
+      "topic_page": false,
+      "source_index": 22
+    },
+    {
+      "term": "かねる",
+      "sense": null,
+      "gloss": "unable to do something",
+      "slug": "かねる",
+      "topic_page": false,
+      "source_index": 23
+    },
+    {
+      "term": "かのよう",
+      "sense": null,
+      "gloss": "as if; just like",
+      "slug": "かのよう",
+      "topic_page": false,
+      "source_index": 24
+    },
+    {
+      "term": "から言うと",
+      "sense": null,
+      "gloss": "in terms of; from the point of view of",
+      "slug": "から言うと",
+      "topic_page": false,
+      "source_index": 25
+    },
+    {
+      "term": "からこそ",
+      "sense": null,
+      "gloss": "precisely because",
+      "slug": "からこそ",
+      "topic_page": false,
+      "source_index": 26
+    },
+    {
+      "term": "からして",
+      "sense": null,
+      "gloss": "judging from; based on",
+      "slug": "からして",
+      "topic_page": false,
+      "source_index": 27
+    },
+    {
+      "term": "からすると / からすれば",
+      "sense": null,
+      "gloss": "judging from; considering",
+      "slug": "からすると-からすれば",
+      "topic_page": false,
+      "source_index": 28
+    },
+    {
+      "term": "からといって",
+      "sense": null,
+      "gloss": "just because",
+      "slug": "からといって",
+      "topic_page": false,
+      "source_index": 29
+    },
+    {
+      "term": "からには",
+      "sense": null,
+      "gloss": "now that; since; so long as",
+      "slug": "からには",
+      "topic_page": false,
+      "source_index": 30
+    },
+    {
+      "term": "ら見ると",
+      "sense": null,
+      "gloss": "from the point of view of; by the look of",
+      "slug": "ら見ると",
+      "topic_page": false,
+      "source_index": 31
+    },
+    {
+      "term": "気",
+      "sense": null,
+      "gloss": "feel like",
+      "slug": "気",
+      "topic_page": false,
+      "source_index": 32
+    },
+    {
+      "term": "逆に",
+      "sense": null,
+      "gloss": "on the contrary",
+      "slug": "逆に",
+      "topic_page": false,
+      "source_index": 33
+    },
+    {
+      "term": "げ",
+      "sense": null,
+      "gloss": "(giving the appearance of)",
+      "slug": "げ",
+      "topic_page": false,
+      "source_index": 34
+    },
+    {
+      "term": "ことから",
+      "sense": null,
+      "gloss": "from the fact that",
+      "slug": "ことから",
+      "topic_page": false,
+      "source_index": 35
+    },
+    {
+      "term": "ことだから",
+      "sense": null,
+      "gloss": "it is exactly because",
+      "slug": "ことだから",
+      "topic_page": false,
+      "source_index": 36
+    },
+    {
+      "term": "ことなく",
+      "sense": null,
+      "gloss": "without doing something even once",
+      "slug": "ことなく",
+      "topic_page": false,
+      "source_index": 37
+    },
+    {
+      "term": "ごとに",
+      "sense": null,
+      "gloss": "each; every; at intervals of",
+      "slug": "ごとに",
+      "topic_page": false,
+      "source_index": 38
+    },
+    {
+      "term": "ことになっている",
+      "sense": null,
+      "gloss": "to be expected to; to be scheduled to",
+      "slug": "ことになっている",
+      "topic_page": false,
+      "source_index": 39
+    },
+    {
+      "term": "ことにはならない",
+      "sense": null,
+      "gloss": "just because… doesn't mean…",
+      "slug": "ことにはならない",
+      "topic_page": false,
+      "source_index": 40
+    },
+    {
+      "term": "ことは○○が",
+      "sense": null,
+      "gloss": "although; but",
+      "slug": "ことは○○が",
+      "topic_page": false,
+      "source_index": 41
+    },
+    {
+      "term": "際に",
+      "sense": null,
+      "gloss": "at the time; in case of",
+      "slug": "際に",
+      "topic_page": false,
+      "source_index": 42
+    },
+    {
+      "term": "幸い",
+      "sense": null,
+      "gloss": "luckily; fortunately",
+      "slug": "幸い",
+      "topic_page": false,
+      "source_index": 43
+    },
+    {
+      "term": "さらに",
+      "sense": null,
+      "gloss": "furthermore; again; more and more",
+      "slug": "さらに",
+      "topic_page": false,
+      "source_index": 44
+    },
+    {
+      "term": "ざるを得ない",
+      "sense": null,
+      "gloss": "can't help doing; have no choice but",
+      "slug": "ざるを得ない",
+      "topic_page": false,
+      "source_index": 45
+    },
+    {
+      "term": "しかも",
+      "sense": null,
+      "gloss": "moreover; furthermore",
+      "slug": "しかも",
+      "topic_page": false,
+      "source_index": 46
+    },
+    {
+      "term": "次第",
+      "sense": null,
+      "gloss": "as soon as",
+      "slug": "次第",
+      "topic_page": false,
+      "source_index": 47
+    },
+    {
+      "term": "次第だ / 次第で",
+      "sense": null,
+      "gloss": "depending on; so",
+      "slug": "次第だ-次第で",
+      "topic_page": false,
+      "source_index": 48
+    },
+    {
+      "term": "したがって",
+      "sense": null,
+      "gloss": "therefore; accordingly",
+      "slug": "したがって",
+      "topic_page": false,
+      "source_index": 49
+    },
+    {
+      "term": "上",
+      "sense": null,
+      "gloss": "from the standpoint of",
+      "slug": "上",
+      "topic_page": false,
+      "source_index": 50
+    },
+    {
+      "term": "少しも○○ない",
+      "sense": null,
+      "gloss": "not one bit; not even a little",
+      "slug": "少しも○○ない",
+      "topic_page": false,
+      "source_index": 51
+    },
+    {
+      "term": "すなわち",
+      "sense": null,
+      "gloss": "in other words",
+      "slug": "すなわち",
+      "topic_page": false,
+      "source_index": 52
+    },
+    {
+      "term": "ずに済む",
+      "sense": null,
+      "gloss": "get by without doing something",
+      "slug": "ずに済む",
+      "topic_page": false,
+      "source_index": 53
+    },
+    {
+      "term": "せいぜい",
+      "sense": null,
+      "gloss": "at the most; at best",
+      "slug": "せいぜい",
+      "topic_page": false,
+      "source_index": 54
+    },
+    {
+      "term": "せめて",
+      "sense": null,
+      "gloss": "at least; at most",
+      "slug": "せめて",
+      "topic_page": false,
+      "source_index": 55
+    },
+    {
+      "term": "そういえば",
+      "sense": null,
+      "gloss": "come to think of it",
+      "slug": "そういえば",
+      "topic_page": false,
+      "source_index": 56
+    },
+    {
+      "term": "そうすると",
+      "sense": null,
+      "gloss": "having done that",
+      "slug": "そうすると",
+      "topic_page": false,
+      "source_index": 57
+    },
+    {
+      "term": "そうにない",
+      "sense": null,
+      "gloss": "extremely unlikely to; showing no signs of",
+      "slug": "そうにない",
+      "topic_page": false,
+      "source_index": 58
+    },
+    {
+      "term": "その上",
+      "sense": null,
+      "gloss": "besides; in addition; furthermore",
+      "slug": "その上",
+      "topic_page": false,
+      "source_index": 59
+    },
+    {
+      "term": "それとも",
+      "sense": null,
+      "gloss": "or; or else",
+      "slug": "それとも",
+      "topic_page": false,
+      "source_index": 60
+    },
+    {
+      "term": "それなのに",
+      "sense": null,
+      "gloss": "and yet; despite this",
+      "slug": "それなのに",
+      "topic_page": false,
+      "source_index": 61
+    },
+    {
+      "term": "それなら",
+      "sense": null,
+      "gloss": "then; if that's the case",
+      "slug": "それなら",
+      "topic_page": false,
+      "source_index": 62
+    },
+    {
+      "term": "それにしても",
+      "sense": null,
+      "gloss": "nevertheless; even so",
+      "slug": "それにしても",
+      "topic_page": false,
+      "source_index": 63
+    },
+    {
+      "term": "たあげく",
+      "sense": null,
+      "gloss": "to end up; finally",
+      "slug": "たあげく",
+      "topic_page": false,
+      "source_index": 64
+    },
+    {
+      "term": "だけあって",
+      "sense": null,
+      "gloss": "…being the case; precisely because",
+      "slug": "だけあって",
+      "topic_page": false,
+      "source_index": 65
+    },
+    {
+      "term": "だけでなく",
+      "sense": null,
+      "gloss": "not only… but also",
+      "slug": "だけでなく",
+      "topic_page": false,
+      "source_index": 66
+    },
+    {
+      "term": "だけに",
+      "sense": null,
+      "gloss": "…being the case; precisely because",
+      "slug": "だけに",
+      "topic_page": false,
+      "source_index": 67
+    },
+    {
+      "term": "だけのことはある",
+      "sense": null,
+      "gloss": "no wonder; it's not surprising that",
+      "slug": "だけのことはある",
+      "topic_page": false,
+      "source_index": 68
+    },
+    {
+      "term": "だけは",
+      "sense": null,
+      "gloss": "to do all that one can",
+      "slug": "だけは",
+      "topic_page": false,
+      "source_index": 69
+    },
+    {
+      "term": "だけましだ",
+      "sense": null,
+      "gloss": "one should feel grateful for",
+      "slug": "だけましだ",
+      "topic_page": false,
+      "source_index": 70
+    },
+    {
+      "term": "た末 / の末",
+      "sense": null,
+      "gloss": "as a conclusion of",
+      "slug": "た末-の末",
+      "topic_page": false,
+      "source_index": 71
+    },
+    {
+      "term": "直ちに",
+      "sense": null,
+      "gloss": "at once; immediately",
+      "slug": "直ちに",
+      "topic_page": false,
+      "source_index": 72
+    },
+    {
+      "term": "だって",
+      "sense": null,
+      "gloss": "because; but",
+      "slug": "だって",
+      "topic_page": false,
+      "source_index": 73
+    },
+    {
+      "term": "たって",
+      "sense": null,
+      "gloss": "even if; even though; no matter how",
+      "slug": "たって",
+      "topic_page": false,
+      "source_index": 74
+    },
+    {
+      "term": "たまえ",
+      "sense": null,
+      "gloss": "(order somebody to do something)",
+      "slug": "たまえ",
+      "topic_page": false,
+      "source_index": 75
+    },
+    {
+      "term": "ちっとも○○ない",
+      "sense": null,
+      "gloss": "not at all; not in the least",
+      "slug": "ちっとも○○ない",
+      "topic_page": false,
+      "source_index": 76
+    },
+    {
+      "term": "っこない",
+      "sense": null,
+      "gloss": "no chance of; … is definitely not possible",
+      "slug": "っこない",
+      "topic_page": false,
+      "source_index": 77
+    },
+    {
+      "term": "つつ",
+      "sense": null,
+      "gloss": "while; although",
+      "slug": "つつ",
+      "topic_page": false,
+      "source_index": 78
+    },
+    {
+      "term": "つつある",
+      "sense": null,
+      "gloss": "to be doing",
+      "slug": "つつある",
+      "topic_page": false,
+      "source_index": 79
+    },
+    {
+      "term": "つもりで",
+      "sense": null,
+      "gloss": "with the intention of doing",
+      "slug": "つもりで",
+      "topic_page": false,
+      "source_index": 80
+    },
+    {
+      "term": "ていては",
+      "sense": null,
+      "gloss": "if one keeps doing something",
+      "slug": "ていては",
+      "topic_page": false,
+      "source_index": 81
+    },
+    {
+      "term": "て以来",
+      "sense": null,
+      "gloss": "since",
+      "slug": "て以来",
+      "topic_page": false,
+      "source_index": 82
+    },
+    {
+      "term": "てからでないと",
+      "sense": null,
+      "gloss": "unless; until",
+      "slug": "てからでないと",
+      "topic_page": false,
+      "source_index": 83
+    },
+    {
+      "term": "てこそ",
+      "sense": null,
+      "gloss": "now that; since",
+      "slug": "てこそ",
+      "topic_page": false,
+      "source_index": 84
+    },
+    {
+      "term": "でしかない",
+      "sense": null,
+      "gloss": "merely; nothing but; no more than",
+      "slug": "でしかない",
+      "topic_page": false,
+      "source_index": 85
+    },
+    {
+      "term": "てしょうがない",
+      "sense": null,
+      "gloss": "very; extremely",
+      "slug": "てしょうがない",
+      "topic_page": false,
+      "source_index": 86
+    },
+    {
+      "term": "てたまらない",
+      "sense": null,
+      "gloss": "very; extremely; can't help but do",
+      "slug": "てたまらない",
+      "topic_page": false,
+      "source_index": 87
+    },
+    {
+      "term": "てでも",
+      "sense": null,
+      "gloss": "even if one has to; by all means",
+      "slug": "てでも",
+      "topic_page": false,
+      "source_index": 88
+    },
+    {
+      "term": "て当然だ",
+      "sense": null,
+      "gloss": "natural; as a matter of course",
+      "slug": "て当然だ",
+      "topic_page": false,
+      "source_index": 89
+    },
+    {
+      "term": "てならない",
+      "sense": null,
+      "gloss": "very; extremely",
+      "slug": "てならない",
+      "topic_page": false,
+      "source_index": 90
+    },
+    {
+      "term": "ては",
+      "sense": null,
+      "gloss": "if; since; one after another",
+      "slug": "ては",
+      "topic_page": false,
+      "source_index": 91
+    },
+    {
+      "term": "てはいられない",
+      "sense": null,
+      "gloss": "can't afford to; unable to",
+      "slug": "てはいられない",
+      "topic_page": false,
+      "source_index": 92
+    },
+    {
+      "term": "てばかりはいられない",
+      "sense": null,
+      "gloss": "can't keep doing something",
+      "slug": "てばかりはいられない",
+      "topic_page": false,
+      "source_index": 93
+    },
+    {
+      "term": "ではないか",
+      "sense": null,
+      "gloss": "let's do something; why don't we",
+      "slug": "ではないか",
+      "topic_page": false,
+      "source_index": 94
+    },
+    {
+      "term": "てはならない",
+      "sense": null,
+      "gloss": "must not; cannot; should not",
+      "slug": "てはならない",
+      "topic_page": false,
+      "source_index": 95
+    },
+    {
+      "term": "手前",
+      "sense": null,
+      "gloss": "before; in front of; from one's standpoint",
+      "slug": "手前",
+      "topic_page": false,
+      "source_index": 96
+    },
+    {
+      "term": "ということは",
+      "sense": null,
+      "gloss": "that is to say",
+      "slug": "ということは",
+      "topic_page": false,
+      "source_index": 97
+    },
+    {
+      "term": "というふうに",
+      "sense": null,
+      "gloss": "in such a way that",
+      "slug": "というふうに",
+      "topic_page": false,
+      "source_index": 98
+    },
+    {
+      "term": "というものだ",
+      "sense": null,
+      "gloss": "something like…; something called…",
+      "slug": "というものだ",
+      "topic_page": false,
+      "source_index": 99
+    },
+    {
+      "term": "というものでもない",
+      "sense": null,
+      "gloss": "there is no guarantee that…; not necessarily",
+      "slug": "というものでもない",
+      "topic_page": false,
+      "source_index": 100
+    },
+    {
+      "term": "といった",
+      "sense": null,
+      "gloss": "such… as",
+      "slug": "といった",
+      "topic_page": false,
+      "source_index": 101
+    },
+    {
+      "term": "どうせ",
+      "sense": null,
+      "gloss": "anyway; anyhow",
+      "slug": "どうせ",
+      "topic_page": false,
+      "source_index": 102
+    },
+    {
+      "term": "どうやら",
+      "sense": null,
+      "gloss": "it seems like; it appears that",
+      "slug": "どうやら",
+      "topic_page": false,
+      "source_index": 103
+    },
+    {
+      "term": "とか",
+      "sense": null,
+      "gloss": "I heard that…",
+      "slug": "とか",
+      "topic_page": false,
+      "source_index": 104
+    },
+    {
+      "term": "と考えられる",
+      "sense": null,
+      "gloss": "one can think that…",
+      "slug": "と考えられる",
+      "topic_page": false,
+      "source_index": 105
+    },
+    {
+      "term": "ところだった",
+      "sense": null,
+      "gloss": "was just about to do something",
+      "slug": "ところだった",
+      "topic_page": false,
+      "source_index": 106
+    },
+    {
+      "term": "どころではない",
+      "sense": null,
+      "gloss": "this is not the time for…",
+      "slug": "どころではない",
+      "topic_page": false,
+      "source_index": 107
+    },
+    {
+      "term": "ところに / ところへ",
+      "sense": null,
+      "gloss": "at the time",
+      "slug": "ところに-ところへ",
+      "topic_page": false,
+      "source_index": 108
+    },
+    {
+      "term": "ところを見ると",
+      "sense": null,
+      "gloss": "judging from; seeing that",
+      "slug": "ところを見ると",
+      "topic_page": false,
+      "source_index": 109
+    },
+    {
+      "term": "としては",
+      "sense": null,
+      "gloss": "as for",
+      "slug": "としては",
+      "topic_page": false,
+      "source_index": 110
+    },
+    {
+      "term": "としても",
+      "sense": null,
+      "gloss": "assuming; even if",
+      "slug": "としても",
+      "topic_page": false,
+      "source_index": 111
+    },
+    {
+      "term": "とっくに",
+      "sense": null,
+      "gloss": "already; long ago",
+      "slug": "とっくに",
+      "topic_page": false,
+      "source_index": 112
+    },
+    {
+      "term": "と同時に",
+      "sense": null,
+      "gloss": "at the same time as",
+      "slug": "と同時に",
+      "topic_page": false,
+      "source_index": 113
+    },
+    {
+      "term": "とも",
+      "sense": null,
+      "gloss": "even if; no matter",
+      "slug": "とも",
+      "topic_page": false,
+      "source_index": 114
+    },
+    {
+      "term": "ないことには○○ない",
+      "sense": null,
+      "gloss": "unless you do something",
+      "slug": "ないことには○○ない",
+      "topic_page": false,
+      "source_index": 115
+    },
+    {
+      "term": "ないではいられない",
+      "sense": null,
+      "gloss": "can't help but feel; can't help but do",
+      "slug": "ないではいられない",
+      "topic_page": false,
+      "source_index": 116
+    },
+    {
+      "term": "なお",
+      "sense": null,
+      "gloss": "furthermore; still; yet (used to add more information to the )",
+      "slug": "なお",
+      "topic_page": false,
+      "source_index": 117
+    },
+    {
+      "term": "中を",
+      "sense": null,
+      "gloss": "in; on",
+      "slug": "中を",
+      "topic_page": false,
+      "source_index": 118
+    },
+    {
+      "term": "なくはない",
+      "sense": null,
+      "gloss": "it's not that…; can; may be",
+      "slug": "なくはない",
+      "topic_page": false,
+      "source_index": 119
+    },
+    {
+      "term": "なにも○○ない",
+      "sense": null,
+      "gloss": "no need to",
+      "slug": "なにも○○ない",
+      "topic_page": false,
+      "source_index": 120
+    },
+    {
+      "term": "にあたり",
+      "sense": null,
+      "gloss": "at the time; on the occasion of",
+      "slug": "にあたり",
+      "topic_page": false,
+      "source_index": 121
+    },
+    {
+      "term": "に応じて",
+      "sense": null,
+      "gloss": "depending on; in accordance with",
+      "slug": "に応じて",
+      "topic_page": false,
+      "source_index": 122
+    },
+    {
+      "term": "にかかわらず",
+      "sense": null,
+      "gloss": "regardless of",
+      "slug": "にかかわらず",
+      "topic_page": false,
+      "source_index": 123
+    },
+    {
+      "term": "にかかわる",
+      "sense": null,
+      "gloss": "to relate to; to have to do with",
+      "slug": "にかかわる",
+      "topic_page": false,
+      "source_index": 124
+    },
+    {
+      "term": "に限って",
+      "sense": null,
+      "gloss": "only; particularly when",
+      "slug": "に限って",
+      "topic_page": false,
+      "source_index": 125
+    },
+    {
+      "term": "に限らず",
+      "sense": null,
+      "gloss": "not just; not only… but also",
+      "slug": "に限らず",
+      "topic_page": false,
+      "source_index": 126
+    },
+    {
+      "term": "に限る",
+      "sense": null,
+      "gloss": "nothing better than; there's nothing like",
+      "slug": "に限る",
+      "topic_page": false,
+      "source_index": 127
+    },
+    {
+      "term": "に決まっている",
+      "sense": null,
+      "gloss": "I'm sure that…",
+      "slug": "に決まっている",
+      "topic_page": false,
+      "source_index": 128
+    },
+    {
+      "term": "に加えて",
+      "sense": null,
+      "gloss": "in addition to",
+      "slug": "に加えて",
+      "topic_page": false,
+      "source_index": 129
+    },
+    {
+      "term": "に越したことはない",
+      "sense": null,
+      "gloss": "it's best that; there's nothing better than",
+      "slug": "に越したことはない",
+      "topic_page": false,
+      "source_index": 130
+    },
+    {
+      "term": "に応えて",
+      "sense": null,
+      "gloss": "in response to",
+      "slug": "に応えて",
+      "topic_page": false,
+      "source_index": 131
+    },
+    {
+      "term": "に基づいて",
+      "sense": null,
+      "gloss": "based on",
+      "slug": "に基づいて",
+      "topic_page": false,
+      "source_index": 132
+    },
+    {
+      "term": "に際して",
+      "sense": null,
+      "gloss": "on the occasion of; at the time of",
+      "slug": "に際して",
+      "topic_page": false,
+      "source_index": 133
+    },
+    {
+      "term": "に先立ち",
+      "sense": null,
+      "gloss": "before; prior to",
+      "slug": "に先立ち",
+      "topic_page": false,
+      "source_index": 134
+    },
+    {
+      "term": "に従って",
+      "sense": null,
+      "gloss": "as; therefore",
+      "slug": "に従って",
+      "topic_page": false,
+      "source_index": 135
+    },
+    {
+      "term": "にしたら",
+      "sense": null,
+      "gloss": "from the point of view of",
+      "slug": "にしたら",
+      "topic_page": false,
+      "source_index": 136
+    },
+    {
+      "term": "にしても○○にしても",
+      "sense": null,
+      "gloss": "regardless of whether",
+      "slug": "にしても○○にしても",
+      "topic_page": false,
+      "source_index": 137
+    },
+    {
+      "term": "にしろ / にせよ",
+      "sense": null,
+      "gloss": "though; even if; whether… or",
+      "slug": "にしろ-にせよ",
+      "topic_page": false,
+      "source_index": 138
+    },
+    {
+      "term": "にしろ○○にしろ",
+      "sense": null,
+      "gloss": "whether… or",
+      "slug": "にしろ○○にしろ",
+      "topic_page": false,
+      "source_index": 139
+    },
+    {
+      "term": "に過ぎない",
+      "sense": null,
+      "gloss": "no more than; just; merely",
+      "slug": "に過ぎない",
+      "topic_page": false,
+      "source_index": 140
+    },
+    {
+      "term": "に相違ない",
+      "sense": null,
+      "gloss": "without a doubt; certain; sure",
+      "slug": "に相違ない",
+      "topic_page": false,
+      "source_index": 141
+    },
+    {
+      "term": "に沿って",
+      "sense": null,
+      "gloss": "along with; in accordance with",
+      "slug": "に沿って",
+      "topic_page": false,
+      "source_index": 142
+    },
+    {
+      "term": "につき",
+      "sense": null,
+      "gloss": "due to; because; per; each",
+      "slug": "につき",
+      "topic_page": false,
+      "source_index": 143
+    },
+    {
+      "term": "につけ",
+      "sense": null,
+      "gloss": "both… and…; every time something happens",
+      "slug": "につけ",
+      "topic_page": false,
+      "source_index": 144
+    },
+    {
+      "term": "にて",
+      "sense": null,
+      "gloss": "in; at",
+      "slug": "にて",
+      "topic_page": false,
+      "source_index": 145
+    },
+    {
+      "term": "に伴って",
+      "sense": null,
+      "gloss": "as; due to",
+      "slug": "に伴って",
+      "topic_page": false,
+      "source_index": 146
+    },
+    {
+      "term": "には",
+      "sense": null,
+      "gloss": "in order to; for",
+      "slug": "には",
+      "topic_page": false,
+      "source_index": 147
+    },
+    {
+      "term": "に反して",
+      "sense": null,
+      "gloss": "against; contrary to",
+      "slug": "に反して",
+      "topic_page": false,
+      "source_index": 148
+    },
+    {
+      "term": "にほかならない",
+      "sense": null,
+      "gloss": "nothing but; none other than",
+      "slug": "にほかならない",
+      "topic_page": false,
+      "source_index": 149
+    },
+    {
+      "term": "に向かって",
+      "sense": null,
+      "gloss": "towards; to face; to head to",
+      "slug": "に向かって",
+      "topic_page": false,
+      "source_index": 150
+    },
+    {
+      "term": "にもかかわらず",
+      "sense": null,
+      "gloss": "despite; in spite of; although",
+      "slug": "にもかかわらず",
+      "topic_page": false,
+      "source_index": 151
+    },
+    {
+      "term": "にわたって",
+      "sense": null,
+      "gloss": "throughout; over (a period of time)",
+      "slug": "にわたって",
+      "topic_page": false,
+      "source_index": 152
+    },
+    {
+      "term": "抜きで / 抜きにして",
+      "sense": null,
+      "gloss": "leaving out; cutting out",
+      "slug": "抜きで-抜きにして",
+      "topic_page": false,
+      "source_index": 153
+    },
+    {
+      "term": "抜く",
+      "sense": null,
+      "gloss": "to do something to the end",
+      "slug": "抜く",
+      "topic_page": false,
+      "source_index": 154
+    },
+    {
+      "term": "ねばならない",
+      "sense": null,
+      "gloss": "have to; must",
+      "slug": "ねばならない",
+      "topic_page": false,
+      "source_index": 155
+    },
+    {
+      "term": "のみならず",
+      "sense": null,
+      "gloss": "not only; besides; as well",
+      "slug": "のみならず",
+      "topic_page": false,
+      "source_index": 156
+    },
+    {
+      "term": "のも当然だ",
+      "sense": null,
+      "gloss": "it's only natural that; no wonder",
+      "slug": "のも当然だ",
+      "topic_page": false,
+      "source_index": 157
+    },
+    {
+      "term": "のもとで",
+      "sense": null,
+      "gloss": "under",
+      "slug": "のもとで",
+      "topic_page": false,
+      "source_index": 158
+    },
+    {
+      "term": "のももっともだ",
+      "sense": null,
+      "gloss": "no wonder; … is only natural",
+      "slug": "のももっともだ",
+      "topic_page": false,
+      "source_index": 159
+    },
+    {
+      "term": "ばかり",
+      "sense": 2,
+      "gloss": "about; approximately",
+      "slug": "ばかり-2",
+      "topic_page": false,
+      "source_index": 160
+    },
+    {
+      "term": "ばかりだ",
+      "sense": null,
+      "gloss": "continue to",
+      "slug": "ばかりだ",
+      "topic_page": false,
+      "source_index": 161
+    },
+    {
+      "term": "ばかりに",
+      "sense": null,
+      "gloss": "because; on account of",
+      "slug": "ばかりに",
+      "topic_page": false,
+      "source_index": 162
+    },
+    {
+      "term": "果たして",
+      "sense": null,
+      "gloss": "sure enough; really",
+      "slug": "果たして",
+      "topic_page": false,
+      "source_index": 163
+    },
+    {
+      "term": "はともかく",
+      "sense": null,
+      "gloss": "whether or not",
+      "slug": "はともかく",
+      "topic_page": false,
+      "source_index": 164
+    },
+    {
+      "term": "は別として",
+      "sense": null,
+      "gloss": "aside from",
+      "slug": "は別として",
+      "topic_page": false,
+      "source_index": 165
+    },
+    {
+      "term": "はもとより",
+      "sense": null,
+      "gloss": "also; let alone",
+      "slug": "はもとより",
+      "topic_page": false,
+      "source_index": 166
+    },
+    {
+      "term": "反面",
+      "sense": null,
+      "gloss": "on the other hand",
+      "slug": "反面",
+      "topic_page": false,
+      "source_index": 167
+    },
+    {
+      "term": "ふうに",
+      "sense": null,
+      "gloss": "in a way (this way/that way/what way)",
+      "slug": "ふうに",
+      "topic_page": false,
+      "source_index": 168
+    },
+    {
+      "term": "ふたたび",
+      "sense": null,
+      "gloss": "again; once more",
+      "slug": "ふたたび",
+      "topic_page": false,
+      "source_index": 169
+    },
+    {
+      "term": "ぶりに",
+      "sense": null,
+      "gloss": "for the first time in",
+      "slug": "ぶりに",
+      "topic_page": false,
+      "source_index": 170
+    },
+    {
+      "term": "まい",
+      "sense": null,
+      "gloss": "won't; intend not to",
+      "slug": "まい",
+      "topic_page": false,
+      "source_index": 171
+    },
+    {
+      "term": "まったく○○ない",
+      "sense": null,
+      "gloss": "not~at all",
+      "slug": "まったく○○ない",
+      "topic_page": false,
+      "source_index": 172
+    },
+    {
+      "term": "むしろ",
+      "sense": null,
+      "gloss": "rather; instead",
+      "slug": "むしろ",
+      "topic_page": false,
+      "source_index": 173
+    },
+    {
+      "term": "も○○ば○○も",
+      "sense": null,
+      "gloss": "…and…",
+      "slug": "も○○ば○○も",
+      "topic_page": false,
+      "source_index": 174
+    },
+    {
+      "term": "もう少しで",
+      "sense": null,
+      "gloss": "almost; nearly",
+      "slug": "もう少しで",
+      "topic_page": false,
+      "source_index": 175
+    },
+    {
+      "term": "もかまわず",
+      "sense": null,
+      "gloss": "without worrying about",
+      "slug": "もかまわず",
+      "topic_page": false,
+      "source_index": 176
+    },
+    {
+      "term": "もっとも",
+      "sense": null,
+      "gloss": "but then; although",
+      "slug": "もっとも",
+      "topic_page": false,
+      "source_index": 177
+    },
+    {
+      "term": "ものか",
+      "sense": null,
+      "gloss": "as if",
+      "slug": "ものか",
+      "topic_page": false,
+      "source_index": 178
+    },
+    {
+      "term": "ものがある",
+      "sense": null,
+      "gloss": "(sentence-ending expression of strong judgement)",
+      "slug": "ものがある",
+      "topic_page": false,
+      "source_index": 179
+    },
+    {
+      "term": "ものだから",
+      "sense": null,
+      "gloss": "because; the reason is",
+      "slug": "ものだから",
+      "topic_page": false,
+      "source_index": 180
+    },
+    {
+      "term": "ものではない",
+      "sense": null,
+      "gloss": "shouldn't do something; it's impossible to do something",
+      "slug": "ものではない",
+      "topic_page": false,
+      "source_index": 181
+    },
+    {
+      "term": "ものなら",
+      "sense": null,
+      "gloss": "if one can do something",
+      "slug": "ものなら",
+      "topic_page": false,
+      "source_index": 182
+    },
+    {
+      "term": "ものの",
+      "sense": null,
+      "gloss": "but; although",
+      "slug": "ものの",
+      "topic_page": false,
+      "source_index": 183
+    },
+    {
+      "term": "やがて",
+      "sense": null,
+      "gloss": "soon; before long; eventually",
+      "slug": "やがて",
+      "topic_page": false,
+      "source_index": 184
+    },
+    {
+      "term": "やら○○やら",
+      "sense": null,
+      "gloss": "such things as",
+      "slug": "やら○○やら",
+      "topic_page": false,
+      "source_index": 185
+    },
+    {
+      "term": "ようがない / ようもない",
+      "sense": null,
+      "gloss": "there's no way to; it's impossible to",
+      "slug": "ようがない-ようもない",
+      "topic_page": false,
+      "source_index": 186
+    },
+    {
+      "term": "要するに",
+      "sense": null,
+      "gloss": "the point is",
+      "slug": "要するに",
+      "topic_page": false,
+      "source_index": 187
+    },
+    {
+      "term": "ようでは",
+      "sense": null,
+      "gloss": "if",
+      "slug": "ようでは",
+      "topic_page": false,
+      "source_index": 188
+    },
+    {
+      "term": "よりほかない",
+      "sense": null,
+      "gloss": "to have no choice but",
+      "slug": "よりほかない",
+      "topic_page": false,
+      "source_index": 189
+    },
+    {
+      "term": "ろくに○○ない",
+      "sense": null,
+      "gloss": "not doing something properly",
+      "slug": "ろくに○○ない",
+      "topic_page": false,
+      "source_index": 190
+    },
+    {
+      "term": "わずかに",
+      "sense": null,
+      "gloss": "slightly",
+      "slug": "わずかに",
+      "topic_page": false,
+      "source_index": 191
+    },
+    {
+      "term": "を○○として",
+      "sense": null,
+      "gloss": "as",
+      "slug": "を○○として",
+      "topic_page": false,
+      "source_index": 192
+    },
+    {
+      "term": "をきっかけに",
+      "sense": null,
+      "gloss": "with… as a start; as a result of",
+      "slug": "をきっかけに",
+      "topic_page": false,
+      "source_index": 193
+    },
+    {
+      "term": "を契機に",
+      "sense": null,
+      "gloss": "as a good opportunity to; as a result of",
+      "slug": "を契機に",
+      "topic_page": false,
+      "source_index": 194
+    },
+    {
+      "term": "をこめて",
+      "sense": null,
+      "gloss": "filled with",
+      "slug": "をこめて",
+      "topic_page": false,
+      "source_index": 195
+    },
+    {
+      "term": "を通じて / を通して",
+      "sense": null,
+      "gloss": "via; through",
+      "slug": "を通じて-を通して",
+      "topic_page": false,
+      "source_index": 196
+    },
+    {
+      "term": "を問わず",
+      "sense": null,
+      "gloss": "regardless of",
+      "slug": "を問わず",
+      "topic_page": false,
+      "source_index": 197
+    },
+    {
+      "term": "を除いて",
+      "sense": null,
+      "gloss": "except; with the exception of",
+      "slug": "を除いて",
+      "topic_page": false,
+      "source_index": 198
+    },
+    {
+      "term": "をめぐって",
+      "sense": null,
+      "gloss": "concerning; in regard to",
+      "slug": "をめぐって",
+      "topic_page": false,
+      "source_index": 199
+    },
+    {
+      "term": "をもとに",
+      "sense": null,
+      "gloss": "based on; from",
+      "slug": "をもとに",
+      "topic_page": false,
+      "source_index": 200
+    },
+    {
+      "term": "んだって",
+      "sense": null,
+      "gloss": "I heard that",
+      "slug": "んだって",
+      "topic_page": false,
+      "source_index": 201
+    }
+  ],
+  "n1": [
+    {
+      "term": "あえて",
+      "sense": null,
+      "gloss": "dare to",
+      "slug": "あえて",
+      "topic_page": false,
+      "source_index": 1
+    },
+    {
+      "term": "あくまでも",
+      "sense": null,
+      "gloss": "to the end; to the utmost degree",
+      "slug": "あくまでも",
+      "topic_page": false,
+      "source_index": 2
+    },
+    {
+      "term": "案の定",
+      "sense": null,
+      "gloss": "just as one thought",
+      "slug": "案の定",
+      "topic_page": false,
+      "source_index": 3
+    },
+    {
+      "term": "あらかじめ",
+      "sense": null,
+      "gloss": "beforehand; in advance",
+      "slug": "あらかじめ",
+      "topic_page": false,
+      "source_index": 4
+    },
+    {
+      "term": "あっての",
+      "sense": null,
+      "gloss": "to owe everything to",
+      "slug": "あっての",
+      "topic_page": false,
+      "source_index": 5
+    },
+    {
+      "term": "場合によっては",
+      "sense": null,
+      "gloss": "depending on the situation",
+      "slug": "場合によっては",
+      "topic_page": false,
+      "source_index": 6
+    },
+    {
+      "term": "ばこそ",
+      "sense": null,
+      "gloss": "only because",
+      "slug": "ばこそ",
+      "topic_page": false,
+      "source_index": 7
+    },
+    {
+      "term": "ばそれまでだ",
+      "sense": null,
+      "gloss": "if… then it's over",
+      "slug": "ばそれまでだ",
+      "topic_page": false,
+      "source_index": 8
+    },
+    {
+      "term": "べからず",
+      "sense": null,
+      "gloss": "must not; should not",
+      "slug": "べからず",
+      "topic_page": false,
+      "source_index": 9
+    },
+    {
+      "term": "べく",
+      "sense": null,
+      "gloss": "in order to; should",
+      "slug": "べく",
+      "topic_page": false,
+      "source_index": 10
+    },
+    {
+      "term": "べくもない",
+      "sense": null,
+      "gloss": "can't",
+      "slug": "べくもない",
+      "topic_page": false,
+      "source_index": 11
+    },
+    {
+      "term": "びる",
+      "sense": null,
+      "gloss": "seeming to be",
+      "slug": "びる",
+      "topic_page": false,
+      "source_index": 12
+    },
+    {
+      "term": "ぶり",
+      "sense": null,
+      "gloss": "style; manner",
+      "slug": "ぶり",
+      "topic_page": false,
+      "source_index": 13
+    },
+    {
+      "term": "ぶる",
+      "sense": null,
+      "gloss": "behaving like",
+      "slug": "ぶる",
+      "topic_page": false,
+      "source_index": 14
+    },
+    {
+      "term": "だに",
+      "sense": null,
+      "gloss": "even",
+      "slug": "だに",
+      "topic_page": false,
+      "source_index": 15
+    },
+    {
+      "term": "だの○○だの",
+      "sense": null,
+      "gloss": "and; and so forth",
+      "slug": "だの○○だの",
+      "topic_page": false,
+      "source_index": 16
+    },
+    {
+      "term": "であれ○○であれ",
+      "sense": null,
+      "gloss": "whether A or B",
+      "slug": "であれ○○であれ",
+      "topic_page": false,
+      "source_index": 17
+    },
+    {
+      "term": "であれ / であろうと",
+      "sense": null,
+      "gloss": "whoever / whatever / however",
+      "slug": "であれ-であろうと",
+      "topic_page": false,
+      "source_index": 18
+    },
+    {
+      "term": "でも何でもない",
+      "sense": null,
+      "gloss": "not in the least",
+      "slug": "でも何でもない",
+      "topic_page": false,
+      "source_index": 19
+    },
+    {
+      "term": "でなくてなんだろう",
+      "sense": null,
+      "gloss": "must be; is definitely",
+      "slug": "でなくてなんだろう",
+      "topic_page": false,
+      "source_index": 20
+    },
+    {
+      "term": "(で)すら",
+      "sense": null,
+      "gloss": "even",
+      "slug": "ですら",
+      "topic_page": false,
+      "source_index": 21
+    },
+    {
+      "term": "ではあるまいか",
+      "sense": null,
+      "gloss": "I wonder if it's not",
+      "slug": "ではあるまいか",
+      "topic_page": false,
+      "source_index": 22
+    },
+    {
+      "term": "ではあるまいし",
+      "sense": null,
+      "gloss": "it's not like; it isn't as if",
+      "slug": "ではあるまいし",
+      "topic_page": false,
+      "source_index": 23
+    },
+    {
+      "term": "ではすまない",
+      "sense": null,
+      "gloss": "it doesn't end with just",
+      "slug": "ではすまない",
+      "topic_page": false,
+      "source_index": 24
+    },
+    {
+      "term": "どうにも○○ない",
+      "sense": null,
+      "gloss": "not … by any means",
+      "slug": "どうにも○○ない",
+      "topic_page": false,
+      "source_index": 25
+    },
+    {
+      "term": "がてら",
+      "sense": null,
+      "gloss": "on the same occasion",
+      "slug": "がてら",
+      "topic_page": false,
+      "source_index": 26
+    },
+    {
+      "term": "が早いか",
+      "sense": null,
+      "gloss": "as soon as",
+      "slug": "が早いか",
+      "topic_page": false,
+      "source_index": 27
+    },
+    {
+      "term": "が最後",
+      "sense": null,
+      "gloss": "once something occurs; something else happens",
+      "slug": "が最後",
+      "topic_page": false,
+      "source_index": 28
+    },
+    {
+      "term": "ごとき / ごとく",
+      "sense": null,
+      "gloss": "like; as if",
+      "slug": "ごとき-ごとく",
+      "topic_page": false,
+      "source_index": 29
+    },
+    {
+      "term": "ぐるみ",
+      "sense": null,
+      "gloss": "together with",
+      "slug": "ぐるみ",
+      "topic_page": false,
+      "source_index": 30
+    },
+    {
+      "term": "羽目になる",
+      "sense": null,
+      "gloss": "to end up with (something unpleasant)",
+      "slug": "羽目になる",
+      "topic_page": false,
+      "source_index": 31
+    },
+    {
+      "term": "ひとつ",
+      "sense": null,
+      "gloss": "to give something a try",
+      "slug": "ひとつ",
+      "topic_page": false,
+      "source_index": 32
+    },
+    {
+      "term": "ほどのことはない",
+      "sense": null,
+      "gloss": "not worth; no need to",
+      "slug": "ほどのことはない",
+      "topic_page": false,
+      "source_index": 33
+    },
+    {
+      "term": "ほかに○○ない",
+      "sense": null,
+      "gloss": "no other",
+      "slug": "ほかに○○ない",
+      "topic_page": false,
+      "source_index": 34
+    },
+    {
+      "term": "ほうがましだ",
+      "sense": null,
+      "gloss": "I would rather",
+      "slug": "ほうがましだ",
+      "topic_page": false,
+      "source_index": 35
+    },
+    {
+      "term": "いかなる",
+      "sense": null,
+      "gloss": "any kind of",
+      "slug": "いかなる",
+      "topic_page": false,
+      "source_index": 36
+    },
+    {
+      "term": "いかんでは / いかんによっては",
+      "sense": null,
+      "gloss": "depending on",
+      "slug": "いかんでは-いかんによっては",
+      "topic_page": false,
+      "source_index": 37
+    },
+    {
+      "term": "いかんによらず",
+      "sense": null,
+      "gloss": "regardless of",
+      "slug": "いかんによらず",
+      "topic_page": false,
+      "source_index": 38
+    },
+    {
+      "term": "いかに",
+      "sense": null,
+      "gloss": "how",
+      "slug": "いかに",
+      "topic_page": false,
+      "source_index": 39
+    },
+    {
+      "term": "いかにも",
+      "sense": null,
+      "gloss": "indeed; really",
+      "slug": "いかにも",
+      "topic_page": false,
+      "source_index": 40
+    },
+    {
+      "term": "いまだに",
+      "sense": null,
+      "gloss": "still; even now",
+      "slug": "いまだに",
+      "topic_page": false,
+      "source_index": 41
+    },
+    {
+      "term": "いずれにせよ",
+      "sense": null,
+      "gloss": "at any rate; in any case",
+      "slug": "いずれにせよ",
+      "topic_page": false,
+      "source_index": 42
+    },
+    {
+      "term": "じみた",
+      "sense": null,
+      "gloss": "to look like",
+      "slug": "じみた",
+      "topic_page": false,
+      "source_index": 43
+    },
+    {
+      "term": "限りだ",
+      "sense": null,
+      "gloss": "I feel so",
+      "slug": "限りだ",
+      "topic_page": false,
+      "source_index": 44
+    },
+    {
+      "term": "かいもなく",
+      "sense": null,
+      "gloss": "even though",
+      "slug": "かいもなく",
+      "topic_page": false,
+      "source_index": 45
+    },
+    {
+      "term": "か否か",
+      "sense": null,
+      "gloss": "whether or not",
+      "slug": "か否か",
+      "topic_page": false,
+      "source_index": 46
+    },
+    {
+      "term": "可能性がある",
+      "sense": null,
+      "gloss": "there's a possibility",
+      "slug": "可能性がある",
+      "topic_page": false,
+      "source_index": 47
+    },
+    {
+      "term": "からある",
+      "sense": null,
+      "gloss": "as much as; as many as",
+      "slug": "からある",
+      "topic_page": false,
+      "source_index": 48
+    },
+    {
+      "term": "かれ○○かれ",
+      "sense": null,
+      "gloss": "or",
+      "slug": "かれ○○かれ",
+      "topic_page": false,
+      "source_index": 49
+    },
+    {
+      "term": "かたがた",
+      "sense": null,
+      "gloss": "while; for the purpose of",
+      "slug": "かたがた",
+      "topic_page": false,
+      "source_index": 50
+    },
+    {
+      "term": "かたわら",
+      "sense": null,
+      "gloss": "while; at the same time",
+      "slug": "かたわら",
+      "topic_page": false,
+      "source_index": 51
+    },
+    {
+      "term": "かつて",
+      "sense": null,
+      "gloss": "once; before",
+      "slug": "かつて",
+      "topic_page": false,
+      "source_index": 52
+    },
+    {
+      "term": "嫌いがある",
+      "sense": null,
+      "gloss": "to have a tendency to",
+      "slug": "嫌いがある",
+      "topic_page": false,
+      "source_index": 53
+    },
+    {
+      "term": "きっての",
+      "sense": null,
+      "gloss": "the most … of all",
+      "slug": "きっての",
+      "topic_page": false,
+      "source_index": 54
+    },
+    {
+      "term": "きりがない",
+      "sense": null,
+      "gloss": "there's no end to",
+      "slug": "きりがない",
+      "topic_page": false,
+      "source_index": 55
+    },
+    {
+      "term": "極まる / 極まりない",
+      "sense": null,
+      "gloss": "extremely",
+      "slug": "極まる-極まりない",
+      "topic_page": false,
+      "source_index": 56
+    },
+    {
+      "term": "極めて",
+      "sense": null,
+      "gloss": "extremely; exceedingly",
+      "slug": "極めて",
+      "topic_page": false,
+      "source_index": 57
+    },
+    {
+      "term": "ことだし",
+      "sense": null,
+      "gloss": "because; since",
+      "slug": "ことだし",
+      "topic_page": false,
+      "source_index": 58
+    },
+    {
+      "term": "ことごとく",
+      "sense": null,
+      "gloss": "altogether; entirely",
+      "slug": "ことごとく",
+      "topic_page": false,
+      "source_index": 59
+    },
+    {
+      "term": "ことなしに",
+      "sense": null,
+      "gloss": "without doing something",
+      "slug": "ことなしに",
+      "topic_page": false,
+      "source_index": 60
+    },
+    {
+      "term": "ことのないよう",
+      "sense": null,
+      "gloss": "so as not to",
+      "slug": "ことのないよう",
+      "topic_page": false,
+      "source_index": 61
+    },
+    {
+      "term": "こととて",
+      "sense": null,
+      "gloss": "because; since",
+      "slug": "こととて",
+      "topic_page": false,
+      "source_index": 62
+    },
+    {
+      "term": "くらいなら",
+      "sense": null,
+      "gloss": "rather than",
+      "slug": "くらいなら",
+      "topic_page": false,
+      "source_index": 63
+    },
+    {
+      "term": "くらいのものだ",
+      "sense": null,
+      "gloss": "only",
+      "slug": "くらいのものだ",
+      "topic_page": false,
+      "source_index": 64
+    },
+    {
+      "term": "までだ",
+      "sense": null,
+      "gloss": "only",
+      "slug": "までだ",
+      "topic_page": false,
+      "source_index": 65
+    },
+    {
+      "term": "までもない",
+      "sense": null,
+      "gloss": "it's not necessary to",
+      "slug": "までもない",
+      "topic_page": false,
+      "source_index": 66
+    },
+    {
+      "term": "まじき",
+      "sense": null,
+      "gloss": "should not; must not",
+      "slug": "まじき",
+      "topic_page": false,
+      "source_index": 67
+    },
+    {
+      "term": "ままに",
+      "sense": null,
+      "gloss": "to do as",
+      "slug": "ままに",
+      "topic_page": false,
+      "source_index": 68
+    },
+    {
+      "term": "まみれ",
+      "sense": null,
+      "gloss": "to be covered in",
+      "slug": "まみれ",
+      "topic_page": false,
+      "source_index": 69
+    },
+    {
+      "term": "まるっきり",
+      "sense": null,
+      "gloss": "totally; completely",
+      "slug": "まるっきり",
+      "topic_page": false,
+      "source_index": 70
+    },
+    {
+      "term": "めく",
+      "sense": null,
+      "gloss": "to show signs of",
+      "slug": "めく",
+      "topic_page": false,
+      "source_index": 71
+    },
+    {
+      "term": "もはや",
+      "sense": null,
+      "gloss": "already; no longer",
+      "slug": "もはや",
+      "topic_page": false,
+      "source_index": 72
+    },
+    {
+      "term": "も顧みず / を顧みず",
+      "sense": null,
+      "gloss": "regardless of; despite",
+      "slug": "も顧みず-を顧みず",
+      "topic_page": false,
+      "source_index": 73
+    },
+    {
+      "term": "もしないで",
+      "sense": null,
+      "gloss": "without even doing",
+      "slug": "もしないで",
+      "topic_page": false,
+      "source_index": 74
+    },
+    {
+      "term": "もので",
+      "sense": null,
+      "gloss": "because; for that reason",
+      "slug": "もので",
+      "topic_page": false,
+      "source_index": 75
+    },
+    {
+      "term": "ものを",
+      "sense": null,
+      "gloss": "I wish; if only",
+      "slug": "ものを",
+      "topic_page": false,
+      "source_index": 76
+    },
+    {
+      "term": "ものと思われる",
+      "sense": null,
+      "gloss": "to think; to suppose",
+      "slug": "ものと思われる",
+      "topic_page": false,
+      "source_index": 77
+    },
+    {
+      "term": "ものとして",
+      "sense": null,
+      "gloss": "to assume; to suppose",
+      "slug": "ものとして",
+      "topic_page": false,
+      "source_index": 78
+    },
+    {
+      "term": "もさることながら",
+      "sense": null,
+      "gloss": "not only… but also",
+      "slug": "もさることながら",
+      "topic_page": false,
+      "source_index": 79
+    },
+    {
+      "term": "もしくは",
+      "sense": null,
+      "gloss": "or; otherwise",
+      "slug": "もしくは",
+      "topic_page": false,
+      "source_index": 80
+    },
+    {
+      "term": "ながらに / ながらの",
+      "sense": null,
+      "gloss": "while; during",
+      "slug": "ながらに-ながらの",
+      "topic_page": false,
+      "source_index": 81
+    },
+    {
+      "term": "ないではおかない / ずにはおかない",
+      "sense": null,
+      "gloss": "will definitely; cannot not",
+      "slug": "ないではおかない-ずにはおかない",
+      "topic_page": false,
+      "source_index": 82
+    },
+    {
+      "term": "ないではすまない / ずにはすまない",
+      "sense": null,
+      "gloss": "must",
+      "slug": "ないではすまない-ずにはすまない",
+      "topic_page": false,
+      "source_index": 83
+    },
+    {
+      "term": "ないまでも",
+      "sense": null,
+      "gloss": "even if something isn't done",
+      "slug": "ないまでも",
+      "topic_page": false,
+      "source_index": 84
+    },
+    {
+      "term": "ないものか",
+      "sense": null,
+      "gloss": "can't we…?; can't I…?",
+      "slug": "ないものか",
+      "topic_page": false,
+      "source_index": 85
+    },
+    {
+      "term": "ないものでもない",
+      "sense": null,
+      "gloss": "(something) is not entirely impossible",
+      "slug": "ないものでもない",
+      "topic_page": false,
+      "source_index": 86
+    },
+    {
+      "term": "ないとも限らない",
+      "sense": null,
+      "gloss": "might",
+      "slug": "ないとも限らない",
+      "topic_page": false,
+      "source_index": 87
+    },
+    {
+      "term": "なくして",
+      "sense": null,
+      "gloss": "without",
+      "slug": "なくして",
+      "topic_page": false,
+      "source_index": 88
+    },
+    {
+      "term": "何しろ",
+      "sense": null,
+      "gloss": "in any case; as you know",
+      "slug": "何しろ",
+      "topic_page": false,
+      "source_index": 89
+    },
+    {
+      "term": "なしに",
+      "sense": null,
+      "gloss": "without",
+      "slug": "なしに",
+      "topic_page": false,
+      "source_index": 90
+    },
+    {
+      "term": "ならでは",
+      "sense": null,
+      "gloss": "uniquely applying to",
+      "slug": "ならでは",
+      "topic_page": false,
+      "source_index": 91
+    },
+    {
+      "term": "ならいざしらず",
+      "sense": null,
+      "gloss": "I don't know about A; but B",
+      "slug": "ならいざしらず",
+      "topic_page": false,
+      "source_index": 92
+    },
+    {
+      "term": "なり",
+      "sense": null,
+      "gloss": "as soon as",
+      "slug": "なり",
+      "topic_page": false,
+      "source_index": 93
+    },
+    {
+      "term": "なり○○なり",
+      "sense": null,
+      "gloss": "or",
+      "slug": "なり○○なり",
+      "topic_page": false,
+      "source_index": 94
+    },
+    {
+      "term": "なりに / なりの",
+      "sense": null,
+      "gloss": "in one's own way or style",
+      "slug": "なりに-なりの",
+      "topic_page": false,
+      "source_index": 95
+    },
+    {
+      "term": "なりとも",
+      "sense": null,
+      "gloss": "even a little; at least",
+      "slug": "なりとも",
+      "topic_page": false,
+      "source_index": 96
+    },
+    {
+      "term": "に値する",
+      "sense": null,
+      "gloss": "to be worth; to deserve",
+      "slug": "に値する",
+      "topic_page": false,
+      "source_index": 97
+    },
+    {
+      "term": "にあたらない",
+      "sense": null,
+      "gloss": "it's not worth; there's no need to",
+      "slug": "にあたらない",
+      "topic_page": false,
+      "source_index": 98
+    },
+    {
+      "term": "にあって",
+      "sense": null,
+      "gloss": "at; during; in the condition of",
+      "slug": "にあって",
+      "topic_page": false,
+      "source_index": 99
+    },
+    {
+      "term": "にひきかえ",
+      "sense": null,
+      "gloss": "in contrast to",
+      "slug": "にひきかえ",
+      "topic_page": false,
+      "source_index": 100
+    },
+    {
+      "term": "に至るまで",
+      "sense": null,
+      "gloss": "until; as far as",
+      "slug": "に至るまで",
+      "topic_page": false,
+      "source_index": 101
+    },
+    {
+      "term": "に至っては",
+      "sense": null,
+      "gloss": "as for; when it comes to",
+      "slug": "に至っては",
+      "topic_page": false,
+      "source_index": 102
+    },
+    {
+      "term": "に言わせれば",
+      "sense": null,
+      "gloss": "if you ask; if one may say",
+      "slug": "に言わせれば",
+      "topic_page": false,
+      "source_index": 103
+    },
+    {
+      "term": "にかかっている",
+      "sense": null,
+      "gloss": "to depend on",
+      "slug": "にかかっている",
+      "topic_page": false,
+      "source_index": 104
+    },
+    {
+      "term": "にかたくない",
+      "sense": null,
+      "gloss": "it's not hard to",
+      "slug": "にかたくない",
+      "topic_page": false,
+      "source_index": 105
+    },
+    {
+      "term": "にまつわる",
+      "sense": null,
+      "gloss": "to be related to",
+      "slug": "にまつわる",
+      "topic_page": false,
+      "source_index": 106
+    },
+    {
+      "term": "にもほどがある",
+      "sense": null,
+      "gloss": "to have a limit; to go too far",
+      "slug": "にもほどがある",
+      "topic_page": false,
+      "source_index": 107
+    },
+    {
+      "term": "にもまして",
+      "sense": null,
+      "gloss": "more than; above",
+      "slug": "にもまして",
+      "topic_page": false,
+      "source_index": 108
+    },
+    {
+      "term": "に則って",
+      "sense": null,
+      "gloss": "in accordance with",
+      "slug": "に則って",
+      "topic_page": false,
+      "source_index": 109
+    },
+    {
+      "term": "に先駆けて",
+      "sense": null,
+      "gloss": "to be the first",
+      "slug": "に先駆けて",
+      "topic_page": false,
+      "source_index": 110
+    },
+    {
+      "term": "にしたって",
+      "sense": null,
+      "gloss": "even; even if",
+      "slug": "にしたって",
+      "topic_page": false,
+      "source_index": 111
+    },
+    {
+      "term": "にして",
+      "sense": null,
+      "gloss": "only; in (time span)",
+      "slug": "にして",
+      "topic_page": false,
+      "source_index": 112
+    },
+    {
+      "term": "に即して",
+      "sense": null,
+      "gloss": "in keeping with",
+      "slug": "に即して",
+      "topic_page": false,
+      "source_index": 113
+    },
+    {
+      "term": "にたえる / にたえない",
+      "sense": null,
+      "gloss": "can/can't do something",
+      "slug": "にたえる-にたえない",
+      "topic_page": false,
+      "source_index": 114
+    },
+    {
+      "term": "に足る / に足りる",
+      "sense": null,
+      "gloss": "to be enough; to be worthy of",
+      "slug": "に足る-に足りる",
+      "topic_page": false,
+      "source_index": 115
+    },
+    {
+      "term": "に足りない",
+      "sense": null,
+      "gloss": "to be not worth",
+      "slug": "に足りない",
+      "topic_page": false,
+      "source_index": 116
+    },
+    {
+      "term": "に照らして",
+      "sense": null,
+      "gloss": "in comparison with; according to",
+      "slug": "に照らして",
+      "topic_page": false,
+      "source_index": 117
+    },
+    {
+      "term": "にとどまらず",
+      "sense": null,
+      "gloss": "not limited to",
+      "slug": "にとどまらず",
+      "topic_page": false,
+      "source_index": 118
+    },
+    {
+      "term": "には及ばない",
+      "sense": null,
+      "gloss": "there's no need to",
+      "slug": "には及ばない",
+      "topic_page": false,
+      "source_index": 119
+    },
+    {
+      "term": "によらず",
+      "sense": null,
+      "gloss": "regardless of",
+      "slug": "によらず",
+      "topic_page": false,
+      "source_index": 120
+    },
+    {
+      "term": "んばかりに",
+      "sense": null,
+      "gloss": "as if; as though",
+      "slug": "んばかりに",
+      "topic_page": false,
+      "source_index": 121
+    },
+    {
+      "term": "んがため",
+      "sense": null,
+      "gloss": "in order to",
+      "slug": "んがため",
+      "topic_page": false,
+      "source_index": 122
+    },
+    {
+      "term": "の至り",
+      "sense": null,
+      "gloss": "utmost",
+      "slug": "の至り",
+      "topic_page": false,
+      "source_index": 123
+    },
+    {
+      "term": "の極み",
+      "sense": null,
+      "gloss": "utmost",
+      "slug": "の極み",
+      "topic_page": false,
+      "source_index": 124
+    },
+    {
+      "term": "のみか",
+      "sense": null,
+      "gloss": "not only… but also",
+      "slug": "のみか",
+      "topic_page": false,
+      "source_index": 125
+    },
+    {
+      "term": "のなんのって",
+      "sense": null,
+      "gloss": "extremely",
+      "slug": "のなんのって",
+      "topic_page": false,
+      "source_index": 126
+    },
+    {
+      "term": "を踏まえて",
+      "sense": null,
+      "gloss": "based on",
+      "slug": "を踏まえて",
+      "topic_page": false,
+      "source_index": 127
+    },
+    {
+      "term": "を経て",
+      "sense": null,
+      "gloss": "through; after; via",
+      "slug": "を経て",
+      "topic_page": false,
+      "source_index": 128
+    },
+    {
+      "term": "をいいことに",
+      "sense": null,
+      "gloss": "to take advantage of",
+      "slug": "をいいことに",
+      "topic_page": false,
+      "source_index": 129
+    },
+    {
+      "term": "を限りに",
+      "sense": null,
+      "gloss": "starting from",
+      "slug": "を限りに",
+      "topic_page": false,
+      "source_index": 130
+    },
+    {
+      "term": "を兼ねて",
+      "sense": null,
+      "gloss": "also for the purpose of",
+      "slug": "を兼ねて",
+      "topic_page": false,
+      "source_index": 131
+    },
+    {
+      "term": "を皮切りに",
+      "sense": null,
+      "gloss": "starting with",
+      "slug": "を皮切りに",
+      "topic_page": false,
+      "source_index": 132
+    },
+    {
+      "term": "を機に",
+      "sense": null,
+      "gloss": "as an opportunity to",
+      "slug": "を機に",
+      "topic_page": false,
+      "source_index": 133
+    },
+    {
+      "term": "を禁じえない",
+      "sense": null,
+      "gloss": "can't help but",
+      "slug": "を禁じえない",
+      "topic_page": false,
+      "source_index": 134
+    },
+    {
+      "term": "をものともせず",
+      "sense": null,
+      "gloss": "in defiance of",
+      "slug": "をものともせず",
+      "topic_page": false,
+      "source_index": 135
+    },
+    {
+      "term": "をもって",
+      "sense": 1,
+      "gloss": "by means of",
+      "slug": "をもって-1",
+      "topic_page": false,
+      "source_index": 136
+    },
+    {
+      "term": "をもって",
+      "sense": 2,
+      "gloss": "at the time",
+      "slug": "をもって-2",
+      "topic_page": false,
+      "source_index": 137
+    },
+    {
+      "term": "をおいて",
+      "sense": null,
+      "gloss": "other than; without",
+      "slug": "をおいて",
+      "topic_page": false,
+      "source_index": 138
+    },
+    {
+      "term": "を余儀なくされる",
+      "sense": null,
+      "gloss": "to be forced to do something",
+      "slug": "を余儀なくされる",
+      "topic_page": false,
+      "source_index": 139
+    },
+    {
+      "term": "をよそに",
+      "sense": null,
+      "gloss": "despite",
+      "slug": "をよそに",
+      "topic_page": false,
+      "source_index": 140
+    },
+    {
+      "term": "思いをする",
+      "sense": null,
+      "gloss": "to feel",
+      "slug": "思いをする",
+      "topic_page": false,
+      "source_index": 141
+    },
+    {
+      "term": "折に",
+      "sense": null,
+      "gloss": "when; on the occasion",
+      "slug": "折に",
+      "topic_page": false,
+      "source_index": 142
+    },
+    {
+      "term": "およそ",
+      "sense": null,
+      "gloss": "totally; (not) at all",
+      "slug": "およそ",
+      "topic_page": false,
+      "source_index": 143
+    },
+    {
+      "term": "さもないと",
+      "sense": null,
+      "gloss": "otherwise; else; if not so",
+      "slug": "さもないと",
+      "topic_page": false,
+      "source_index": 144
+    },
+    {
+      "term": "さぞ",
+      "sense": null,
+      "gloss": "I'm sure; I'm certain",
+      "slug": "さぞ",
+      "topic_page": false,
+      "source_index": 145
+    },
+    {
+      "term": "始末だ",
+      "sense": null,
+      "gloss": "end up; in the end",
+      "slug": "始末だ",
+      "topic_page": false,
+      "source_index": 146
+    },
+    {
+      "term": "そばから",
+      "sense": null,
+      "gloss": "as soon as",
+      "slug": "そばから",
+      "topic_page": false,
+      "source_index": 147
+    },
+    {
+      "term": "さも",
+      "sense": null,
+      "gloss": "truly; really",
+      "slug": "さも",
+      "topic_page": false,
+      "source_index": 148
+    },
+    {
+      "term": "それなりに",
+      "sense": null,
+      "gloss": "as it is; in its own way",
+      "slug": "それなりに",
+      "topic_page": false,
+      "source_index": 149
+    },
+    {
+      "term": "そうにもない",
+      "sense": null,
+      "gloss": "impossible; unlikely",
+      "slug": "そうにもない",
+      "topic_page": false,
+      "source_index": 150
+    },
+    {
+      "term": "ただ○○のみだ",
+      "sense": null,
+      "gloss": "can do nothing but",
+      "slug": "ただ○○のみだ",
+      "topic_page": false,
+      "source_index": 151
+    },
+    {
+      "term": "た拍子に",
+      "sense": null,
+      "gloss": "the instant",
+      "slug": "た拍子に",
+      "topic_page": false,
+      "source_index": 152
+    },
+    {
+      "term": "ためしがない",
+      "sense": null,
+      "gloss": "(something) is never the case",
+      "slug": "ためしがない",
+      "topic_page": false,
+      "source_index": 153
+    },
+    {
+      "term": "たりとも",
+      "sense": null,
+      "gloss": "(not) even; (not) any",
+      "slug": "たりとも",
+      "topic_page": false,
+      "source_index": 154
+    },
+    {
+      "term": "た瞬間に",
+      "sense": null,
+      "gloss": "the moment",
+      "slug": "た瞬間に",
+      "topic_page": false,
+      "source_index": 155
+    },
+    {
+      "term": "てっきり",
+      "sense": null,
+      "gloss": "surely; certainly",
+      "slug": "てっきり",
+      "topic_page": false,
+      "source_index": 156
+    },
+    {
+      "term": "たところで",
+      "sense": null,
+      "gloss": "even if one does something",
+      "slug": "たところで",
+      "topic_page": false,
+      "source_index": 157
+    },
+    {
+      "term": "てからというもの",
+      "sense": null,
+      "gloss": "after; since",
+      "slug": "てからというもの",
+      "topic_page": false,
+      "source_index": 158
+    },
+    {
+      "term": "てかなわない",
+      "sense": null,
+      "gloss": "can't stand; unable to",
+      "slug": "てかなわない",
+      "topic_page": false,
+      "source_index": 159
+    },
+    {
+      "term": "てまで",
+      "sense": null,
+      "gloss": "even",
+      "slug": "てまで",
+      "topic_page": false,
+      "source_index": 160
+    },
+    {
+      "term": "てみせる",
+      "sense": null,
+      "gloss": "I'll definitely",
+      "slug": "てみせる",
+      "topic_page": false,
+      "source_index": 161
+    },
+    {
+      "term": "てもどうにもならない",
+      "sense": null,
+      "gloss": "it's no use",
+      "slug": "てもどうにもならない",
+      "topic_page": false,
+      "source_index": 162
+    },
+    {
+      "term": "ても始まらない",
+      "sense": null,
+      "gloss": "it's no use",
+      "slug": "ても始まらない",
+      "topic_page": false,
+      "source_index": 163
+    },
+    {
+      "term": "ても差し支えない",
+      "sense": null,
+      "gloss": "can; it's okay if",
+      "slug": "ても差し支えない",
+      "topic_page": false,
+      "source_index": 164
+    },
+    {
+      "term": "てしかるべきだ",
+      "sense": null,
+      "gloss": "should",
+      "slug": "てしかるべきだ",
+      "topic_page": false,
+      "source_index": 165
+    },
+    {
+      "term": "ってば",
+      "sense": null,
+      "gloss": "I said; I told you to",
+      "slug": "ってば",
+      "topic_page": false,
+      "source_index": 166
+    },
+    {
+      "term": "てやまない",
+      "sense": null,
+      "gloss": "always; never stop",
+      "slug": "てやまない",
+      "topic_page": false,
+      "source_index": 167
+    },
+    {
+      "term": "と相まって",
+      "sense": null,
+      "gloss": "together with",
+      "slug": "と相まって",
+      "topic_page": false,
+      "source_index": 168
+    },
+    {
+      "term": "とあれば",
+      "sense": null,
+      "gloss": "if; if it's the case that",
+      "slug": "とあれば",
+      "topic_page": false,
+      "source_index": 169
+    },
+    {
+      "term": "とあって",
+      "sense": null,
+      "gloss": "because of",
+      "slug": "とあって",
+      "topic_page": false,
+      "source_index": 170
+    },
+    {
+      "term": "とばかりに",
+      "sense": null,
+      "gloss": "as if; as though",
+      "slug": "とばかりに",
+      "topic_page": false,
+      "source_index": 171
+    },
+    {
+      "term": "といえども",
+      "sense": null,
+      "gloss": "even; even if",
+      "slug": "といえども",
+      "topic_page": false,
+      "source_index": 172
+    },
+    {
+      "term": "といい○○といい",
+      "sense": null,
+      "gloss": "and; or",
+      "slug": "といい○○といい",
+      "topic_page": false,
+      "source_index": 173
+    },
+    {
+      "term": "といったらない",
+      "sense": null,
+      "gloss": "very; extremely",
+      "slug": "といったらない",
+      "topic_page": false,
+      "source_index": 174
+    },
+    {
+      "term": "という",
+      "sense": null,
+      "gloss": "all; every",
+      "slug": "という",
+      "topic_page": false,
+      "source_index": 175
+    },
+    {
+      "term": "というか",
+      "sense": null,
+      "gloss": "or; or more precisely",
+      "slug": "というか",
+      "topic_page": false,
+      "source_index": 176
+    },
+    {
+      "term": "というか○○というか",
+      "sense": null,
+      "gloss": "(I'm not sure if it's) A or B",
+      "slug": "というか○○というか",
+      "topic_page": false,
+      "source_index": 177
+    },
+    {
+      "term": "というところだ / といったところだ",
+      "sense": null,
+      "gloss": "approximately; about",
+      "slug": "というところだ-といったところだ",
+      "topic_page": false,
+      "source_index": 178
+    },
+    {
+      "term": "というもの",
+      "sense": null,
+      "gloss": "during a period of time",
+      "slug": "というもの",
+      "topic_page": false,
+      "source_index": 179
+    },
+    {
+      "term": "というわけだ",
+      "sense": null,
+      "gloss": "this means",
+      "slug": "というわけだ",
+      "topic_page": false,
+      "source_index": 180
+    },
+    {
+      "term": "というわけではない",
+      "sense": null,
+      "gloss": "it's not that; it doesn't mean that",
+      "slug": "というわけではない",
+      "topic_page": false,
+      "source_index": 181
+    },
+    {
+      "term": "といわず",
+      "sense": null,
+      "gloss": "not just; both",
+      "slug": "といわず",
+      "topic_page": false,
+      "source_index": 182
+    },
+    {
+      "term": "ときたら",
+      "sense": null,
+      "gloss": "when it comes to; concerning",
+      "slug": "ときたら",
+      "topic_page": false,
+      "source_index": 183
+    },
+    {
+      "term": "ときている",
+      "sense": null,
+      "gloss": "because",
+      "slug": "ときている",
+      "topic_page": false,
+      "source_index": 184
+    },
+    {
+      "term": "ところがある",
+      "sense": null,
+      "gloss": "there is",
+      "slug": "ところがある",
+      "topic_page": false,
+      "source_index": 185
+    },
+    {
+      "term": "ところから",
+      "sense": null,
+      "gloss": "from the fact that",
+      "slug": "ところから",
+      "topic_page": false,
+      "source_index": 186
+    },
+    {
+      "term": "とみられる",
+      "sense": null,
+      "gloss": "to be regarded as; to be expected to",
+      "slug": "とみられる",
+      "topic_page": false,
+      "source_index": 187
+    },
+    {
+      "term": "とみるや",
+      "sense": null,
+      "gloss": "at the sight of; upon seeing",
+      "slug": "とみるや",
+      "topic_page": false,
+      "source_index": 188
+    },
+    {
+      "term": "ともなく",
+      "sense": null,
+      "gloss": "to do something without thinking about it",
+      "slug": "ともなく",
+      "topic_page": false,
+      "source_index": 189
+    },
+    {
+      "term": "ともなると / ともなれば",
+      "sense": null,
+      "gloss": "when; once (something happens)",
+      "slug": "ともなると-ともなれば",
+      "topic_page": false,
+      "source_index": 190
+    },
+    {
+      "term": "ともすれば",
+      "sense": null,
+      "gloss": "apt to; prone to",
+      "slug": "ともすれば",
+      "topic_page": false,
+      "source_index": 191
+    },
+    {
+      "term": "と思いきや",
+      "sense": null,
+      "gloss": "I thought",
+      "slug": "と思いきや",
+      "topic_page": false,
+      "source_index": 192
+    },
+    {
+      "term": "とりわけ",
+      "sense": null,
+      "gloss": "especially",
+      "slug": "とりわけ",
+      "topic_page": false,
+      "source_index": 193
+    },
+    {
+      "term": "とされる",
+      "sense": null,
+      "gloss": "is considered",
+      "slug": "とされる",
+      "topic_page": false,
+      "source_index": 194
+    },
+    {
+      "term": "とっさに",
+      "sense": null,
+      "gloss": "at once; right away",
+      "slug": "とっさに",
+      "topic_page": false,
+      "source_index": 195
+    },
+    {
+      "term": "としたって / としたところで",
+      "sense": null,
+      "gloss": "even if",
+      "slug": "としたって-としたところで",
+      "topic_page": false,
+      "source_index": 196
+    },
+    {
+      "term": "として○○ない",
+      "sense": null,
+      "gloss": "not even one",
+      "slug": "として○○ない",
+      "topic_page": false,
+      "source_index": 197
+    },
+    {
+      "term": "とて",
+      "sense": null,
+      "gloss": "even if; even though",
+      "slug": "とて",
+      "topic_page": false,
+      "source_index": 198
+    },
+    {
+      "term": "とても○○ない",
+      "sense": null,
+      "gloss": "cannot possibly",
+      "slug": "とても○○ない",
+      "topic_page": false,
+      "source_index": 199
+    },
+    {
+      "term": "とは",
+      "sense": null,
+      "gloss": "(indicates word or phrase being defined)",
+      "slug": "とは",
+      "topic_page": false,
+      "source_index": 200
+    },
+    {
+      "term": "とはいえ",
+      "sense": null,
+      "gloss": "nonetheless; although",
+      "slug": "とはいえ",
+      "topic_page": false,
+      "source_index": 201
+    },
+    {
+      "term": "とはいうものの",
+      "sense": null,
+      "gloss": "having said that; be that as it may",
+      "slug": "とはいうものの",
+      "topic_page": false,
+      "source_index": 202
+    },
+    {
+      "term": "つ○○つ",
+      "sense": null,
+      "gloss": "(indicates two contrasting actions)",
+      "slug": "つ○○つ",
+      "topic_page": false,
+      "source_index": 203
+    },
+    {
+      "term": "はおろか",
+      "sense": null,
+      "gloss": "let alone; not to mention",
+      "slug": "はおろか",
+      "topic_page": false,
+      "source_index": 204
+    },
+    {
+      "term": "はさておき",
+      "sense": null,
+      "gloss": "setting aside",
+      "slug": "はさておき",
+      "topic_page": false,
+      "source_index": 205
+    },
+    {
+      "term": "や否や",
+      "sense": null,
+      "gloss": "the moment that; as soon as",
+      "slug": "や否や",
+      "topic_page": false,
+      "source_index": 206
+    },
+    {
+      "term": "やしない",
+      "sense": null,
+      "gloss": "not (emphatic negative)",
+      "slug": "やしない",
+      "topic_page": false,
+      "source_index": 207
+    },
+    {
+      "term": "(よ)うが / (よ)うと",
+      "sense": null,
+      "gloss": "no matter how/what",
+      "slug": "ようが-ようと",
+      "topic_page": false,
+      "source_index": 208
+    },
+    {
+      "term": "(よ)うが○○まいが / (よ)うと○○まいと",
+      "sense": null,
+      "gloss": "whether or not",
+      "slug": "ようが○○まいが-ようと○○まいと",
+      "topic_page": false,
+      "source_index": 209
+    },
+    {
+      "term": "(よ)うか○○まいか",
+      "sense": null,
+      "gloss": "whether or not",
+      "slug": "ようか○○まいか",
+      "topic_page": false,
+      "source_index": 210
+    },
+    {
+      "term": "(よ)うものなら",
+      "sense": null,
+      "gloss": "if one chooses to",
+      "slug": "ようものなら",
+      "topic_page": false,
+      "source_index": 211
+    },
+    {
+      "term": "(よ)うにも○○ない",
+      "sense": null,
+      "gloss": "even if one tries to do something; it can't be done",
+      "slug": "ようにも○○ない",
+      "topic_page": false,
+      "source_index": 212
+    },
+    {
+      "term": "ようによっては",
+      "sense": null,
+      "gloss": "depending on",
+      "slug": "ようによっては",
+      "topic_page": false,
+      "source_index": 213
+    },
+    {
+      "term": "ゆえに",
+      "sense": null,
+      "gloss": "therefore; consequently",
+      "slug": "ゆえに",
+      "topic_page": false,
+      "source_index": 214
+    },
+    {
+      "term": "ざる",
+      "sense": null,
+      "gloss": "not; -un",
+      "slug": "ざる",
+      "topic_page": false,
+      "source_index": 215
+    },
+    {
+      "term": "ずじまい",
+      "sense": null,
+      "gloss": "never",
+      "slug": "ずじまい",
+      "topic_page": false,
+      "source_index": 216
+    },
+    {
+      "term": "ずくめ",
+      "sense": null,
+      "gloss": "entirely; completely",
+      "slug": "ずくめ",
+      "topic_page": false,
+      "source_index": 217
+    },
+    {
+      "term": "ずとも",
+      "sense": null,
+      "gloss": "even without doing",
+      "slug": "ずとも",
+      "topic_page": false,
+      "source_index": 218
+    }
+  ]
+}

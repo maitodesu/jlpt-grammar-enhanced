@@ -1,0 +1,59 @@
+This repository contains material under two different licences.
+
+
+1. BOOK CONTENT  --  src/**, docs/STYLE.md
+-------------------------------------------------------------------------------
+Copyright (c) 2026 JLPT Grammar Enhanced contributors.
+
+Licensed under the Creative Commons Attribution-ShareAlike 4.0 International
+License (CC BY-SA 4.0).
+
+    https://creativecommons.org/licenses/by-sa/4.0/
+
+You may share and adapt this material, including commercially, provided you give
+appropriate credit, link to the licence, indicate if changes were made, and
+distribute any derivative under the same licence.
+
+All explanations, example sentences, translations and practice questions in src/
+are original work written for this book.
+
+
+2. REUSED THEME AND SEARCH ASSETS  --  style/, js/, scripts/preprocess-furigana.py
+-------------------------------------------------------------------------------
+Adapted from yokubi-enhanced (https://github.com/maitodesu/yokubi-enhanced),
+used under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0). Full licence text in LICENSE-yokubi-CC-BY-4.0.
+
+Changes made: custom.css extended with .rule and .note callout styles and CJK
+table line-height adjustments; the remainder is used as published.
+
+
+3. TOOLING  --  scripts/* (except preprocess-furigana.py), .github/
+-------------------------------------------------------------------------------
+Licensed under the MIT License.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+ATTRIBUTION FOR SCOPE
+-------------------------------------------------------------------------------
+The grammar-point inventory this book covers -- which patterns, at which JLPT
+level -- follows the list published at https://jlptgrammarlist.neocities.org/.
+That site supplied the syllabus only. No text, example sentence or translation
+from it appears in this book. It is unaffiliated with this project and has not
+reviewed or endorsed it.
