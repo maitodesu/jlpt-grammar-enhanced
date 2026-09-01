@@ -22,6 +22,8 @@ LEVELS = [
     ("n5", "N5 - Beginner"),
     ("n4", "N4 - Upper Beginner"),
     ("n3", "N3 - Intermediate"),
+    ("n2", "N2 - Upper Intermediate"),
+    ("n1", "N1 - Advanced"),
 ]
 
 SMALL_KANA = str.maketrans("ぁぃぅぇぉっゃゅょゎ", "あいうえおつやゆよわ")
@@ -53,7 +55,7 @@ def title_of(item):
         m = re.match(r"#\s+(.+)", p.read_text(encoding="utf-8").lstrip())
         if m:
             return FURI.sub(BASE, m.group(1).strip())
-    if item["sense"]:
+    if item.get("sense"):
         return f"{item['term']} - {item['gloss']}"
     return item["term"]
 

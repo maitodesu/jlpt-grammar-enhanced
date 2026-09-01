@@ -24,8 +24,8 @@ RAW = Path("docs/syllabus.json")
 OVERLAY = Path("docs/overlay.json")
 OUT = Path("docs/book-syllabus.json")
 
-# Levels this book covers. N2/N1 stay in the raw scope file but are not built.
-LEVELS = ("n5", "n4", "n3")
+# Levels this book covers.
+LEVELS = ("n5", "n4", "n3", "n2", "n1")
 
 
 def slugify(term, sense=None):
@@ -41,8 +41,13 @@ def slugify(term, sense=None):
     return f"{s}-{sense}" if sense else s
 
 
-def key(term, sense=None):
-    return f"{term}#{sense}" if sense else term
+def key(term, sense=None, level=None):
+    """Pool key. The level MUST be part of it: four headwords appear at two
+    levels each (くらい/ぐらい, こと, ということ, という), and keying on term
+    alone made the later level silently overwrite the earlier one -- dropping
+    four real pages out of the book without any error."""
+    base = f"{term}#{sense}" if sense else term
+    return f"{level}:{base}" if level else base
 
 
 def load():
@@ -61,18 +66,31 @@ def build(raw, overlay):
     for level in raw:
         for item in raw[level]:
             item = dict(item, level=level, origin="source")
-            pool[key(item["term"], item["sense"])] = item
+            pool[key(item["term"], item["sense"], level)] = item
+
+    def find(k):
+        """Overlay operations name a bare term (optionally 'n3:term' to
+        disambiguate). Resolve to the matching pool keys."""
+        if ":" in k and k.split(":", 1)[0] in raw:
+            return [k] if k in pool else []
+        return [pk for pk in pool if pk.split(":", 1)[1] == k]
 
     def take(k, what):
-        if k not in pool:
+        hits = find(k)
+        if not hits:
             problems.append(f"{what}: no source entry {k!r}")
             return None
-        return pool[k]
+        if len(hits) > 1:
+            problems.append(f"{what}: {k!r} is ambiguous across levels {sorted(h.split(':')[0] for h in hits)}"
+                            f" -- qualify it as 'n3:{k}'")
+            return None
+        return pool[hits[0]]
 
     # --- drop: entries we decided not to write a page for --------------------
     for k in overlay.get("drop", []):
         if take(k, "drop"):
-            pool.pop(k)
+            for pk in find(k):
+                pool.pop(pk)
 
     # --- relabel: fix a wrong or misleading gloss ----------------------------
     for k, fix in overlay.get("relabel", {}).items():
@@ -97,12 +115,13 @@ def build(raw, overlay):
         if not parts:
             continue
         for p in parts:
-            pool.pop(key(p["term"], p["sense"]), None)
-        pool[key(spec["term"])] = {
+            pool.pop(key(p["term"], p["sense"], p["level"]), None)
+        merged_level = spec.get("level", parts[0]["level"])
+        pool[key(spec["term"], None, merged_level)] = {
             "term": spec["term"],
             "sense": None,
             "gloss": spec["gloss"],
-            "level": spec.get("level", parts[0]["level"]),
+            "level": merged_level,
             "origin": "merged",
             "merged_from": [p["term"] + (f" {p['sense']}" if p["sense"] else "")
                             for p in parts],
@@ -114,13 +133,15 @@ def build(raw, overlay):
         item = take(spec["from"], "split")
         if not item:
             continue
-        pool.pop(spec["from"])
+        for pk in find(spec["from"]):
+            pool.pop(pk)
         for part in spec["into"]:
-            pool[key(part["term"])] = {
+            part_level = part.get("level", item["level"])
+            pool[key(part["term"], None, part_level)] = {
                 "term": part["term"],
                 "sense": None,
                 "gloss": part["gloss"],
-                "level": part.get("level", item["level"]),
+                "level": part_level,
                 "origin": "split",
                 "split_from": item["term"],
                 "editorial": spec.get("why", ""),
@@ -129,7 +150,7 @@ def build(raw, overlay):
     # --- add: patterns the source omits entirely ----------------------------
     for level, items in overlay.get("add", {}).items():
         for entry in items:
-            k = key(entry["term"])
+            k = key(entry["term"], None, level)
             if k in pool:
                 problems.append(f"add: {entry['term']!r} already present, skipped")
                 continue
@@ -144,9 +165,14 @@ def build(raw, overlay):
 
     # --- kind: which template a page uses -----------------------------------
     adverbs = set(overlay.get("adverbs", []))
+    # Patterns archaic or register-marked enough that a learner should be told
+    # to recognise them and not produce them. Mostly N1 literary forms.
+    warn = set(overlay.get("warn", []))
     for k, item in pool.items():
         item["kind"] = "adverb" if item["term"] in adverbs else "grammar"
         item["topic_page"] = not item["gloss"]
+        if item["term"] in warn:
+            item["recognise_only"] = True
 
     # --- pedagogical order --------------------------------------------------
     # Groups are taught in the order listed; within a group, source (kana) order

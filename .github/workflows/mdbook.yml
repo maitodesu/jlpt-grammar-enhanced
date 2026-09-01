@@ -49,7 +49,9 @@ jobs:
         run: |
           mdbook build 2>build.log || exit 1
           cat build.log
-          if grep -q '^ *WARN' build.log; then
+          # "search index is very large" is a book-size notice, not a page
+          # defect -- it fires on every build of a book this size.
+          if grep '^ *WARN' build.log | grep -qv 'search index is very large'; then
             echo "::error::mdbook emitted warnings (see above)"
             exit 1
           fi

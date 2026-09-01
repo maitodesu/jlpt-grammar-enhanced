@@ -52,8 +52,19 @@ CODE = re.compile(r"<code>.*?</code>|`+[^`]*`+", re.S)
 # checks cannot catch these, so known offenders are listed explicitly.
 # 来る is カ変: 仮定形 is くれ (来れば = くれば). こ- is the 未然形 -- 来ない, 来よう,
 # 来られる -- and the ら抜き potential 来れる, both of which are correct.
+# Scripts that have no business in a Japanese grammar book. A single Hangul or
+# Cyrillic character swapped into a word is invisible to every other check here:
+# the furigana group stays well-formed and the kanji regex does not match it.
+FOREIGN = re.compile("[ᄀ-ᇿ㄰-㆏가-힯"   # Hangul
+                     "Ѐ-ӿͰ-Ͽ"                    # Cyrillic, Greek
+                     "฀-๿؀-ۿ]")                  # Thai, Arabic
+
 KNOWN_BAD = {
     "{f|来|こ}れば": "来れば is くれば (仮定形 くれ); こ- is the 未然形",
+    "{f|来|こ}る": "来る is always くる; こ- appears only in 来ない/来よう/来られる/来れる",
+    "{f|予定|よてい}{f|通|とお}り": "予定通り is よていどおり -- rendaku after a noun",
+    "{f|予想|よそう}{f|通|とお}り": "予想通り is よそうどおり -- rendaku after a noun",
+    "{f|期待|きたい}{f|通|とお}り": "期待通り is きたいどおり -- rendaku after a noun",
 }
 
 
@@ -160,6 +171,11 @@ def check(path, seen_examples, kind="grammar"):
         if bad in text:
             errs.append(f"known-wrong reading {bad}: {why}")
 
+    foreign = sorted(set(FOREIGN.findall(text)))
+    if foreign:
+        errs.append("non-Japanese script character(s): "
+                    + " ".join(f"{c!r} U+{ord(c):04X}" for c in foreign[:6]))
+
     if "【" in text:
         errs.append("literal 【...】 reading in body -- use furigana")
 
@@ -192,9 +208,18 @@ def main():
     kinds = {Path(i["path"]).name: i.get("kind", "grammar")
              for lvl in syllabus.values() for i in lvl}
 
+    # Order by level, not alphabetically. A duplicate is blamed on whichever
+    # page is visited second, so earlier levels must register their examples
+    # first -- otherwise a finished level gets flagged for a collision that a
+    # later level introduced, and nobody is still working on it to fix.
+    LEVEL_ORDER = {"n5": 0, "n4": 1, "n3": 2, "n2": 3, "n1": 4}
+
+    def order(p):
+        return (LEVEL_ORDER.get(p.parent.name, 9), p.name)
+
     seen_examples = {}
     failures = collections.OrderedDict()
-    for page in sorted(pages):
+    for page in sorted(pages, key=order):
         errs = check(page, seen_examples, kinds.get(page.name, "grammar"))
         if errs:
             failures[page] = errs

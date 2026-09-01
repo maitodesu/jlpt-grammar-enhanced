@@ -30,17 +30,28 @@
     "か何か": "n3",
     "を通じて / を通して": "n3",
     "をこめて": "n3",
-    "ことになっている": "n3"
+    "ことになっている": "n3",
+    "てまで": "n2",
+    "として○○ない": "n2",
+    "もので": "n2",
+    "ことだし": "n2",
+    "はさておき": "n2",
+    "というか○○というか": "n2",
+    "というわけではない": "n2",
+    "てかなわない": "n2",
+    "ずじまい": "n2",
+    "ではあるまいか": "n2",
+    "ないものか": "n2",
+    "(よ)うものなら": "n2",
+    "くらいなら": "n2",
+    "に値する": "n2",
+    "いまだに": "n2",
+    "何しろ": "n2"
   },
   "relabel": {
     "ことに": {
       "gloss": "to my surprise / delight (speaker's reaction to what follows)",
       "why": "Source glossed this '-ly', which describes the unrelated adverbial 〜ことに. The pattern is 〜ことに(は) and mainstream references place it at N2, but it is kept at N3 here since the surrounding cluster is taught at N3."
-    },
-    "ということ": {
-      "term": "ということだ / とのことだ",
-      "gloss": "I hear that; word is that (reported information)",
-      "why": "The N3 entry duplicated the N4 nominaliser ということ. The genuine N3 point is the hearsay form, which is what the source's own gloss describes."
     },
     "が#1": {
       "gloss": "marks the subject; singles out which one",
@@ -49,6 +60,92 @@
     "しか○○ない": {
       "gloss": "only; nothing but (with material between しか and ない)",
       "why": "Disambiguated from N3 しかない 'have no choice but', which is a different pattern."
+    },
+    "ら見ると": {
+      "term": "から見ると",
+      "gloss": "judging from; seen from the standpoint of",
+      "why": "The source's own term string is truncated -- it lists 'ら見ると', which is not a Japanese construction. The pattern is から見ると."
+    },
+    "ばかり#2": {
+      "gloss": "about; approximately (after a quantity)",
+      "why": "Disambiguated from the N4 ばかり 'only; nothing but'. Same form, unrelated use: 三日ばかり vs 読んでばかりいる."
+    },
+    "以上#1": {
+      "gloss": "or more; upwards of (after a quantity)",
+      "why": "Disambiguated from 以上 sense 2, the reason marker. Same form, unrelated uses; both pages sit together so the split is visible."
+    },
+    "以上#2": {
+      "gloss": "now that; given that (reason -- once X is the case, naturally Y)",
+      "why": "The major N2 point of the two; drives the page's placement beside からには and 上は."
+    },
+    "ものか": {
+      "gloss": "like hell I will; there's no way (rhetorical refusal)",
+      "why": "source gloss described a different pattern or was too thin to disambiguate"
+    },
+    "気": {
+      "gloss": "気がする・気になる - feel that; come to be bothered by",
+      "why": "source gloss described a different pattern or was too thin to disambiguate"
+    },
+    "中を": {
+      "gloss": "through or across a setting or condition (雨の中を)",
+      "why": "source gloss described a different pattern or was too thin to disambiguate"
+    },
+    "上": {
+      "gloss": "in terms of; as far as ~ is concerned (法律上, 仕事上)",
+      "why": "source gloss described a different pattern or was too thin to disambiguate"
+    },
+    "だけは": {
+      "gloss": "〜だけは〜た - did at least the ~ part (やるだけはやった)",
+      "why": "source gloss described a different pattern or was too thin to disambiguate"
+    },
+    "限り": {
+      "gloss": "as long as; while ~ holds - and ない限り 'unless'",
+      "why": "source gloss described a different pattern or was too thin to disambiguate"
+    },
+    "かのよう": {
+      "gloss": "as if; just like (かのようだ・かのように)",
+      "why": "source gloss described a different pattern or was too thin to disambiguate"
+    },
+    "ままに": {
+      "gloss": "just as ~ dictates; letting oneself be carried (言われるままに)",
+      "why": "source gloss described a different pattern or was too thin to disambiguate"
+    },
+    "というもの": {
+      "gloss": "for a whole ~ now (この一年というもの)",
+      "why": "source gloss described a different pattern or was too thin to disambiguate"
+    },
+    "ところがある": {
+      "gloss": "has a ~ side to them",
+      "why": "source gloss described a different pattern or was too thin to disambiguate"
+    },
+    "思いをする": {
+      "gloss": "have a ~ experience (いやな思いをする)",
+      "why": "source gloss described a different pattern or was too thin to disambiguate"
+    },
+    "ひとつ": {
+      "gloss": "ひとつ〜てみる - go on, give it a try",
+      "why": "source gloss described a different pattern or was too thin to disambiguate"
+    },
+    "場合によっては": {
+      "gloss": "depending on the case; in some cases",
+      "why": "source gloss described a different pattern or was too thin to disambiguate"
+    },
+    "可能性がある": {
+      "gloss": "there is a possibility that",
+      "why": "source gloss described a different pattern or was too thin to disambiguate"
+    },
+    "にあたらない": {
+      "gloss": "no need to ~; not worth ~ (also には当たらない)",
+      "why": "source gloss described a different pattern or was too thin to disambiguate"
+    },
+    "を限りに": {
+      "gloss": "as of ~; with ~ as the last time (本日を限りに閉店)",
+      "why": "Source gloss 'starting from' reads the pattern backwards. It marks a terminal boundary -- the final occasion -- and the new state follows only by implication."
+    },
+    "n3:ということ": {
+      "term": "ということだ / とのことだ",
+      "gloss": "I hear that; word is that (reported information)",
+      "why": "The N3 entry duplicated the N4 nominaliser ということ. The genuine N3 point is the hearsay form, which is what the source's own gloss describes."
     }
   },
   "merge": [
@@ -355,6 +452,400 @@
         "term": "込む・合う・直す・慣れる",
         "gloss": "compound verb suffixes"
       }
+    ],
+    "n2": [
+      {
+        "term": "ばかりか",
+        "gloss": "not only ~, but also (and unexpectedly)",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "にかけては",
+        "gloss": "when it comes to ~, nobody does it better",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "ないわけにはいかない",
+        "gloss": "can't not do it (social or moral obligation)",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "限りでは",
+        "gloss": "as far as (I know, can see, have heard)",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "たいものだ・てほしいものだ",
+        "gloss": "I do wish ~ (general longing, not a request)",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "ならまだしも・はまだしも",
+        "gloss": "if it were A, fine - but B",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "そこで",
+        "gloss": "and so; that is why",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "ただし",
+        "gloss": "provided that; with the proviso that (formal)",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "さて",
+        "gloss": "now then; well (shifting topic in writing)",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "だが",
+        "gloss": "but; however (written, formal)",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "すると",
+        "gloss": "thereupon; and then (the result observed)",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "となると・となれば",
+        "gloss": "when it comes to ~; if it comes to that",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "ぬ・〜ん",
+        "gloss": "the classical negative (知らぬ, 見ぬふり, 〜ねば)",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "ては○○ては",
+        "gloss": "doing A then B, over and over",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "のみ",
+        "gloss": "only (formal, written)",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "のではないだろうか",
+        "gloss": "isn't it the case that ~ (hedged assertion)",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "ならともかく",
+        "gloss": "putting A aside, B is another matter",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "傾向がある",
+        "gloss": "there is a tendency to",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "くせして",
+        "gloss": "even though (colloquial variant of くせに)",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "である・のである",
+        "gloss": "the written-style copula, and its explanatory form",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "せっかく",
+        "gloss": "after going to the trouble of ~",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "せいか",
+        "gloss": "perhaps because",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "一応",
+        "gloss": "for now, tentatively / just to be safe",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "一旦",
+        "gloss": "once ~ happens, then",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "いつの間にか",
+        "gloss": "before one knew it",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "万が一",
+        "gloss": "in the unlikely event that",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "および・ならびに",
+        "gloss": "and; as well as (formal enumeration)",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "ちなみに",
+        "gloss": "incidentally; for reference",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "しかしながら",
+        "gloss": "however (formal written)",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "少なくとも",
+        "gloss": "at least",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "たった(の)",
+        "gloss": "only; a mere",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "次第に",
+        "gloss": "gradually",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "さすが",
+        "gloss": "as one would expect (さすが〜だけあって)",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "まさか",
+        "gloss": "surely not ~ (with まい or ないだろう)",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "たちまち",
+        "gloss": "in an instant",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "よほど・よっぽど",
+        "gloss": "considerably; ~ must really be",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "一気に",
+        "gloss": "in one go, without stopping",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "何より",
+        "gloss": "above all; nothing better than",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      }
+    ],
+    "n1": [
+      {
+        "term": "たる・たるもの",
+        "gloss": "one who is a ~, and what that obliges",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "を境に",
+        "gloss": "with ~ as the turning point",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "に限ったことではない",
+        "gloss": "not limited to this case",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "こそあれ",
+        "gloss": "there is A, if anything",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "こそすれ○○ない",
+        "gloss": "there is only A - certainly never B",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "ともあろうものが",
+        "gloss": "someone of all people, who should know better",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "並み",
+        "gloss": "on a par with; ~-grade",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "とは比べものにならない",
+        "gloss": "no comparison with",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "を前提に",
+        "gloss": "on the premise that",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "ところを",
+        "gloss": "at a moment when (お忙しいところを)",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "に至る・に至った",
+        "gloss": "to reach the point of; to culminate in",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "に至っても",
+        "gloss": "even after it has come to ~",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "自発の(ら)れる",
+        "gloss": "comes to feel or seem of itself (思われる, 感じられる)",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "とも○○とも",
+        "gloss": "can't say either way (〜とも言えない)",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "言わずもがな",
+        "gloss": "needless to say; better left unsaid",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "のやら○○のやら",
+        "gloss": "whether A or B - who knows",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "たら○○たで・なら○○で",
+        "gloss": "if it's A, then A brings its own trouble",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "にかこつけて",
+        "gloss": "using ~ as a pretext",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "わ○○わ(で)",
+        "gloss": "~ and ~ and (troubles piling up)",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "も同然だ",
+        "gloss": "as good as; practically",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "に忍びない",
+        "gloss": "can't bring oneself to",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "とみえる・とみえて",
+        "gloss": "it seems, judging from what one sees",
+        "why": "absent from source list; confirmed in published textbook series"
+      },
+      {
+        "term": "べくして",
+        "gloss": "happened as it was bound to",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "にかまけて",
+        "gloss": "too taken up with ~ to do anything else",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "を控えて",
+        "gloss": "with ~ close ahead",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "を余儀なくさせる",
+        "gloss": "to force ~ upon someone",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "以前",
+        "gloss": "before ~ even comes into it (〜する以前に)",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "との",
+        "gloss": "quotative before a noun (〜との報告, 〜との声)",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "に恥じない",
+        "gloss": "worthy of the name",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "がましい",
+        "gloss": "smacking of; ~-ish (押しつけがましい)",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "そびれる",
+        "gloss": "miss the chance to",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "損なう・損ねる",
+        "gloss": "fail to; do amiss",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "尽くす",
+        "gloss": "do ~ exhaustively",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "放題",
+        "gloss": "as much as one likes; left unchecked",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "まくる",
+        "gloss": "do ~ like crazy (colloquial)",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "うちに入らない",
+        "gloss": "doesn't count as",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "ことこの上ない・この上ない",
+        "gloss": "utterly; in the extreme",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "としたことが",
+        "gloss": "(of me) of all people",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "たはいいが",
+        "gloss": "did it, all well and good, but",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      },
+      {
+        "term": "ぞ・ぜ・わ",
+        "gloss": "emphatic and gender-marked sentence-final particles",
+        "why": "common in real Japanese; listed by Bunpro/JLPT Sensei but not by the textbook series"
+      }
     ]
   },
   "adverbs": [
@@ -375,7 +866,96 @@
     "もしかしたら",
     "ところで",
     "だけど",
-    "ふと"
+    "ふと",
+    "いきなり",
+    "いよいよ",
+    "いわゆる",
+    "かえって",
+    "さらに",
+    "せいぜい",
+    "せめて",
+    "とっくに",
+    "どうせ",
+    "どうやら",
+    "ふたたび",
+    "むしろ",
+    "もう少しで",
+    "やがて",
+    "わずかに",
+    "直ちに",
+    "果たして",
+    "逆に",
+    "要するに",
+    "幸い",
+    "あるいは",
+    "おまけに",
+    "しかも",
+    "したがって",
+    "すなわち",
+    "そういえば",
+    "そうすると",
+    "その上",
+    "それとも",
+    "それなのに",
+    "それなら",
+    "それにしても",
+    "なお",
+    "もっとも",
+    "だって",
+    "気",
+    "中を",
+    "いまだに",
+    "何しろ",
+    "あえて",
+    "あくまでも",
+    "あらかじめ",
+    "いかに",
+    "いかにも",
+    "いかなる",
+    "およそ",
+    "かつて",
+    "ことごとく",
+    "さぞ",
+    "さも",
+    "それなりに",
+    "てっきり",
+    "とっさに",
+    "とりわけ",
+    "まるっきり",
+    "もはや",
+    "ひとつ",
+    "極めて",
+    "案の定",
+    "いずれにせよ",
+    "さもないと",
+    "もしくは",
+    "ゆえに",
+    "とはいえ",
+    "とはいうものの",
+    "というか",
+    "可能性がある",
+    "思いをする",
+    "場合によっては",
+    "ところがある",
+    "せっかく",
+    "せいか",
+    "一応",
+    "一旦",
+    "いつの間にか",
+    "万が一",
+    "および・ならびに",
+    "ちなみに",
+    "しかしながら",
+    "少なくとも",
+    "たった(の)",
+    "次第に",
+    "さすが",
+    "まさか",
+    "たちまち",
+    "よほど・よっぽど",
+    "一気に",
+    "何より",
+    "ぞ・ぜ・わ"
   ],
   "order": {
     "n5": [
@@ -705,6 +1285,8 @@
       {
         "title": "Turning words into other words",
         "terms": [
+          "こと",
+          "ということ",
           "やすい",
           "にくい",
           "さ",
@@ -849,6 +1431,7 @@
       {
         "title": "Putting it another way, and adding on",
         "terms": [
+          "という",
           "というのは",
           "というと",
           "というより",
@@ -961,6 +1544,743 @@
           "させてもらう・ていただく"
         ]
       }
+    ],
+    "n2": [
+      {
+        "title": "Adding on, listing, and alternatives",
+        "terms": [
+          "その上",
+          "上に",
+          "に加えて",
+          "しかも",
+          "おまけに",
+          "さらに",
+          "のみならず",
+          "はもとより",
+          "以上に",
+          "も○○ば○○も",
+          "やら○○やら",
+          "といった",
+          "あるいは",
+          "それとも",
+          "ばかりか"
+        ]
+      },
+      {
+        "title": "Describing how, and putting it another way",
+        "terms": [
+          "ということは",
+          "すなわち",
+          "要するに",
+          "いわゆる",
+          "というものだ",
+          "ふうに",
+          "というふうに",
+          "かのよう",
+          "げ",
+          "なお",
+          "そういえば",
+          "というか○○というか",
+          "である・のである"
+        ]
+      },
+      {
+        "title": "When things happen, and how soon after",
+        "terms": [
+          "て以来",
+          "と同時に",
+          "次第",
+          "か○○ないかのうちに",
+          "かと思ったら / かと思うと",
+          "ところに / ところへ",
+          "ところだった",
+          "もう少しで",
+          "つつある",
+          "たあげく",
+          "た末 / の末",
+          "にわたって",
+          "中を"
+        ]
+      },
+      {
+        "title": "Occasions and turning points",
+        "terms": [
+          "にあたり",
+          "に際して",
+          "に先立ち",
+          "に伴って",
+          "をきっかけに",
+          "を契機に",
+          "のもとで",
+          "にて"
+        ]
+      },
+      {
+        "title": "Reasons, and why it's only natural",
+        "terms": [
+          "ものだから",
+          "ことだから",
+          "からこそ",
+          "てこそ",
+          "だけに",
+          "だけあって",
+          "だけのことはある",
+          "のも当然だ",
+          "のももっともだ",
+          "て当然だ",
+          "からには",
+          "上は",
+          "以上",
+          "につき",
+          "手前",
+          "もので",
+          "ことだし"
+        ]
+      },
+      {
+        "title": "Even so: concession and contrast",
+        "terms": [
+          "ものの",
+          "ことは○○が",
+          "つつ",
+          "たって",
+          "としても",
+          "とも",
+          "にしろ / にせよ",
+          "にしても○○にしても",
+          "にしろ○○にしろ",
+          "につけ",
+          "にもかかわらず",
+          "反面",
+          "に反して",
+          "てまで",
+          "くせして"
+        ]
+      },
+      {
+        "title": "Regardless of, apart from, and except",
+        "terms": [
+          "にかかわらず",
+          "にかかわる",
+          "を問わず",
+          "もかまわず",
+          "はともかく",
+          "は別として",
+          "を除いて",
+          "ならまだしも・はまだしも",
+          "はさておき",
+          "ならともかく"
+        ]
+      },
+      {
+        "title": "Turning the sentence around: even so, on the contrary",
+        "terms": [
+          "それなのに",
+          "それにしても",
+          "もっとも",
+          "かえって",
+          "逆に",
+          "むしろ",
+          "したがって",
+          "そうすると",
+          "それなら",
+          "そこで",
+          "ただし",
+          "さて",
+          "だが",
+          "すると"
+        ]
+      },
+      {
+        "title": "If you keep doing that: conditions and what follows",
+        "terms": [
+          "ては",
+          "ていては",
+          "ようでは",
+          "ものなら",
+          "ないことには○○ない",
+          "てでも",
+          "つもりで",
+          "には",
+          "てはならない",
+          "となると・となれば",
+          "(よ)うものなら",
+          "くらいなら",
+          "ては○○ては"
+        ]
+      },
+      {
+        "title": "Can't help it, can't afford it",
+        "terms": [
+          "てはいられない",
+          "てばかりはいられない",
+          "どころではない",
+          "ないではいられない",
+          "てしょうがない",
+          "てたまらない",
+          "てならない",
+          "たいものだ・てほしいものだ",
+          "てかなわない",
+          "ずじまい"
+        ]
+      },
+      {
+        "title": "Not at all, and not necessarily",
+        "terms": [
+          "ちっとも○○ない",
+          "まったく○○ない",
+          "少しも○○ない",
+          "ろくに○○ない",
+          "なにも○○ない",
+          "なくはない",
+          "からといって",
+          "ことにはならない",
+          "というものでもない",
+          "っこない",
+          "ものではない",
+          "として○○ない",
+          "というわけではない",
+          "ぬ・〜ん"
+        ]
+      },
+      {
+        "title": "Only, merely, and nothing more",
+        "terms": [
+          "に限る",
+          "に限って",
+          "に限らず",
+          "限り",
+          "だけは",
+          "だけましだ",
+          "に越したことはない",
+          "に過ぎない",
+          "でしかない",
+          "にほかならない",
+          "のみ"
+        ]
+      },
+      {
+        "title": "How certain are you",
+        "terms": [
+          "に決まっている",
+          "に相違ない",
+          "と考えられる",
+          "どうやら",
+          "かねない",
+          "恐れがある",
+          "そうにない",
+          "ものがある",
+          "ではあるまいか",
+          "ないものか",
+          "のではないだろうか"
+        ]
+      },
+      {
+        "title": "From whose point of view, and judging from what",
+        "terms": [
+          "からして",
+          "からすると / からすれば",
+          "から言うと",
+          "から見ると",
+          "ところを見ると",
+          "にしたら",
+          "としては",
+          "上",
+          "にかけては",
+          "限りでは",
+          "に値する",
+          "傾向がある"
+        ]
+      },
+      {
+        "title": "Can, can't, and having no choice",
+        "terms": [
+          "える / うる",
+          "えない",
+          "かねる",
+          "ざるを得ない",
+          "よりほかない",
+          "ねばならない",
+          "まい",
+          "ずに済む",
+          "ことなく",
+          "抜く",
+          "かいがある",
+          "気",
+          "ないわけにはいかない"
+        ]
+      },
+      {
+        "title": "Based on, depending on, and in accordance with",
+        "terms": [
+          "に基づいて",
+          "をもとに",
+          "に沿って",
+          "に応じて",
+          "に応えて",
+          "次第だ / 次第で",
+          "を○○として",
+          "をめぐって",
+          "に向かって",
+          "抜きで / 抜きにして"
+        ]
+      },
+      {
+        "title": "Speaking directly to people",
+        "terms": [
+          "ではないか",
+          "お○○願う",
+          "たまえ",
+          "だって",
+          "んだって",
+          "とか",
+          "ものか"
+        ]
+      },
+      {
+        "title": "Useful adverbs",
+        "terms": [
+          "いきなり",
+          "いよいよ",
+          "やがて",
+          "とっくに",
+          "ふたたび",
+          "直ちに",
+          "どうせ",
+          "果たして",
+          "幸い",
+          "せいぜい",
+          "せめて",
+          "わずかに",
+          "ばかり",
+          "いまだに",
+          "何しろ",
+          "せっかく",
+          "せいか",
+          "一応",
+          "一旦",
+          "いつの間にか",
+          "万が一",
+          "および・ならびに",
+          "ちなみに",
+          "しかしながら",
+          "少なくとも",
+          "たった(の)",
+          "次第に",
+          "さすが",
+          "まさか",
+          "たちまち",
+          "よほど・よっぽど",
+          "一気に",
+          "何より"
+        ]
+      }
+    ],
+    "n1": [
+      {
+        "title": "The moment something happens",
+        "terms": [
+          "なり",
+          "や否や",
+          "が早いか",
+          "そばから",
+          "た瞬間に",
+          "た拍子に",
+          "とみるや",
+          "が最後",
+          "と思いきや",
+          "てからというもの",
+          "を境に",
+          "を控えて"
+        ]
+      },
+      {
+        "title": "Occasions, periods, and doing two things at once",
+        "terms": [
+          "というもの",
+          "にあって",
+          "折に",
+          "を経て",
+          "に至るまで",
+          "を機に",
+          "を皮切りに",
+          "に先駆けて",
+          "を限りに",
+          "かたわら",
+          "かたがた",
+          "がてら",
+          "を兼ねて",
+          "つ○○つ",
+          "と相まって",
+          "ままに",
+          "ところを",
+          "以前"
+        ]
+      },
+      {
+        "title": "Reasons and grounds",
+        "terms": [
+          "とあって",
+          "ときている",
+          "ところから",
+          "こととて",
+          "ゆえに",
+          "ばこそ",
+          "にかこつけて",
+          "にかまけて"
+        ]
+      },
+      {
+        "title": "How it ends up, and what has to follow",
+        "terms": [
+          "を余儀なくされる",
+          "羽目になる",
+          "始末だ",
+          "ではすまない",
+          "ないではすまない / ずにはすまない",
+          "ないではおかない / ずにはおかない",
+          "てしかるべきだ",
+          "ばそれまでだ",
+          "ことのないよう",
+          "に至る・に至った",
+          "に至っても",
+          "を余儀なくさせる"
+        ]
+      },
+      {
+        "title": "Conditions, and what they depend on",
+        "terms": [
+          "とあれば",
+          "ともなると / ともなれば",
+          "さもないと",
+          "ほうがましだ",
+          "いかんでは / いかんによっては",
+          "いかんによらず",
+          "によらず",
+          "ようによっては",
+          "場合によっては",
+          "たら○○たで・なら○○で"
+        ]
+      },
+      {
+        "title": "Without it, it can't be done",
+        "terms": [
+          "にかかっている",
+          "あっての",
+          "なくして",
+          "なしに",
+          "ことなしに",
+          "もしないで",
+          "ともなく",
+          "(よ)うにも○○ない",
+          "とても○○ない",
+          "どうにも○○ない",
+          "やしない",
+          "でも何でもない",
+          "そうにもない",
+          "てもどうにもならない",
+          "ても始まらない"
+        ]
+      },
+      {
+        "title": "No matter what: concession",
+        "terms": [
+          "(よ)うが / (よ)うと",
+          "(よ)うが○○まいが / (よ)うと○○まいと",
+          "であれ / であろうと",
+          "であれ○○であれ",
+          "いかなる",
+          "いかに",
+          "といえども",
+          "とて",
+          "たところで",
+          "としたって / としたところで",
+          "にしたって",
+          "ないまでも",
+          "ずとも"
+        ]
+      },
+      {
+        "title": "Having said that, and in spite of it",
+        "terms": [
+          "とはいえ",
+          "とはいうものの",
+          "かいもなく",
+          "ものを",
+          "をよそに",
+          "をものともせず",
+          "も顧みず / を顧みず",
+          "にひきかえ",
+          "こそあれ",
+          "こそすれ○○ない",
+          "たはいいが"
+        ]
+      },
+      {
+        "title": "Listing, alternatives, and not only that",
+        "terms": [
+          "といい○○といい",
+          "だの○○だの",
+          "なり○○なり",
+          "なりとも",
+          "もしくは",
+          "かれ○○かれ",
+          "か否か",
+          "のみか",
+          "にとどまらず",
+          "はおろか",
+          "もさることながら",
+          "といわず",
+          "にもまして",
+          "からある",
+          "わ○○わ(で)"
+        ]
+      },
+      {
+        "title": "Picking out a topic, and putting it another way",
+        "terms": [
+          "とは",
+          "ときたら",
+          "ってば",
+          "に至っては",
+          "に言わせれば",
+          "ならいざしらず",
+          "というか",
+          "というわけだ",
+          "というところだ / といったところだ",
+          "との"
+        ]
+      },
+      {
+        "title": "Only, even, and not even one",
+        "terms": [
+          "(で)すら",
+          "だに",
+          "たりとも",
+          "という",
+          "ほかに○○ない",
+          "ただ○○のみだ",
+          "までだ",
+          "くらいのものだ",
+          "にして",
+          "をおいて",
+          "ならでは",
+          "きっての",
+          "に限ったことではない",
+          "うちに入らない"
+        ]
+      },
+      {
+        "title": "No need, not worth, and going too far",
+        "terms": [
+          "に足る / に足りる",
+          "に足りない",
+          "にたえる / にたえない",
+          "にかたくない",
+          "にあたらない",
+          "には及ばない",
+          "までもない",
+          "ほどのことはない",
+          "ても差し支えない",
+          "にもほどがある",
+          "に忍びない",
+          "そびれる",
+          "損なう・損ねる"
+        ]
+      },
+      {
+        "title": "Guessing, assuming, and how it's regarded",
+        "terms": [
+          "とされる",
+          "とみられる",
+          "ものと思われる",
+          "ものとして",
+          "可能性がある",
+          "ないとも限らない",
+          "ないものでもない",
+          "(よ)うか○○まいか",
+          "ではあるまいし",
+          "自発の(ら)れる",
+          "とも○○とも",
+          "のやら○○のやら",
+          "とみえる・とみえて"
+        ]
+      },
+      {
+        "title": "To the utmost: extremes and strong feeling",
+        "terms": [
+          "極まる / 極まりない",
+          "の極み",
+          "の至り",
+          "限りだ",
+          "といったらない",
+          "のなんのって",
+          "を禁じえない",
+          "思いをする",
+          "でなくてなんだろう",
+          "てやまない",
+          "てみせる",
+          "ともあろうものが",
+          "とは比べものにならない",
+          "尽くす",
+          "まくる",
+          "ことこの上ない・この上ない",
+          "としたことが"
+        ]
+      },
+      {
+        "title": "Describing what something is like",
+        "terms": [
+          "びる",
+          "ぶる",
+          "ぶり",
+          "めく",
+          "じみた",
+          "まみれ",
+          "ずくめ",
+          "ぐるみ",
+          "ながらに / ながらの",
+          "なりに / なりの",
+          "それなりに",
+          "嫌いがある",
+          "ところがある",
+          "ともすれば",
+          "きりがない",
+          "ためしがない",
+          "たる・たるもの",
+          "並み",
+          "も同然だ",
+          "に恥じない",
+          "がましい",
+          "放題"
+        ]
+      },
+      {
+        "title": "Formal ways to say based on, in line with, and by means of",
+        "terms": [
+          "に則って",
+          "に即して",
+          "に照らして",
+          "を踏まえて",
+          "をもって",
+          "にまつわる",
+          "をいいことに",
+          "を前提に"
+        ]
+      },
+      {
+        "title": "Formal and literary endings",
+        "terms": [
+          "ざる",
+          "べからず",
+          "まじき",
+          "べく",
+          "べくもない",
+          "んがため",
+          "んばかりに",
+          "とばかりに",
+          "ごとき / ごとく",
+          "べくして"
+        ]
+      },
+      {
+        "title": "Useful adverbs and connectors",
+        "terms": [
+          "極めて",
+          "とりわけ",
+          "あくまでも",
+          "ことごとく",
+          "まるっきり",
+          "およそ",
+          "さぞ",
+          "さも",
+          "いかにも",
+          "てっきり",
+          "案の定",
+          "あらかじめ",
+          "かつて",
+          "もはや",
+          "とっさに",
+          "あえて",
+          "ひとつ",
+          "いずれにせよ",
+          "言わずもがな",
+          "ぞ・ぜ・わ"
+        ]
+      }
     ]
-  }
+  },
+  "warn": [
+    "んがため",
+    "べく",
+    "べくもない",
+    "べからず・べからざる",
+    "まじき",
+    "ごとき・ごとく",
+    "ざる",
+    "だに",
+    "たりとも",
+    "なりとも",
+    "とて",
+    "こととて",
+    "かたがた",
+    "つ○○つ",
+    "かれ○○かれ",
+    "ずとも",
+    "ばこそ",
+    "ものを",
+    "でなくてなんだろう",
+    "ではあるまいし",
+    "といえども",
+    "てしかるべきだ",
+    "てやまない",
+    "ないではおかない・ずにはおかない",
+    "にかたくない",
+    "にたえる・にたえない",
+    "を禁じえない",
+    "の極み",
+    "の至り",
+    "いかんでは・いかんによっては",
+    "いかんによらず",
+    "ながらに・ながらの",
+    "なくして",
+    "ばそれまでだ",
+    "んばかりに",
+    "をものともせず",
+    "とばかりに",
+    "や否や",
+    "が早いか",
+    "そばから",
+    "かたわら",
+    "きっての",
+    "ずくめ",
+    "はおろか",
+    "をよそに",
+    "を限りに",
+    "も顧みず・を顧みず",
+    "ともすれば",
+    "ともなく",
+    "と相まって",
+    "に足る・に足りない",
+    "嫌いがある",
+    "極まる・極まりない",
+    "ってば",
+    "やしない",
+    "のなんのって",
+    "ものか",
+    "ときたら",
+    "たまえ",
+    "たる・たるもの",
+    "ともあろうものが",
+    "こそあれ",
+    "こそすれ○○ない",
+    "言わずもがな",
+    "わ○○わ(で)",
+    "べくして",
+    "がましい",
+    "としたことが",
+    "たはいいが",
+    "ことこの上ない・この上ない",
+    "放題"
+  ]
 }
