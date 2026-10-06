@@ -1,10 +1,46 @@
-@import url("https://fonts.googleapis.com/css2?family=Geist:wght@100..900&family=Geist+Mono:wght@100..900&family=Noto+Sans+JP:wght@100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&family=Noto+Sans+JP:wght@100..900&display=swap");
 
 /* ---------------------------------------------------------------------------
    Typography
-   Geist for Latin text, Noto Sans JP for Japanese. Geist ships no CJK
+   Libron for Latin text, Noto Sans JP for Japanese. Libron ships no CJK
    coverage, so the browser falls through to Noto Sans JP for kana and kanji.
+
+   Libron is a book face built for long-form reading (SIL OFL, see
+   assets/fonts/LICENSE.txt). It is self-hosted rather than fetched from a CDN;
+   the paths are relative to this stylesheet, which mdBook emits into style/.
    --------------------------------------------------------------------------- */
+
+@font-face {
+  font-family: "Libron";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../assets/fonts/Libron-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Libron";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../assets/fonts/Libron-Italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Libron";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../assets/fonts/Libron-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Libron";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../assets/fonts/Libron-BoldItalic.woff2") format("woff2");
+}
 
 :root {
   --mono-font: "Geist Mono", "Source Code Pro", Consolas, Menlo, monospace;
@@ -19,7 +55,7 @@ html:not(.js) {
 }
 
 body {
-  font-family: "Geist", "Noto Sans JP", "Open Sans", sans-serif;
+  font-family: "Libron", "Noto Sans JP", Georgia, serif;
   font-optical-sizing: auto;
 }
 
@@ -69,7 +105,7 @@ pre {
   border: 1px solid var(--quote-border);
   border-left: 3px solid var(--jp-accent);
   border-radius: 6px;
-  font-family: "Geist", "Noto Sans JP", "Open Sans", sans-serif;
+  font-family: "Libron", "Noto Sans JP", Georgia, serif;
   font-size: 1.05em;
   line-height: 1.9;
   white-space: pre-wrap;
